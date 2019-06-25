@@ -1,0 +1,473 @@
+[01-Aug-2018 16:05:51 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:05:52 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:06:04 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:07:07 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:07:20 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:07:39 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:07:47 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:07:55 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:06 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:10 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:21 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:29 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:37 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:44 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:51 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[01-Aug-2018 16:08:58 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[02-Aug-2018 08:15:49 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/omass476/public_html/siteatualstudio/novo/2.php on line 262
+[02-Aug-2018 08:16:21 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/omass476/public_html/siteatualstudio/novo/2.php on line 262
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 283
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 283
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 292
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 292
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 301
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 301
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 328
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 328
+[02-Aug-2018 08:16:56 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 338
+[02-Aug-2018 08:16:56 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 338
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 283
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 283
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 292
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 292
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 301
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 301
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 328
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 328
+[02-Aug-2018 08:17:53 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 338
+[02-Aug-2018 08:17:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 338
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:19:01 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:19:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'LEFT'. (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 262
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 264
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:20:53 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:20:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'LEFT'. (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 260
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 262
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 264
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:21:17 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:21:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 275
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 293
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 302
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 311
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:36:45 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:36:45 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_query(): message: Incorrect syntax near the keyword 'LEFT'. (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 261
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 15) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 261
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 261
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 265
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 276
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 276
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 285
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 285
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 303
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 303
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 312
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 312
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 321
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 321
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:38:03 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:38:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 277
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 277
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 286
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 286
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 295
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 295
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 304
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 304
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 313
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 313
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 322
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 322
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 331
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 331
+[02-Aug-2018 08:38:25 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 341
+[02-Aug-2018 08:38:25 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 341
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 299
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 299
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 308
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 308
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 317
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 317
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 326
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 326
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 335
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 335
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 344
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 344
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 353
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 353
+[02-Aug-2018 08:39:49 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 363
+[02-Aug-2018 08:39:49 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 363
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined property: stdClass::$next_war_time in /home/omass476/public_html/siteatualstudio/novo/2.php on line 304
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 308
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 308
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 317
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 317
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 326
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 326
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 335
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 335
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 344
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 344
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 353
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 353
+[02-Aug-2018 08:40:18 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 363
+[02-Aug-2018 08:40:18 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 363
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 309
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 309
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 319
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 329
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 339
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 349
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 349
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 359
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 359
+[02-Aug-2018 08:41:13 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 370
+[02-Aug-2018 08:41:13 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 370
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 268
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: aden_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: godad_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: schuttgart_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: innadril_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: giran_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: oren_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: rune_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:48:51 America/Chicago] PHP Notice:  Undefined variable: dion_castle in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:48:51 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 268
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:31 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:50:32 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 268
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:15 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:51:16 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:16 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:16 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:51:16 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:52:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'col' (T_STRING) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 269
+[02-Aug-2018 08:53:02 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:02 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:02 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:02 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 268
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:53:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 268
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 279
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 290
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 300
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:53 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 310
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 320
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 330
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 340
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:56:54 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 351
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 266
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 277
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 288
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 298
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:00 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 308
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 318
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 328
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 338
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): message: Invalid column name 'gludio_castle'. (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): General SQL Server error: Check messages from the SQL Server (severity 16) in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_query(): Query failed in /home/omass476/public_html/siteatualstudio/novo/2.php on line 263
+[02-Aug-2018 08:58:01 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, boolean given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 349
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 242
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 242
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 253
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 253
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 264
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 264
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 274
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 284
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 304
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 304
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 314
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 314
+[02-Aug-2018 09:01:03 America/Chicago] PHP Notice:  Undefined variable: gludio in /home/omass476/public_html/siteatualstudio/novo/2.php on line 325
+[02-Aug-2018 09:01:03 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 325
+[02-Aug-2018 09:21:58 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/omass476/public_html/siteatualstudio/novo/2.php on line 247
+[02-Aug-2018 09:22:18 America/Chicago] PHP Notice:  Undefined variable: retormo in /home/omass476/public_html/siteatualstudio/novo/2.php on line 247
+[02-Aug-2018 09:22:18 America/Chicago] PHP Notice:  Trying to get property of non-object in /home/omass476/public_html/siteatualstudio/novo/2.php on line 247
+[02-Aug-2018 09:33:17 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, object given in /home/omass476/public_html/siteatualstudio/novo/teste.php on line 29
+[02-Aug-2018 09:35:28 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omass476/public_html/siteatualstudio/novo/teste.php on line 27
+[02-Aug-2018 09:35:43 America/Chicago] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omass476/public_html/siteatualstudio/novo/teste.php on line 27
+[02-Aug-2018 09:36:06 America/Chicago] PHP Fatal error:  Call to undefined function var_dumpo() in /home/omass476/public_html/siteatualstudio/novo/teste.php on line 27
+[02-Aug-2018 09:38:32 America/Chicago] PHP Parse error:  syntax error, unexpected ''"' (T_CONSTANT_ENCAPSED_STRING) in /home/omass476/public_html/siteatualstudio/novo/script.php on line 86
+[02-Aug-2018 09:43:34 America/Chicago] PHP Notice:  Undefined variable: giran in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[02-Aug-2018 09:43:34 America/Chicago] PHP Warning:  mssql_fetch_object() expects parameter 1 to be resource, null given in /home/omass476/public_html/siteatualstudio/novo/2.php on line 294
+[03-Aug-2018 13:47:52 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/omass476/public_html/siteatualstudio/novo/raidboss.php on line 47
+[03-Aug-2018 13:48:47 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home/omass476/public_html/siteatualstudio/novo/raidboss.php on line 47
+[03-Aug-2018 13:49:06 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/omass476/public_html/siteatualstudio/novo/raidboss.php on line 47
+[03-Aug-2018 13:49:13 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/omass476/public_html/siteatualstudio/novo/raidboss.php on line 47
+[03-Aug-2018 13:50:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/omass476/public_html/siteatualstudio/novo/raidboss.php on line 47
+[03-Aug-2018 15:09:08 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:09:09 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:09:48 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:12:28 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:21:46 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:26:36 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:31:11 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:37:21 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:37:21 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:42:10 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:44:57 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:45:02 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:47:21 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:47:30 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:48:34 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 15:54:49 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:08:23 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:08:33 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:08:47 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:08:51 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:08:51 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:09:09 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:09:20 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[03-Aug-2018 16:09:28 America/Chicago] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/siteatualstudio/novo/conexao.php on line 7
+[25-Jun-2019 00:28:04 America/Sao_Paulo] PHP Warning:  mssql_connect(): Unable to connect to server: 149.56.79.107 in /home/omass476/public_html/l2paradise/novo/conexao.php on line 7

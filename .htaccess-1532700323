@@ -1,0 +1,14 @@
+
+RewriteEngine on
+
+RewriteOptions inherit
+Options -Indexes
+
+<Files ~ "^layout.php|configs.php|site_tables.sql$">
+deny from all
+</Files>
+RewriteCond %{HTTP_HOST} ^l2\.omassivo\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.l2\.omassivo\.com\.br$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^/?$ "http\:\/\/www\.ultimal2\.com\/" [R=301,L]

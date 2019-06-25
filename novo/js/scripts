@@ -1,0 +1,24 @@
+var api;
+			$(document).ready(function() {
+				 api = $(".fullwidthbanner").apexSlider({
+					startWidth:1170,
+					startHeight:500,
+					
+					transition:"random",
+	
+					thumbWidth:100,					//Thumb Width, Height and Amount (If navigation type set to thumb)
+					thumbHeight:47,
+					thumbAmount:5,
+					
+					navType:"both",					//bullet, thumb, none, both
+					navStyle:"round-black",			//round, round-blue, round-black, number
+					navArrow:"visible",				//visible, hidden
+					showNavOnHover:true,
+					
+					timerAlign:"top",
+
+					shadow:3,
+					
+					fullWidth:true
+				});
+			});

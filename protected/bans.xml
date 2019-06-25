@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SmartGuard banlist file -->
+<banlist>
+    <ban hwid="0456f2baf0316239b7b5fb9df3568faff890229327d86e94" type="NORMAL" time="1535292750">
+        <accounts>
+            <account time="1535293429">123123</account>
+            <account time="1535293208">fudeu</account>
+            <account time="1535292750">fudeu001</account>
+            <account time="1535292843">redhorncp</account>
+            <account time="1535292994">teth5599</account>
+            <account time="1535292878">teth9559</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535409334">201.43.116.89</ip>
+            <ip time="1535292750">152.249.32.194</ip>
+        </ipv4>
+        <comment>pt hataka bot</comment>
+    </ban>
+    <ban hwid="051fa20fb05a6c8212a8b73933ae21dc96f0f787efc1cad5" type="TEMP" time="1535836806">
+        <end_time>1535858706</end_time>
+        <accounts>
+            <account time="1535836806">keinok02</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535836806">179.176.235.233</ip>
+        </ipv4>
+        <comment>Account[keinok02] IP[179.176.235.233] using[BOT_SOFT]</comment>
+    </ban>
+    <ban hwid="22530f629709ddd898e1fc68cc9fa6cb5f375b25a77ce723" type="NORMAL" time="1535805692">
+        <accounts>
+            <account time="1535805692">joaocitta</account>
+            <account time="1535815454">joaocitta11</account>
+            <account time="1535865383">joaocitta12</account>
+            <account time="1535805692">joaocitta2</account>
+            <account time="1535805692">joaocitta3</account>
+            <account time="1535805692">joaocitta4</account>
+            <account time="1535805692">joaocitta5</account>
+            <account time="1535805692">joaocitta6</account>
+            <account time="1535805692">joaocitta7</account>
+            <account time="1535805692">joaocitta8</account>
+            <account time="1535805692">joaocitta9</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535805692">170.233.130.206</ip>
+        </ipv4>
+        <comment>Citta bot - https://youtu.be/IdKuSyk6wTs</comment>
+    </ban>
+    <ban hwid="3073ced36e36ee709bcb627bcdf5ea876d6604d8ce145850" type="NORMAL" time="1537065775">
+        <accounts>
+            <account time="1537468284">jeanc3</account>
+            <account time="1537065775">jorgesilva</account>
+            <account time="1537287021">jorgesilva3</account>
+        </accounts>
+        <ipv4>
+            <ip time="1537065775">187.123.148.19</ip>
+        </ipv4>
+        <comment>Drpet</comment>
+    </ban>
+    <ban hwid="379e83063980b1755486514784e2fc0500a5cc25521cb4f5" type="NORMAL" time="1535259950">
+        <accounts>
+            <account time="1535259950">carlosk47</account>
+            <account time="1535304964">teth5959</account>
+            <account time="1535259950">teth5995</account>
+            <account time="1535305148">teth9595</account>
+            <account time="1535604168">xxavatarxx</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535259950">177.134.72.169</ip>
+            <ip time="1535604044">179.181.68.186</ip>
+        </ipv4>
+        <comment>pt hataka bot</comment>
+    </ban>
+    <ban hwid="3de6059750c6480a5bc2376c869ed32e1286f7fe95b2fcfa" type="TEMP" time="1536325084">
+        <end_time>1536347164</end_time>
+        <accounts>
+            <account time="1536325084">demello</account>
+        </accounts>
+        <ipv4>
+            <ip time="1536325084">177.22.1.61</ip>
+        </ipv4>
+        <comment>Account[demello] IP[177.22.1.61] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="485706625c3c1fd23b0f502aaaa10ac768a51bd4dfb61dc1" type="TEMP" time="1534640040">
+        <end_time>1534661940</end_time>
+        <accounts>
+            <account time="1534640040">kreutz1</account>
+        </accounts>
+        <ipv4>
+            <ip time="1534640040">191.251.245.158</ip>
+        </ipv4>
+        <comment>Account[kreutz1] IP[191.251.245.158] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="52e7047b07c0cc86084e031adf4c6f5c00a5cc25521cb4f5" type="TEMP" time="1535538904">
+        <end_time>1535560984</end_time>
+        <accounts>
+            <account time="1535538904">deno88</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535538904">185.152.115.231</ip>
+        </ipv4>
+        <comment>Account[deno88] IP[185.152.115.231] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="6039d8274eda8a06e546af1e111b895034eb51537d0ba997" type="TEMP" time="1537103796">
+        <end_time>1537125396</end_time>
+        <accounts>
+            <account time="1537103796">dimmucov</account>
+            <account time="1537103796">dimmucraft</account>
+            <account time="1537103796">dimmudagger</account>
+            <account time="1537103796">dimmudanc</account>
+            <account time="1537103796">dimmuse</account>
+            <account time="1537103796">dimmusong</account>
+            <account time="1537103796">dimmuspoil</account>
+            <account time="1537103838">yookofarm</account>
+        </accounts>
+        <ipv4>
+            <ip time="1537103796">186.215.195.102</ip>
+        </ipv4>
+        <comment>Yooko, pertubada</comment>
+    </ban>
+    <ban hwid="6b5fd7caba1f2aff77ee6cd0939a7aeecdc817109f810156" type="TEMP" time="1535136132">
+        <end_time>1535158032</end_time>
+        <accounts>
+            <account time="1535136132">covbr</account>
+            <account time="1535136456">dancebr</account>
+            <account time="1535137101">songbr</account>
+            <account time="1535137156">spoilbr</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535136132">201.24.9.167</ip>
+        </ipv4>
+        <comment>Account[covbr] IP[201.24.9.167] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="7068600f77117023eea498ce13a96d2755d57441ea4c13c0" type="TEMP" time="1535645054">
+        <end_time>1535666954</end_time>
+        <accounts>
+            <account time="1535645054">tytoalba</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535645054">201.67.96.238</ip>
+        </ipv4>
+        <comment>Account[tytoalba] IP[201.67.96.238] using[BOT_SOFT]</comment>
+    </ban>
+    <ban hwid="7fb3be98e05f9ab4ab3716fec9c6d287e0f70326e2971364" type="NORMAL" time="1536886915">
+        <accounts>
+            <account time="1536915211">fncrafter</account>
+            <account time="1536886915">fnspoil</account>
+            <account time="1536886915">njbd1</account>
+            <account time="1537024585">njmain13</account>
+            <account time="1536890685">njmuck99</account>
+            <account time="1536886915">njse1</account>
+            <account time="1536886915">njsws1</account>
+            <account time="1536886915">njwc1</account>
+        </accounts>
+        <ipv4>
+            <ip time="1536886915">200.34.248.58</ip>
+        </ipv4>
+        <comment>Ulqiuora - bot giant cave</comment>
+    </ban>
+    <ban hwid="a11bd52905296d673a34b4b66ad128ff219f4567342430fc" type="TEMP" time="1535807169">
+        <end_time>1535829240</end_time>
+        <accounts>
+            <account time="1535807169">projac</account>
+            <account time="1535807169">projac01</account>
+            <account time="1535807220">projac02</account>
+        </accounts>
+        <ipv4>
+            <ip time="1535807169">177.38.239.129</ip>
+        </ipv4>
+        <comment>Account[projac01] IP[177.38.239.129] using[BOT_SOFT]</comment>
+    </ban>
+    <ban hwid="af073a89b641ad05e9de793e66dc179c219f4567342430fc" type="TEMP" time="1533989159">
+        <end_time>1534011179</end_time>
+        <accounts>
+            <account time="1533989159">annew</account>
+        </accounts>
+        <ipv4>
+            <ip time="1533989159">187.180.201.246</ip>
+        </ipv4>
+        <comment>Account[annew] IP[187.180.201.246] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="d4ef69937d5c0a0af4d544ec7d90475134eb51537d0ba997" type="TEMP" time="1536072816">
+        <end_time>1536094836</end_time>
+        <accounts>
+            <account time="1536072816">mainclassespl</account>
+            <account time="1536079863">mainclassesup</account>
+        </accounts>
+        <ipv4>
+            <ip time="1536072816">177.129.213.109</ip>
+        </ipv4>
+        <comment>Account[mainclassespl] IP[177.129.213.109] using[ADRENALINE]</comment>
+    </ban>
+    <ban hwid="fb527059af25973bcaa5d94b6744ecc5d415d5620e1d760c" type="TEMP" time="1534696228">
+        <end_time>1534718128</end_time>
+        <accounts>
+            <account time="1534696228">zetox</account>
+        </accounts>
+        <ipv4>
+            <ip time="1534696228">83.31.148.204</ip>
+        </ipv4>
+        <comment>Account[zetox] IP[83.31.148.204] using[ADRENALINE]</comment>
+    </ban>
+</banlist>

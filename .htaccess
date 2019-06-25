@@ -1,0 +1,25 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteOptions inherit
+Options -Indexes
+
+<Files ~ "^layout.php|configs.php|site_tables.sql$">
+deny from all
+</Files>
+RewriteCond %{HTTP_HOST} ^l2\.omassivo\.com\.br$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.l2\.omassivo\.com\.br$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteRule ^/?$ "http\:\/\/www\.ultimal2\.com\/" [R=301,L]
+# Use PHPstable as default
+AddHandler application/x-httpd-php-stable .php
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /opt/phpstable/lib
+</IfModule>

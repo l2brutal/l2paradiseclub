@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1537569170</updated>
+</configs>
+<line>
+<castle>gludio</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 13:00</nextwar>
+<tax>0</tax>
+<attacks>1</attacks>
+<attacksname>ConsagradOs</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>dion</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 13:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>giran</castle>
+<owner>BrotherHood</owner>
+<leader>Alcappone</leader>
+<ally>SentaEchora</ally>
+<nextwar>23 September, 2018 13:00</nextwar>
+<tax>5</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>oren</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 13:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>aden</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 13:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>innadril</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 17:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>goddard</castle>
+<owner>lMercenarioS</owner>
+<leader>CAIXA2</leader>
+<ally>DontStoP</ally>
+<nextwar>23 September, 2018 17:00</nextwar>
+<tax>5</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>rune</castle>
+<owner>GetKarma</owner>
+<leader>SweetDeath</leader>
+<ally>MacacosOnline</ally>
+<nextwar>23 September, 2018 17:00</nextwar>
+<tax>5</tax>
+<attacks>1</attacks>
+<attacksname>BloodMoon</attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>schuttgart</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>23 September, 2018 17:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+</siege>

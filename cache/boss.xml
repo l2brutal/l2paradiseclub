@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boss>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1537569174</updated>
+</configs>
+<line>
+<name>Icicle King Umpaloopa</name>
+<status>Dead</status>
+<respawn>21/09/2018 12:50</respawn>
+</line>
+<line>
+<name>Flame Spirit Nastron</name>
+<status>Dead</status>
+<respawn>21/09/2018 11:47</respawn>
+</line>
+<line>
+<name>N Spike Stakato Qn Shyid</name>
+<status>Dead</status>
+<respawn>21/09/2018 10:50</respawn>
+</line>
+<line>
+<name>Geyser Guardian Hestia</name>
+<status>Dead</status>
+<respawn>21/09/2018 10:18</respawn>
+</line>
+<line>
+<name>Cherub Garacsia</name>
+<status>Dead</status>
+<respawn>21/09/2018 10:14</respawn>
+</line>
+<line>
+<name>Blinding Fire Barakiel</name>
+<status>Dead</status>
+<respawn>21/09/2018 10:03</respawn>
+</line>
+<line>
+<name>Degeneration Golem</name>
+<status>Dead</status>
+<respawn>21/09/2018 09:56</respawn>
+</line>
+<line>
+<name>Last Lesser Glaki</name>
+<status>Dead</status>
+<respawn>21/09/2018 09:47</respawn>
+</line>
+<line>
+<name>Flame Stone Golem</name>
+<status>Dead</status>
+<respawn>21/09/2018 09:38</respawn>
+</line>
+<line>
+<name>Palibati Queen Themis</name>
+<status>Dead</status>
+<respawn>21/09/2018 09:15</respawn>
+</line>
+<line>
+<name>Lilith</name>
+<status>Dead</status>
+<respawn>21/09/2018 07:33</respawn>
+</line>
+<line>
+<name>Water Spirit Ashutar</name>
+<status>Dead</status>
+<respawn>20/09/2018 14:06</respawn>
+</line>
+<line>
+<name>Gwindorr2</name>
+<status>Dead</status>
+<respawn>19/09/2018 19:07</respawn>
+</line>
+<line>
+<name>Triolls Priest Andreas</name>
+<status>Dead</status>
+<respawn>19/09/2018 18:59</respawn>
+</line>
+<line>
+<name>Zombie Lord Crowl</name>
+<status>Dead</status>
+<respawn>18/09/2018 12:37</respawn>
+</line>
+<line>
+<name>Benom</name>
+<status>Dead</status>
+<respawn>09/09/2018 19:00</respawn>
+</line>
+<line>
+<name>Amber</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Anakims Nemesis Zakaron</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ancient Drake Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Antaras Max</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Apepi</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Archon Susceptor</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Atraiban</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Baium</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bandit Leader Barda</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Barion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Beacon Of Blue Sky Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Beastlord Behemoth</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Behemoth Leader</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Beres</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Betrayer Of Urutu Freki</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Betrayer Urutu Freki Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Biconne Of Blue Sky</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bloody Empress Decarbia</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bloody Tree Vermilion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Bridge Cotroller</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Carnage Lord Gato</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Carnage Lord Gato Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Carnamakos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Catseye</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Chaos Gigantic Golem</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Chief Mate Tilion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Collector Acheron Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Collector Talos Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Core</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Corsair Captain Kylon</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Crazy Mechanic Golem</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Cronoss Summons Mumu</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Darion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Darkness Shaman Baranka</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Demon Kuri Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Demon Tempest</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Demonic Agent Falston</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Discard Guardian</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Domb Death Cabrio</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Doom Blade Tanatos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Doom Blade Tanatos Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Dragon Beast</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Drake Lord</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Dread Avenger Kraven</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Earth Protecter Panathen</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Elf Renoa</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Enmity Ghost Ramdal</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ereve Deathman</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eva Guardian Millenu</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Eyes Of Bereth</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Faf Herald Lokness</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fafurions Pagehood Sika</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fairy Queen Timiniel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fairys Watcher Ruell</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fiercetiger King Angel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Fire Lord Shadar Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Flamelord Shadar</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Furious Thieles</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gargoyle Lord Sirocco</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gargoyle Lord Tiphon</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ghost Kabed</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ghost Of Peasant Leader</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Giant Wasteland Basil</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Golkonda Longhorn</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Gordon</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Grandeur Soul Chertuba</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Grave Rabber Khim</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Grave Robber Akata</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Greyclaw Kutus</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Greyclaw Kutus Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Guardian 3 Of Garden</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Guillotine Warden Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Hallate The Death Lord</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Handmaiden Of Orfen</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Harit Hero Tamash</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Harit Tutelar Garangky</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Hatos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Heart Of Volcano</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Heart Of Warding</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Hope Immortality Mardil</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Icarus Sample 21</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ikuntai</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ikuntai Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ipos The Death Lord</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Iron Giant Totem</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Istary Papurrion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Jeruna Queen</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Karte</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Katu Van Atui</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kaysha Herald Of Ikaros</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kelbar</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kernon</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kernon Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra Chief Brakki</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra Commander Atis Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra Commander Tayr</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketra Hero Hekaton</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ketras Hero Hekaton Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>King Tarlk</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>King Tiger Karuta</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Korim</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Krokian Padisha Sobekk</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Kurikups</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Langk Matriarch Rashkos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Last Lesser Olkuth</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lead Tracker Sharuk Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Leto Chief Talkin</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Liliths Oracle Marilion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Loa Behemoth Leader</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Loa Dragon Beast</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Loa Drake Lord</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lord Ishka Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Lost Cat The Cat A</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Love Reverser Kael</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Madness Beast</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Magician Kenishee</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Malex Herald Of Dagoniel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Malruks Oracle Sekina</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Mammpns Collector Talos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Manes Lidia</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Master Of Ledflage Shaka</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Meana Agent Of Beres</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Meanas Anor</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Meanas Anor Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Monster Cyrion</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Naia Trigger</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Naia Trigger 1</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nakondas</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nellis Spirit Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Nightmare Drake</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Niniel Spirit Eva</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Obern Mgr Of Fairyqueen</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Oblivion S Mirror</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ocean Flame Ashakiel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Orfen</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Pagan Warder Cerberon</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Pan Draid</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Papurrion Pingolpin</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Partisan Leader Talakin</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Patriarch Kuroboros</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Premo Prime The Creature</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Priest Hisilrome</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Priest Of Kuroboros</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Princess Molrang</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Protector Panathen Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Queen Ant</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Queens Nobel Leader</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Ragraman</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rahha</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Raid Boss Von Helman</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rayito The Looter</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Rayito The Looter Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Redeye Leader Trakia</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Refuge Hoper Leo</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Remmel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Repiro Rot Tree</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Retreat Spider Cletu</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Revenant Of Sir Calibus</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Roar Skylancer</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Roaring Seer Kastor</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sailren</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sebek</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sejarr S Summoner</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Serpent Demon Bifrons</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shacram</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shaman King Selu</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shax The Death Lord</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Shuriel Fire Of Wrath</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sorcery Isirr</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soul Collector Acheron</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soul Scavenger</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Soulless Wild Boar</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Spirit Andras Betrayer</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Spirits Of Nellis</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Storm Winged Naga</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sukar Wererat Chief</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Sukar Wererat Chief Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Taik Prefect Arak</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tantaar Seer Ugoros</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tasaba Patriarch Hellena</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tiger Hornet</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Orc Gosmos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Orc Hunter A</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Timak Seer Ragoth</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tirak</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tolles</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tornado</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Tracker Sharuk</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Turek Mercenary Boss</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Unicorn Paniel</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Uruka</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Valakas</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Vanor Chief Kandra</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varka Chief Horuth</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varka Commnder Mos</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varka Hero Shadith</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Varkas Hero Shadith Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Verfa</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Vuku Witchdr Gharmash</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Warden Guillotine</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Water Couatl Ateka</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Water Spirit Lian2</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Wdragon Priest Sheshark</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Wizard Of Storm Teruk</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zakens Butcher Krantz</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zombie Lord Crowl Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zombie Lord Farakelsus</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+<line>
+<name>Zombie Lord Ferkel Gd</name>
+<status>Alive</status>
+<respawn>-</respawn>
+</line>
+</boss>
