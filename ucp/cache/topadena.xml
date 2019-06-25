@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ranking>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1541045750</updated>
+<delay>5</delay>
+<rcount>50</rcount>
+</configs>
+<line>
+<pos>1</pos>
+<name>teste</name>
+<clan>-</clan>
+<adenas>0</adenas>
+<otdays>0</otdays>
+<othrs>0</othrs>
+<otmin>0</otmin>
+</line>
+<line>
+<pos>2</pos>
+<name>UDreAD</name>
+<clan>-</clan>
+<adenas>0</adenas>
+<otdays>0</otdays>
+<othrs>0</othrs>
+<otmin>0</otmin>
+</line>
+</ranking>

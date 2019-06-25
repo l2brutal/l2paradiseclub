@@ -1,0 +1,40 @@
+24/06/2017 20:32: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [payment_type] => echeck
+  [payment_date] => Sat Jun 24 2017 19:31:25 GMT-0400 (Hora Padr�o de Caracas)
+  [payment_status] => Completed
+  [address_status] => confirmed
+  [payer_status] => verified
+  [first_name] => John
+  [last_name] => Smith
+  [payer_email] => buyer@paypalsandbox.com
+  [payer_id] => TESTBUYERID01
+  [address_name] => John Smith
+  [address_country] => United States
+  [address_country_code] => US
+  [address_zip] => 95131
+  [address_state] => CA
+  [address_city] => San Jose
+  [address_street] => 123 any street
+  [business] => seller@paypalsandbox.com
+  [receiver_email] => seller@paypalsandbox.com
+  [receiver_id] => seller@paypalsandbox.com
+  [residence_country] => US
+  [item_name] => something
+  [item_number] => AK-1234
+  [quantity] => 1
+  [shipping] => 3.04
+  [tax] => 2.02
+  [mc_currency] => USD
+  [mc_fee] => 0.44
+  [mc_gross] => 12.34
+  [mc_gross_1] => 12.34
+  [txn_type] => web_accept
+  [txn_id] => 252265852
+  [notify_version] => 2.1
+  [custom] => 10004
+  [invoice] => 10004
+  [test_ipn] => 1
+  [verify_sign] => AFcWxV21C7fd0v3bYYYRCpSSRl31AaAFiuudJu8HRK6MCtT9iITwThYO
+)
+

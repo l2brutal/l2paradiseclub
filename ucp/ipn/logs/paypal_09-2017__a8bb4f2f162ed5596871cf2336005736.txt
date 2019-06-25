@@ -1,0 +1,57 @@
+15/09/2017 14:43: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 10:43:40 Sep 15, 2017 PDT
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 7.70
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => A1GGT.a.X8D3d-gBBE6E7iuU2TIeALArrnXv8R4VYVtDdij1pR95aVaU
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 4X830697DT323721J
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 7.70
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => a1dea97351514
+)
+
+15/09/2017 14:55: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => Machinima Talent Payment - July 2017
+  [txn_type] => send_money
+  [payment_date] => 10:55:00 Sep 15, 2017 PDT
+  [last_name] => Sulak
+  [residence_country] => US
+  [payment_gross] => 5.24
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => A5uUSp1z5oIfAcQt2U2LaIEUsowQAEY4cnTqqWt5V8dfPPLB8UCdxpR8
+  [payer_status] => verified
+  [payer_email] => machinimatalent@gmail.com
+  [txn_id] => 2UR26003SE483064K
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Gregory
+  [payer_id] => ZF56J8PY29DNW
+  [receiver_id] => F4PNUCMQLEMTW
+  [memo] => Hello,This is your Machinima Talent payment for amounts due through July 2017. If you have any questions, please visit http://machinima.zendesk.com to submit a request.Thanks!The Machinima Team
+  [payer_business_name] => Machinima, Inc.
+  [payment_status] => Completed
+  [mc_gross] => 5.24
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 9be5a6cee7069
+)
+

@@ -1,0 +1,12 @@
+20/06/2017 01:38: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => C4740B-22F37AF37AF5-4884CE0F9F82-6227D4
+  [notificationType] => transaction
+)
+
+20/06/2017 01:39: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E0F6CD-068EF88EF83A-111426BFAC3E-D79693
+  [notificationType] => transaction
+)
+

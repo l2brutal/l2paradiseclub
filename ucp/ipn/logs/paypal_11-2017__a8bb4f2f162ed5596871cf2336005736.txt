@@ -1,0 +1,56 @@
+15/11/2017 18:44: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 12:44:40 Nov 15, 2017 PST
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 18.20
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => ABuoeONVvLYOdfqWJf1pHSW3alTGAMOcXcxTTApFQS9rZoJeR.oQvhik
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 9NN038322J489282Y
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 18.20
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => efc863eed4218
+)
+
+15/11/2017 18:45: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 12:44:46 Nov 15, 2017 PST
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 8.76
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => ArPwMVaRbZ3pxYgN2QOW7Iy-YYp3AtRQuxx5Scn23SF6A67TtmfGTDwo
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 71W77454KH5307326
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 8.76
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 2c8b663bfd673
+)
+

@@ -1,0 +1,99 @@
+02/08/2017 18:22: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KT4S8J3LN7PAC
+  [address_street] => Rua 2500 900 casa de frente à faixa de pedrestre
+Centro
+  [payment_date] => 14:21:57 Aug 02, 2017 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 88330-396
+  [first_name] => Andre Luis
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Andre Luis Longo
+  [notify_version] => 3.8
+  [custom] => 10137
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Balneário Camboriú
+  [quantity] => 1
+  [verify_sign] => AY8hG4GFcbnx.98GkAz1Wl4F8.GFA3V3hJUwUEKaGTwT6IKft5JbiTzb
+  [payer_email] => andreluis_rsl@hotmail.com
+  [txn_id] => 59R590178S416631J
+  [payment_type] => instant
+  [last_name] => Longo
+  [address_state] => SC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10137 - 10 Credito
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => eb8528a676b2e
+)
+
+05/08/2017 12:33: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => Patreon Creator Payout #48313116
+  [txn_type] => send_money
+  [payment_date] => 08:33:22 Aug 05, 2017 PDT
+  [last_name] => Conte
+  [residence_country] => US
+  [payment_gross] => 1.19
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AfDdcDwGFNNl9YX8sk3Oq5l8Xr6pAJaFOJ9sz2nG-zszO-ihlQ0TceWc
+  [payer_status] => verified
+  [payer_email] => nate@patreon.com
+  [txn_id] => 45Y44559NS443732D
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Jack
+  [payer_id] => 4ZL3KT8LZ94NJ
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Patreon
+  [payment_status] => Completed
+  [mc_gross] => 1.19
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 4e86382bf3361
+)
+
+15/08/2017 22:23: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => Machinima Talent Payment - June 2017
+  [txn_type] => send_money
+  [payment_date] => 18:23:15 Aug 15, 2017 PDT
+  [last_name] => Sulak
+  [residence_country] => US
+  [payment_gross] => 24.87
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AJvnvEoT2SGuCFkUtbT.dLMayxdcA.TJRQPbaX3dtP3eQZZke7U06hwx
+  [payer_status] => verified
+  [payer_email] => machinimatalent@gmail.com
+  [txn_id] => 62P93686CK340763V
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Gregory
+  [payer_id] => ZF56J8PY29DNW
+  [receiver_id] => F4PNUCMQLEMTW
+  [memo] => Hello,This is your Machinima Talent payment for amounts due through June 2017. If you have any questions, please visit http://machinima.zendesk.com to submit a request.Thanks!The Machinima Team
+  [payer_business_name] => Machinima, Inc.
+  [payment_status] => Completed
+  [mc_gross] => 24.87
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 45db15dd347f2
+)
+

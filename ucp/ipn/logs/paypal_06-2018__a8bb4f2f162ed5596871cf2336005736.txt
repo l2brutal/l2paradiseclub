@@ -1,0 +1,396 @@
+01/06/2018 13:30: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => BEDUGJXFBSSJY
+  [address_street] => Rua Francisco Pires da Rocha 92
+Bonsucesso
+  [payment_date] => 09:29:55 Jun 01, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 85045-010
+  [first_name] => Edivan Dalton
+  [mc_fee] => 1.08
+  [address_country_code] => BR
+  [address_name] => Edivan Dalton Strapasson
+  [notify_version] => 3.9
+  [custom] => 11975
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Guarapuava
+  [quantity] => 1
+  [verify_sign] => AYhPFV5FeESMTPQen7P9z86iOUR-AbP1lHBneByyFVA8gBmACWvBMUZE
+  [payer_email] => edivandaltonstrapassonlive@hotmail.com
+  [txn_id] => 9MT1830064954820T
+  [payment_type] => instant
+  [last_name] => Strapasson
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 11975 - 1000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a8397274b6af8
+)
+
+02/06/2018 15:57: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => CWJ29PQ59WU2J
+  [address_street] => Rua Domingues Linhares 721
+Centro
+  [payment_date] => 11:57:11 Jun 02, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 76980-050
+  [first_name] => Jos�
+  [mc_fee] => 3.00
+  [address_country_code] => BR
+  [address_name] => Jos� Machieski
+  [notify_version] => 3.9
+  [custom] => 11986
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Vilhena
+  [quantity] => 1
+  [verify_sign] => A7MKJvQPeEOyM4PWQrYd10y555E3AvJC5bGg9GXHBQeRMJ-6TyNFPe8k
+  [payer_email] => machiesk_jr@hotmail.com
+  [txn_id] => 87W62085PU576533S
+  [payment_type] => instant
+  [last_name] => Machieski
+  [address_state] => RO
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 11986 - 5000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a3ec6c74c1c45
+)
+
+02/06/2018 22:40: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZNBTNLEK5YZTS
+  [address_street] => Rua Batinga 41
+Jardim do Bosque
+  [payment_date] => 18:40:40 Jun 02, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 94960-562
+  [first_name] => Carmen Vanuza
+  [mc_fee] => 2.04
+  [address_country_code] => BR
+  [address_name] => Carmen Vanuza Paz Sanches
+  [notify_version] => 3.9
+  [custom] => 11988
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Cachoeirinha
+  [quantity] => 1
+  [verify_sign] => AeiGxWazumWNZ6UdGGaTFrd8ADKGAKko7ktzpRRgkCBad32MZkJ.tTFl
+  [payer_email] => xrocknegaox@yahoo.com.br
+  [txn_id] => 2XW60477FW711444D
+  [payment_type] => instant
+  [last_name] => Paz Sanches
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 11988 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 42be556971ce4
+)
+
+03/06/2018 15:37: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => EYUMRDVMDKTZA
+  [address_street] => Rua Pot� 314 casa 1
+Vila Formosa
+  [payment_date] => 11:37:30 Jun 03, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 03357-037
+  [first_name] => Felipe
+  [mc_fee] => 2.04
+  [address_country_code] => BR
+  [address_name] => Felipe Romero Limoeiro
+  [notify_version] => 3.9
+  [custom] => 11992
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => S�o Paulo
+  [quantity] => 1
+  [verify_sign] => AGirUaqTiO3Q668AWvodDp688cwyAAEac3fFcc0SzgIvkbe0EZqxEOLL
+  [payer_email] => romerofelipelimoeiro@gmail.com
+  [txn_id] => 1JX80845TU986864S
+  [payment_type] => instant
+  [last_name] => Romero Limoeiro
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 11992 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 5436597876f53
+)
+
+04/06/2018 10:43: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 58LJCSSGMTBG8
+  [address_street] => Rua Norival Santos Calixto 261
+Campo do Coelho
+  [payment_date] => 06:42:51 Jun 04, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 28630-635
+  [first_name] => Silvana
+  [mc_fee] => 3.00
+  [address_country_code] => BR
+  [address_name] => Silvana Ven�ncio
+  [notify_version] => 3.9
+  [custom] => 11996
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Nova Friburgo
+  [quantity] => 1
+  [verify_sign] => Aoia-RMPwgZGe3uEjDsF1U0vX2gOAJWh7k7QSTO0EPoiWII8zkBv1Wad
+  [payer_email] => yninfetaorelhuda3@hotmail.com
+  [txn_id] => 7PE552309P003690M
+  [payment_type] => instant
+  [last_name] => Ven�ncio
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 11996 - 5000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a85b9d07a72ba
+)
+
+04/06/2018 23:57: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => H9DCB6DTEQR7Y
+  [address_street] => Rua Carlos de Oliveira 199
+Ponto dos Leites
+  [payment_date] => 19:57:34 Jun 04, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 28970-000
+  [first_name] => Luan Vinicius
+  [mc_fee] => 1.08
+  [address_country_code] => BR
+  [address_name] => Luan Vinicius Santos de Sa
+  [notify_version] => 3.9
+  [custom] => 12003
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Araruama
+  [quantity] => 1
+  [verify_sign] => ATTXMyX2Q55r7RhX-NrY.n9oLcYeA5RuxRqXocPQgpMJz3BVwtn7U0pp
+  [payer_email] => luanvinicius.sa@gmail.com
+  [txn_id] => 49Y32325H4850535L
+  [payment_type] => instant
+  [last_name] => Santos de Sa
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 12003 - 1000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 764868f9f5d7
+)
+
+06/06/2018 17:41: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => JNNHUPWTHCUE8
+  [address_street] => Rua Benjamim Rodrigues Coelho 247
+Santa Rita
+  [payment_date] => 13:41:03 Jun 06, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 35040-080
+  [first_name] => Joao
+  [mc_fee] => 1.56
+  [address_country_code] => BR
+  [address_name] => Joao Vitor Ferreira
+  [notify_version] => 3.9
+  [custom] => 12018
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Governador Valadares
+  [quantity] => 1
+  [verify_sign] => AbJjTnFp.Lr.fA7bb.swc8pitIR4APjVK6o86sZYqwKpGrwF4-gqSVJc
+  [payer_email] => johnvitorusa2@gmail.com
+  [txn_id] => 0RN15839X9022971D
+  [payment_type] => instant
+  [last_name] => Vitor Ferreira
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 12018 - 2000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f56e707177b9b
+)
+
+06/06/2018 19:23: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => BEDUGJXFBSSJY
+  [address_street] => Rua Francisco Pires da Rocha 92
+Bonsucesso
+  [payment_date] => 15:23:36 Jun 06, 2018 PDT
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 85045-010
+  [first_name] => Edivan Dalton
+  [mc_fee] => 2.04
+  [address_country_code] => BR
+  [address_name] => Edivan Dalton Strapasson
+  [notify_version] => 3.9
+  [custom] => 12019
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Guarapuava
+  [quantity] => 1
+  [verify_sign] => Ada0KEx6l.dkpMBxSAmvL4DcfGmsAD898dQS2yz4JtnUjEvM5WDwRqEm
+  [payer_email] => edivandaltonstrapassonlive@hotmail.com
+  [txn_id] => 2U053362WV7805312
+  [payment_type] => instant
+  [last_name] => Strapasson
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 12019 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ece62bce5e817
+)
+
+08/06/2018 19:13: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 15:13:21 Jun 08, 2018 PDT
+  [last_name] => Tran
+  [residence_country] => US
+  [payment_gross] => 19.70
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AOXxW.y7kXQpSbApwJHSZHXiqJlqArmZQVHuXjL4j-7EAon87FjckziL
+  [payer_status] => verified
+  [payer_email] => accounting@curse.com
+  [txn_id] => 2J247313PG395291B
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Andy
+  [payer_id] => MSYVYUNV5X4UN
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Curse
+  [payment_status] => Completed
+  [mc_gross] => 19.70
+  [charset] => windows-1252
+  [notify_version] => 3.9
+  [ipn_track_id] => d7a2539e693eb
+)
+

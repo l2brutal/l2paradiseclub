@@ -1,0 +1,390 @@
+03/08/2017 10:34: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C1AD17-91B5FBB5FB44-B004C35FAFD6-DD69CE
+  [notificationType] => transaction
+)
+
+03/08/2017 12:58: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 109DF9-6B468046806C-0FF460DF9F2A-705FB1
+  [notificationType] => transaction
+)
+
+04/08/2017 04:04: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => F79F7A-888DDB8DDB0E-8994622FB805-CCD5DE
+  [notificationType] => transaction
+)
+
+04/08/2017 06:33: Protocolo inexistente! SimpleXMLElement Object
+(
+  [date] => 2017-07-20T12:54:06.000-03:00
+  [code] => 272A3B93-FC46-48EF-A300-15861DD05D70
+  [reference] => 10021
+  [type] => 1
+  [status] => 4
+  [lastEventDate] => 2017-08-04T06:33:26.000-03:00
+  [paymentMethod] => SimpleXMLElement Object
+    (
+      [type] => 2
+      [code] => 202
+    )
+
+  [paymentLink] => https://pagseguro.uol.com.br/checkout/payment/booklet/print.jhtml?c=a49f6d0f0ed559129d876ee6cf6dc37915d2e3b0594777c03f3f859abe66638598165cd7cf40f3fc
+  [grossAmount] => 20.00
+  [discountAmount] => 0.00
+  [feeAmount] => 1.40
+  [netAmount] => 18.60
+  [extraAmount] => 0.00
+  [escrowEndDate] => 2017-08-04T06:32:52.000-03:00
+  [installmentCount] => 1
+  [itemCount] => 1
+  [items] => SimpleXMLElement Object
+    (
+      [item] => SimpleXMLElement Object
+        (
+          [id] => 1
+          [description] => Fatura 10021 - 20 Credito
+          [quantity] => 1
+          [amount] => 20.00
+        )
+
+    )
+
+  [sender] => SimpleXMLElement Object
+    (
+      [name] => Claudemir Severo Martins
+      [email] => claudemir.s.martins@gmail.com
+      [phone] => SimpleXMLElement Object
+        (
+          [areaCode] => 55
+          [number] => 996848646
+        )
+
+    )
+
+  [shipping] => SimpleXMLElement Object
+    (
+      [address] => SimpleXMLElement Object
+        (
+          [street] => rua belmiro de aquiar
+          [number] => 180
+          [complement] => casa azul
+          [district] => chiapetta
+          [city] => TUPANCIRETA
+          [state] => RS
+          [country] => BRA
+          [postalCode] => 98170000
+        )
+
+      [type] => 3
+      [cost] => 0.00
+    )
+
+)
+ - Dump: Array
+(
+  [notificationCode] => A6B1EF-C858D858D825-3BB437DFB9D6-A234EF
+  [notificationType] => transaction
+)
+
+04/08/2017 09:30: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => CDB778-BD65846584E6-A994C7BF8212-01B5E2
+  [notificationType] => transaction
+)
+
+04/08/2017 17:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 020168-8A7F1F7F1FE4-6FF4770F9215-0620F5
+  [notificationType] => transaction
+)
+
+04/08/2017 17:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4493E0-D131F731F7A9-AEE40F7FBDBC-33B8A6
+  [notificationType] => transaction
+)
+
+04/08/2017 18:30: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 09C5F1-CF2C182C18E5-BDD4DAEF9380-1A7A6C
+  [notificationType] => transaction
+)
+
+04/08/2017 18:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B99673-5B4B8A4B8A6B-8004E5DF8775-04546F
+  [notificationType] => transaction
+)
+
+04/08/2017 18:39: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B5D1E2-20286528656E-9444BC2FAE6E-A0EB2C
+  [notificationType] => transaction
+)
+
+04/08/2017 18:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => DAD336-9006BD06BD31-E554617F9A95-CF4850
+  [notificationType] => transaction
+)
+
+04/08/2017 19:15: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 30FEB2-EEF62BF62BAF-CDD4F2BFB711-D24DA7
+  [notificationType] => transaction
+)
+
+04/08/2017 19:39: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4697AC-386517651734-5554853FBB61-0D6B0A
+  [notificationType] => transaction
+)
+
+04/08/2017 21:57: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9E264D-098156815687-6CC4B08F9322-8680BC
+  [notificationType] => transaction
+)
+
+05/08/2017 01:51: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 88C8C5-FDA5DFA5DF93-5994DECF9D99-F73367
+  [notificationType] => transaction
+)
+
+05/08/2017 03:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 961137-C820DB20DB7D-F114588F9877-11D7CE
+  [notificationType] => transaction
+)
+
+05/08/2017 03:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A02D74-E8935A935A72-900414EFA4F1-D6CD0A
+  [notificationType] => transaction
+)
+
+05/08/2017 03:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 5A868A-0397FE97FECD-5DD4094F8679-95F380
+  [notificationType] => transaction
+)
+
+05/08/2017 07:44: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => FE1935-72BBFDBBFDC4-B774695FAF43-15B0B6
+  [notificationType] => transaction
+)
+
+05/08/2017 08:04: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4285D1-46802C802CDA-A444407F8583-5ADCFA
+  [notificationType] => transaction
+)
+
+05/08/2017 08:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B26428-46D7F0D7F0C2-4CC46C6F9A48-C0E0E7
+  [notificationType] => transaction
+)
+
+05/08/2017 08:37: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6C8A1C-071B291B296C-51142A3FA537-ECF64F
+  [notificationType] => transaction
+)
+
+05/08/2017 11:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 478DD3-06C942C9426B-1554FC2FB294-048F75
+  [notificationType] => transaction
+)
+
+05/08/2017 15:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 0FA5F5-59D7AED7AE7D-8774584F846B-A42BA3
+  [notificationType] => transaction
+)
+
+05/08/2017 18:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 37C987-1E49D949D91D-6664C81FAF04-052F6B
+  [notificationType] => transaction
+)
+
+06/08/2017 10:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7B7DB6-6F3E253E255F-6004C74F8098-218DC7
+  [notificationType] => transaction
+)
+
+06/08/2017 14:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 39BE53-1987DD87DD98-E334D95FA3B8-C0090E
+  [notificationType] => transaction
+)
+
+06/08/2017 16:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C178C0-A8F42EF42E69-8BB4FBBF8AFE-CFB56F
+  [notificationType] => transaction
+)
+
+06/08/2017 17:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6BE37B-220C8E0C8E95-8224E8BF9D43-2F5663
+  [notificationType] => transaction
+)
+
+06/08/2017 19:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F84504-E7125E125E36-5114592F84D9-DF0DDA
+  [notificationType] => transaction
+)
+
+06/08/2017 20:27: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => D1E56F-BD723972393F-D774A9DF863A-F43FB5
+  [notificationType] => transaction
+)
+
+07/08/2017 15:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1BED3F-DFFC26FC26A3-8774533FBE8D-B26258
+  [notificationType] => transaction
+)
+
+07/08/2017 16:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6A0A14-0456245624DF-CDD4A29FB576-9FE19C
+  [notificationType] => transaction
+)
+
+08/08/2017 02:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4388A8-AEC40FC40FB1-EAA4BDFFBDA0-798777
+  [notificationType] => transaction
+)
+
+08/08/2017 04:38: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 454D5A-23C39DC39D7A-5664A74F9382-CBD862
+  [notificationType] => transaction
+)
+
+08/08/2017 04:56: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A09108-22BE95BE9539-9DD44EBFAD4D-AA8950
+  [notificationType] => transaction
+)
+
+08/08/2017 23:21: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => BF8ADC-5467A867A8E5-6FF42BDFA8F7-210A36
+  [notificationType] => transaction
+)
+
+09/08/2017 03:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 325A57-598DD68DD6E9-4AA4DF1F9E08-C0004A
+  [notificationType] => transaction
+)
+
+09/08/2017 03:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 8B29B7-C5059D059DD9-5AA42AEF9D54-8EBF5F
+  [notificationType] => transaction
+)
+
+10/08/2017 01:14: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 08469A-64111911197F-AEE4A57FAC3A-8FB933
+  [notificationType] => transaction
+)
+
+10/08/2017 04:04: Algum dos parâmetros importantes está vazio!  - Dump: Array
+(
+  [notificationCode] => 60636C-749CBE9CBEEF-4DD40E3FA2C8-327DED
+  [notificationType] => transaction
+)
+
+10/08/2017 06:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 60636C-749CBE9CBEEF-4DD40E3FA2C8-327DED
+  [notificationType] => transaction
+)
+
+10/08/2017 07:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A6789E-4C3130313039-8BB4636FAD59-0B6C2A
+  [notificationType] => transaction
+)
+
+10/08/2017 13:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => BE39FF-76904D904D84-3334F08F8FD0-428D4D
+  [notificationType] => transaction
+)
+
+10/08/2017 18:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 082120-AA54EB54EB9A-7664753FA851-B36D8F
+  [notificationType] => transaction
+)
+
+10/08/2017 22:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 63B82F-5ABB79BB79EF-CCC4057F9584-496107
+  [notificationType] => transaction
+)
+
+11/08/2017 10:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 8990C4-B3EA5AEA5AA4-6554D55F9F30-5CFE29
+  [notificationType] => transaction
+)
+
+11/08/2017 19:30: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7F05AF-C837CA37CAF6-D884175F907C-EC46B7
+  [notificationType] => transaction
+)
+
+12/08/2017 03:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EA49C5-F9BB50BB507A-ABB4F42F83EB-FF7A9B
+  [notificationType] => transaction
+)
+
+12/08/2017 18:27: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 8DD0F2-422D4E2D4E7C-1EE4421F895A-3125DA
+  [notificationType] => transaction
+)
+
+13/08/2017 14:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3E614B-63D818D818A6-3CC4D01FA282-FF96E3
+  [notificationType] => transaction
+)
+
+13/08/2017 16:15: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A53B01-E8F303F303D4-E884477FA13F-AC2D15
+  [notificationType] => transaction
+)
+
+17/08/2017 13:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 2CC737-0926E826E88F-BFF40A4FBE50-2112E5
+  [notificationType] => transaction
+)
+
+18/08/2017 03:57: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B9E09E-5EA720A720F8-7994C60F907C-E3287B
+  [notificationType] => transaction
+)
+

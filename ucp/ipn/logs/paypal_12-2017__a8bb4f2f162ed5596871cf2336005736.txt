@@ -1,0 +1,6215 @@
+05/12/2017 06:53: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => Patreon Creator Payout #59516405
+  [txn_type] => send_money
+  [payment_date] => 00:53:47 Dec 05, 2017 PST
+  [last_name] => Conte
+  [residence_country] => US
+  [payment_gross] => 1.01
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AjUBFmc3wtQ35rkmApKXHRbHtzHxAXmstxv5wARZVk7KV1-Tomttep9B
+  [payer_status] => verified
+  [payer_email] => nate@patreon.com
+  [txn_id] => 41X78409D2401321J
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Jack
+  [payer_id] => 4ZL3KT8LZ94NJ
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Patreon
+  [payment_status] => Completed
+  [mc_gross] => 1.01
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 8d3edd7c8cd7d
+)
+
+07/12/2017 19:41: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => D4JQCW3NST8AE
+  [address_street] => Rua Guary 24 Casa
+Daniel Lisboa
+  [payment_date] => 13:41:03 Dec 07, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 40283-790
+  [first_name] => Ivan Sérgio
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => Ivan Sérgio Nunes Silva
+  [notify_version] => 3.8
+  [custom] => 10150
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Salvador
+  [quantity] => 1
+  [verify_sign] => AK3Za1LqeTIEqHGqhh8-qXQjvD0zAWoTM7PCSfJVOIP1GPhQiiho6knu
+  [payer_email] => ivansns57@gmail.com
+  [txn_id] => 0U128841XR931330R
+  [payment_type] => instant
+  [last_name] => Nunes Silva
+  [address_state] => BA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10150 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 70e0ededdd6f8
+)
+
+07/12/2017 20:14: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LRCFWMVDE8FE2
+  [address_street] => Avenida Palestina 74
+Messejana
+  [payment_date] => 14:14:18 Dec 07, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 60871-580
+  [first_name] => Walter
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => Walter Italo
+  [notify_version] => 3.8
+  [custom] => 10152
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Fortaleza
+  [quantity] => 1
+  [verify_sign] => AvNGztuyhEIwVBPFweEILj.OtMqpAuPQsXPU7gi-ODYWbhgMD.CKH9PK
+  [payer_email] => walteritalo@outlook.com
+  [txn_id] => 3SB55087P3180094Y
+  [payment_type] => instant
+  [last_name] => Italo
+  [address_state] => CE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10152 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ad1ede1a3fd2c
+)
+
+07/12/2017 23:33: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 150.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XRERLSZBLJAX4
+  [address_street] => Rua do Guadalupe 167
+Guadalupe
+  [payment_date] => 17:33:33 Dec 07, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 53020-230
+  [first_name] => Hugo
+  [mc_fee] => 8.09
+  [address_country_code] => BR
+  [address_name] => Hugo Cesar
+  [notify_version] => 3.8
+  [custom] => 10155
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Olinda
+  [quantity] => 1
+  [verify_sign] => Ar6wCTp8YlmO7.k97vFMEpUqnpu1AMUPuJmGL2N7LE4VdTOACqgHaFnm
+  [payer_email] => huguinhow.cesar@gmail.com
+  [txn_id] => 0S313559ML6758640
+  [payment_type] => instant
+  [last_name] => Cesar
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10155 - 15000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6f26d5359f5c8
+)
+
+07/12/2017 23:36: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 150.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XRERLSZBLJAX4
+  [address_street] => Rua do Guadalupe 167
+Guadalupe
+  [payment_date] => 17:36:16 Dec 07, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 53020-230
+  [first_name] => Hugo
+  [mc_fee] => 8.09
+  [address_country_code] => BR
+  [address_name] => Hugo Cesar
+  [notify_version] => 3.8
+  [custom] => 10156
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Olinda
+  [quantity] => 1
+  [verify_sign] => AzBnxY5KhP2wK4C17t4FCJD0HonPA0u0GqySJhcOB4nSRc-TJlVnwog0
+  [payer_email] => huguinhow.cesar@gmail.com
+  [txn_id] => 3XD49828G7501541E
+  [payment_type] => instant
+  [last_name] => Cesar
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10156 - 15000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 43d69f3ae43fe
+)
+
+08/12/2017 01:38: TransaÃ§Ã£o recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 7.80
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => U93YCAXMHG94A
+  [address_street] => Wollenweberstraße 41 b
+  [payment_date] => 19:38:06 Dec 07, 2017 PST
+  [payment_status] => Pending
+  [charset] => windows-1252
+  [address_zip] => 14776
+  [first_name] => Christof
+  [address_country_code] => DE
+  [address_name] => Christof Hennecke
+  [notify_version] => 3.8
+  [custom] => 10158
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Germany
+  [address_city] => Brandenburg an der Havel
+  [quantity] => 1
+  [verify_sign] => AwsXDAf2e7v1XZ44mXmzbHyzJLmGAYEGLGPH8yWpFDshhE46rH8mRKcG
+  [payer_email] => hennecke@freenet.de
+  [txn_id] => 4YL274502U837182U
+  [payment_type] => instant
+  [last_name] => Hennecke
+  [address_state] => 
+  [receiver_email] => marciohattori@live.com
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [pending_reason] => multi_currency
+  [txn_type] => web_accept
+  [item_name] => Fatura 10158 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => DE
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d7aad01e3fa56
+)
+
+08/12/2017 13:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => unconfirmed
+  [payer_id] => 9B3Q2387ANM26
+  [tax] => 0.00
+  [address_street] => Rua AN 62 
+Odilon Resende
+  [payment_date] => 07:53:45 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 37410-000
+  [first_name] => Júlio
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Júlio Gallo
+  [notify_version] => 3.8
+  [custom] => 10166
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Três Corações
+  [quantity] => 1
+  [verify_sign] => ApO0CISVGNR3DBwf4-Rf6ZxUzi7YAP2gCQUR7zmBNW4nh0TJmu9cbk8u
+  [payer_email] => juliogallo2010@hotmail.com
+  [txn_id] => 4BA414921E441881S
+  [payment_type] => instant
+  [last_name] => Gallo
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10166 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => c77565938c4e1
+)
+
+08/12/2017 15:38: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 39CHVHP47ZE96
+  [address_street] => Rua Urca 280 ap 301
+Patrimônio
+  [payment_date] => 09:38:10 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 38411-084
+  [first_name] => Bruno
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Bruno Chahine Luco
+  [notify_version] => 3.8
+  [custom] => 10171
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Uberlândia
+  [quantity] => 1
+  [verify_sign] => A8NFEvDOxN2klS58ZYz2tK4eQLQAAUlV1Os0sjRdjfnjeZBqDH2Jm11y
+  [payer_email] => brunocluco@yahoo.com.br
+  [txn_id] => 92562379KU427010N
+  [payment_type] => instant
+  [last_name] => Chahine Luco
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10171 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a6d6fe98d3a09
+)
+
+08/12/2017 22:11: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VJWQB46N9JUW4
+  [address_street] => Rua Niteroi 202
+Mundstock
+  [payment_date] => 16:11:02 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 98700-000
+  [first_name] => JACIR
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => JACIR R JUNIOR
+  [notify_version] => 3.8
+  [custom] => 10196
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ijuí
+  [quantity] => 1
+  [verify_sign] => ArLPksYM-kRMtfxYb3SvpGtglw.rAAq3XANdciVBvRf7PNeCqabmT9ou
+  [payer_email] => basterntl@gmail.com
+  [txn_id] => 2HF93220DD352153D
+  [payment_type] => instant
+  [last_name] => R JUNIOR
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10196 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b7666d8f66aa5
+)
+
+08/12/2017 23:01: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 60.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KFN835JW4A9XY
+  [address_street] => Rua Santa Tereza 1655 
+Juçara
+  [payment_date] => 17:01:20 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 65900-540
+  [first_name] => hygo
+  [mc_fee] => 3.59
+  [address_country_code] => BR
+  [address_name] => hygo pereira e silva
+  [notify_version] => 3.8
+  [custom] => 10200
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Imperatriz
+  [quantity] => 1
+  [verify_sign] => AnO5sBb0r5zTpW6KTOICY-D4gE-.AXx.1YqZXOZIZum6fxmySx1Ax9tp
+  [payer_email] => hygo_itz@hotmail.com
+  [txn_id] => 5NM47370LN7109013
+  [payment_type] => instant
+  [last_name] => pereira e silva
+  [address_state] => MA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10200 - 6000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 331819ba6c049
+)
+
+08/12/2017 23:30: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VPWV82Q6CRFWL
+  [address_street] => Rua Joaquim Nunes Filho 161 apartamento 34
+Jardim Nova São João
+  [payment_date] => 17:30:35 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13874-132
+  [first_name] => Gustavo
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Gustavo Berti
+  [notify_version] => 3.8
+  [custom] => 10201
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São João da Boa Vista
+  [quantity] => 1
+  [verify_sign] => AYf6QnuZKkg-4S1oy5tiJBC.dpPAA875RO2jmEDAvrQTzFxaRo5v7tvE
+  [payer_email] => gustavosnb@hotmail.com
+  [txn_id] => 3H3017900J433654Y
+  [payment_type] => instant
+  [last_name] => Berti
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10201 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d96e6bc0c93fe
+)
+
+09/12/2017 00:34: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 60.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => S4FRW4MBGBUGL
+  [address_street] => Praca Padre Nelson Tafuri 123 Em Frente a Praça
+Centro
+  [payment_date] => 18:34:27 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 36546-000
+  [first_name] => Gabriel Matias
+  [mc_fee] => 3.59
+  [address_country_code] => BR
+  [address_name] => Gabriel Matias Gonçalves
+  [notify_version] => 3.8
+  [custom] => 10204
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Divinésia
+  [quantity] => 1
+  [verify_sign] => AA94rXPuwbnEqrCDvdgA17jQLoubAuJrl8JNtwJ43d98hJe509eefvvU
+  [payer_email] => gabriel.matias@engenharia.ufjf.br
+  [txn_id] => 7X716617CW949751G
+  [payment_type] => instant
+  [last_name] => Gonçalves
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10204 - 6000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 18fa129423db7
+)
+
+09/12/2017 01:08: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DWMKJLTELY436
+  [address_street] => Rua Conselheiro Oscar Gressler 432
+Aliança
+  [payment_date] => 19:08:12 Dec 08, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 96830-710
+  [first_name] => jonathan
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Jonathan Oliveira
+  [notify_version] => 3.8
+  [custom] => 10208
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Santa Cruz do sul
+  [quantity] => 1
+  [verify_sign] => AludIssruswCj3h.2ctixrnl41J3AwCKjcu-luhuSlellb82i3PXcpbw
+  [payer_email] => jonathan_sk@live.com
+  [txn_id] => 54P99629W4360534P
+  [payment_type] => instant
+  [last_name] => Oliveira
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10208 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3534838a4ce5e
+)
+
+09/12/2017 12:34: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 7.80
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => U93YCAXMHG94A
+  [tax] => 0.00
+  [address_street] => Wollenweberstraße 41 b
+  [payment_date] => 19:38:06 Dec 07, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 14776
+  [first_name] => Christof
+  [mc_fee] => 0.93
+  [address_country_code] => DE
+  [address_name] => Christof Hennecke
+  [notify_version] => 3.8
+  [custom] => 10158
+  [payer_status] => verified
+  [address_country] => Germany
+  [address_city] => Brandenburg an der Havel
+  [quantity] => 1
+  [verify_sign] => AORdUdVOcTbFpJzp6KeexD8Qpe5CA3NmEbOOjUU07Sh9vPZ6CqwDCcXR
+  [payer_email] => hennecke@freenet.de
+  [txn_id] => 4YL274502U837182U
+  [payment_type] => instant
+  [last_name] => Hennecke
+  [address_state] => 
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10158 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => DE
+  [shipping_method] => Default
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 21fee746dc6e4
+)
+
+09/12/2017 13:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => TJKTZU77VUJCW
+  [address_street] => Avenida Dos Astronautas 1041 
+Jardim souto
+  [payment_date] => 07:19:42 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 12227-010
+  [first_name] => Rafael
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Rafael Sendrete de souza
+  [notify_version] => 3.8
+  [custom] => 10218
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São José Dos Campos
+  [quantity] => 1
+  [verify_sign] => AwpX6RxUvsgn-cSBpZ4piU5QlLfrAC0v8oHLgg9m3VqTSslRtGPhvO1U
+  [payer_email] => rafaelsendrete@gmail.com
+  [txn_id] => 0GY88964LS876584V
+  [payment_type] => instant
+  [last_name] => Sendrete de souza
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10218 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 43413317a4a80
+)
+
+09/12/2017 13:27: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 80.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => K3FGH8GJ4EK4L
+  [address_street] => Rua Teldo Kasper 386
+Chácara Cachoeira
+  [payment_date] => 07:27:47 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79040-840
+  [first_name] => SERGIO
+  [mc_fee] => 4.59
+  [address_country_code] => BR
+  [address_name] => SERGIO EIRAS
+  [notify_version] => 3.8
+  [custom] => 10222
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Campo Grande
+  [quantity] => 1
+  [verify_sign] => ARIKf95opYANz7mTVxcMC-vaVTMyAPbuy0FAwCXIpq.uLO37HpPK6jS8
+  [payer_email] => rehwatson@gmail.com
+  [txn_id] => 1SK43707N0015005V
+  [payment_type] => instant
+  [last_name] => EIRAS
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10222 - 8000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2dff1d613d9ae
+)
+
+09/12/2017 14:23: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 2.60
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => NWWVH9BL8TPDS
+  [address_street] => Wollenweberstr. 41b
+  [payment_date] => 08:23:45 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 14776
+  [first_name] => Edson Delmiro
+  [mc_fee] => 0.54
+  [address_country_code] => DE
+  [address_name] => Edson Delmiro Da Silva Neto
+  [notify_version] => 3.8
+  [custom] => 10227
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Germany
+  [address_city] => Brandenburg
+  [quantity] => 1
+  [verify_sign] => AlYYfnOIe8LsEpqioEtqmiJEorJ6ATEPyLqtGecsWvh8x3iNWGWdSddl
+  [payer_email] => delkmiroph@icloud.com
+  [txn_id] => 8DM43533R2024823H
+  [payment_type] => instant
+  [last_name] => Da Silva Neto
+  [address_state] => 
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10227 - 1000 Cash
+  [discount] => 0.00
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => DE
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9cf416f1e977e
+)
+
+09/12/2017 15:41: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 12.40
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 09:41:21 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 1.22
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10237
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => A4dvO6ziI41Hh1-CJcFu5iRu46V8A1UNzhs.G0c6lXmbaqEPIpFbFyNp
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 58Y50106YP415211A
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 1.22
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10237 - 4000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 12.40
+  [ipn_track_id] => 9f112cd091398
+)
+
+09/12/2017 15:46: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => TAQUUFHVBYQR2
+  [address_street] => Rua Carlos Maximiliano 42 Sobrado
+Vila Centenário
+  [payment_date] => 09:46:09 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 25030-056
+  [first_name] => filippe
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => filippe jobim rocha
+  [notify_version] => 3.8
+  [custom] => 10197
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Duque de Caxias
+  [quantity] => 1
+  [verify_sign] => Ae81T1zESLxGjfIOhHAZbsfz9wxnAfJYHfOsoDpOMX9LWFaJeaKVcfmY
+  [payer_email] => filippe.jobim@gmail.com
+  [txn_id] => 3HA45270519250117
+  [payment_type] => instant
+  [last_name] => jobim rocha
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10197 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 22f8aef82d2d7
+)
+
+09/12/2017 16:01: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 10:01:37 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10239
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => AUtbEk-ov2fwD1UqFSvy6EofNH3hAF4mgMUbMuDKsDImFmiuuwTpm0f4
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 9W2269404J066290N
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10239 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6b8d1b9e5de01
+)
+
+09/12/2017 16:12: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 31.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9EMXY9UBGRG6Y
+  [address_street] => don bosco 373
+  [payment_date] => 10:11:50 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1876
+  [first_name] => martin
+  [mc_fee] => 2.59
+  [address_country_code] => AR
+  [address_name] => martin pena
+  [notify_version] => 3.8
+  [custom] => 10242
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => quilmes
+  [quantity] => 1
+  [verify_sign] => Ar-MBBmVmpinyzTe11OVHmmUrRWDAs96pPrVi01X3fq.QXwlYx1a4VpV
+  [payer_email] => totto.7@hotmail.com
+  [txn_id] => 0HB243949E587413G
+  [payment_type] => instant
+  [last_name] => pena
+  [address_state] => BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 2.59
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10242 - 10000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 31.00
+  [ipn_track_id] => 50b1722aecc0d
+)
+
+09/12/2017 16:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LWPEZSQVFY78N
+  [address_street] => Avenida Conselheiro Furtado 205 casa 09
+Batista Campos
+  [payment_date] => 10:19:18 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66025-160
+  [first_name] => GINDEONY
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => GINDEONY FERNANDA S SANTOS
+  [notify_version] => 3.8
+  [custom] => 10244
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AIcu3kaFs9juR7zWeAOGXb8oUAESAL1T.g8tiyyWMNiEMFyRXtF.LSLC
+  [payer_email] => fambaghostproducer@gmail.com
+  [txn_id] => 31R53128DG921851L
+  [payment_type] => instant
+  [last_name] => FERNANDA S SANTOS
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10244 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f24b12a8756a4
+)
+
+09/12/2017 17:07: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 9.30
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => B2PXUV5KX6BES
+  [address_street] => Belgrano 12
+Quilmes
+  [payment_date] => 11:06:53 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1874
+  [first_name] => Santiago
+  [mc_fee] => 0.99
+  [address_country_code] => AR
+  [address_name] => Santiago Barrios
+  [notify_version] => 3.8
+  [custom] => 10246
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Bernal
+  [quantity] => 1
+  [verify_sign] => AX2otWfUSEoxn6hZfwcoDwIr9Ke9ARr-A2q6NedhOjjqeRxLnLvN70oC
+  [payer_email] => santi.cappelletti@gmail.com
+  [txn_id] => 30R875226Y5036408
+  [payment_type] => instant
+  [last_name] => Barrios
+  [address_state] => Ciudad de Buenos Aires
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.99
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10246 - 3000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 9.30
+  [ipn_track_id] => 8534867826e56
+)
+
+09/12/2017 17:26: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 79RPABN78VYWY
+  [address_street] => QUADRA 9 CONJUNTO A  CASA 3
+SETOR SUL (GAMA)
+  [payment_date] => 11:26:18 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 72410-501
+  [first_name] => Clediomir
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Clediomir Silva
+  [notify_version] => 3.8
+  [custom] => 10248
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => BRASÍLIA
+  [quantity] => 1
+  [verify_sign] => A.9qDT0lx0Cvr4-9jTAPTe-jjPkAAWIiVgAYq1BL1kscexEe1.AaOlLv
+  [payer_email] => clediomir@gmail.com
+  [txn_id] => 1EB95578D3392745F
+  [payment_type] => instant
+  [last_name] => Silva
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10248 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 88d11745c9b1f
+)
+
+09/12/2017 17:41: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => UBLASK5W4TELS
+  [address_street] => Avenida de Inhamã 05 casa
+Inhamã
+  [payment_date] => 11:40:56 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 53625-816
+  [first_name] => Douglas
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Douglas Willamis
+  [notify_version] => 3.8
+  [custom] => 10249
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Igarassu
+  [quantity] => 1
+  [verify_sign] => ALPWfLkNfjoQ8iFalYRFrFQ9HeMJATTsTqgC3JgIMdHMVynbC2E8Zxpq
+  [payer_email] => douglaswillamis@gmail.com
+  [txn_id] => 4NJ29886NF951110F
+  [payment_type] => instant
+  [last_name] => Willamis
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10249 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3023b2c67233d
+)
+
+09/12/2017 18:47: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 21.70
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => CCFK475BXN9AE
+  [address_street] => belgrano 279
+  [payment_date] => 12:47:39 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1876
+  [first_name] => nicolas
+  [mc_fee] => 1.91
+  [address_country_code] => AR
+  [address_name] => nicolas russomanno
+  [notify_version] => 3.8
+  [custom] => 10253
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => bernal
+  [quantity] => 1
+  [verify_sign] => AykqF7FpmdSyISz3vPZvQp3HUrn1Ak--tK1bZ682A1k6wvFXmWThu-X3
+  [payer_email] => r.nicoo.-@hotmail.com
+  [txn_id] => 2UD74640MB2487246
+  [payment_type] => instant
+  [last_name] => russomanno
+  [address_state] => CIUDAD AUTÓNOMA DE BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 1.91
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10253 - 7000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 21.70
+  [ipn_track_id] => 3cbc0801f1ec6
+)
+
+09/12/2017 18:57: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 12:57:28 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10255
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => AStk.H7nDr0qbVqMIi3oLxfSMkxpAuioVC8LYpOkM5Xqagr3a26oTfkx
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 73500387T4797290E
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10255 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f7e8dc5e9c2d3
+)
+
+09/12/2017 19:11: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 24.80
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => MH8MY5GMXW29A
+  [address_street] => jujuy 1002
+  [payment_date] => 13:11:21 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1878
+  [first_name] => Facundo
+  [mc_fee] => 2.14
+  [address_country_code] => AR
+  [address_name] => Facundo Gomez
+  [notify_version] => 3.8
+  [custom] => 10257
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Quilmes
+  [quantity] => 1
+  [verify_sign] => AMUoEPDhke3ZZQ5XEgVgpgMR9PF1A0FrTlSwYheqoX.XuEj57QtsdnjD
+  [payer_email] => faq_cai7@hotmail.com
+  [txn_id] => 90V49569LT4545510
+  [payment_type] => instant
+  [last_name] => Gomez
+  [address_state] => CIUDAD AUTÓNOMA DE BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 2.14
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10257 - 8000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 24.80
+  [ipn_track_id] => 32df679837a5d
+)
+
+09/12/2017 19:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 13:25:29 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10259
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => ATw5SuGuSbsK8y89HlmxAp6asqzYAugBE.zpJlVe0DXwYKL4Slt.TSdc
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 43W8578611229642G
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10259 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1c22a674129a4
+)
+
+09/12/2017 19:28: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 13:27:58 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10263
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => AFiwdgczHif88keOjUDmghgRLwaTA9j.Tkg1j-Rxa4UX2cM99M5iu26g
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 8GF86700R9099911B
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10263 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6bb413debf51c
+)
+
+09/12/2017 19:30: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 70.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => UY5TYJV82EV6W
+  [address_street] => Praca 19 de Marco 212
+Bairro Jussara
+  [payment_date] => 13:30:17 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 75400-000
+  [first_name] => SAULO
+  [mc_fee] => 4.09
+  [address_country_code] => BR
+  [address_name] => SAULO B DE OLIVEIRA
+  [notify_version] => 3.8
+  [custom] => 10261
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Inhumas
+  [quantity] => 1
+  [verify_sign] => Aj3tCD0fUEoQIivghkxruVbGmnq1A4Blj-9QDP0-GLzNbp2eoF.o4Tqp
+  [payer_email] => sauloborgeso@gmail.com
+  [txn_id] => 93G84405MM0446144
+  [payment_type] => instant
+  [last_name] => B DE OLIVEIRA
+  [address_state] => GO
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10261 - 7000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => fcec3f6f7b117
+)
+
+09/12/2017 19:30: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 13:30:42 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10265
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => A-0xUbglLfEkLUxCKs.ANz2Fal8pAaSh6GpnwCJC-UHjwVrFbx4UUQZr
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 8HV28752LR632872L
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10265 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6c9c77d2969fc
+)
+
+09/12/2017 20:15: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 14:15:46 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10269
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => AtUMA2fiR0.SiPWRU1MJF2dvVTflAlebCaiaQQlyQWkKVskrc62-8sqs
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 8TB29445LY239882P
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10269 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 7aeb3cd4e8163
+)
+
+09/12/2017 21:54: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 15:54:02 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10273
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => AD6C79xhj.Y5cDm-qjDh6fjKobhjAohVAvgVcfWnA7aJ0CeolJg9GqHe
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 7ED83503GT929462P
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10273 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3510293882b42
+)
+
+09/12/2017 22:00: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 12.40
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => FLEA5AUAYSWWA
+  [address_street] => guido 445
+guido 445
+  [payment_date] => 16:00:15 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1878
+  [first_name] => fernando ruben
+  [mc_fee] => 1.22
+  [address_country_code] => AR
+  [address_name] => fernando ruben vitali
+  [notify_version] => 3.8
+  [custom] => 10275
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => quilmes
+  [quantity] => 1
+  [verify_sign] => A4pZIh62FhNdnJak8Ji5s8NW0f1LAS8LpCjVK-ZivyWAe4JxBpKhfaNt
+  [payer_email] => feervitali@hotmail.com
+  [txn_id] => 5SU71611DR2994026
+  [payment_type] => instant
+  [last_name] => vitali
+  [address_state] => CIUDAD AUTÓNOMA DE BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 1.22
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10275 - 4000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 12.40
+  [ipn_track_id] => ae778a63581f
+)
+
+10/12/2017 01:10: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => APMMNJCGNQ2S2
+  [address_street] => Rua Salustiano Silva 2 casa 6
+Magalhães Bastos
+  [payment_date] => 19:09:52 Dec 09, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 21745-590
+  [first_name] => Samuel
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Samuel Lyra Elias
+  [notify_version] => 3.8
+  [custom] => 10280
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio de Janeiro
+  [quantity] => 1
+  [verify_sign] => A3-qC03qwNU8FpdYb2QywgPVwOCTAY0Gkq7-0br5PDRGq91zsgJDVVRp
+  [payer_email] => mnlyra24@gmail.com
+  [txn_id] => 4U92720901710271L
+  [payment_type] => instant
+  [last_name] => Lyra Elias
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10280 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 5a0ac72d30a6
+)
+
+10/12/2017 09:40: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => F5YAL5PS3WHNL
+  [address_street] => Avenida Tancredo Neves 5057 Condominio Terra Nova Casa 500
+Conjunto B
+  [payment_date] => 03:40:17 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 85867-000
+  [first_name] => Leonardo
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Leonardo Silva De Oliveira
+  [notify_version] => 3.8
+  [custom] => 10284
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Foz do Iguaçu
+  [quantity] => 1
+  [verify_sign] => A0hdSlgPyXOjo.-ut9BbGClsEZf9AD0xALaWDqqmx0PIMwv07Z8qedjL
+  [payer_email] => jockard@live.com
+  [txn_id] => 6UR4118340299404Y
+  [payment_type] => instant
+  [last_name] => Silva De Oliveira
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10284 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c03d02133f629
+)
+
+10/12/2017 10:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9PRTPCYMJ5Q3J
+  [address_street] => Rua Riachuelo 1293 
+Centro Histórico
+  [payment_date] => 04:19:33 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 90010-271
+  [first_name] => Henrique
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Henrique Munhoz
+  [notify_version] => 3.8
+  [custom] => 10287
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Porto Alegre
+  [quantity] => 1
+  [verify_sign] => A.Q0ie.N0ZmRDWPgB.u2p7cE1xYNA5ZE9WfP00ItsBYKkyg34U8uT9QH
+  [payer_email] => henriquemunhoz321@gmail.com
+  [txn_id] => 4RR03007NU840823B
+  [payment_type] => instant
+  [last_name] => Munhoz
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10287 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b62258922a87
+)
+
+10/12/2017 13:16: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LWPEZSQVFY78N
+  [address_street] => Avenida Conselheiro Furtado 205 casa 09
+Batista Campos
+  [payment_date] => 07:15:57 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66025-160
+  [first_name] => GINDEONY
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => GINDEONY FERNANDA S SANTOS
+  [notify_version] => 3.8
+  [custom] => 10289
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AAIZB-irM.a7gENnYO9areN7dUZnAvGiYBG98xNzXr8rt3j5hP5nr3sD
+  [payer_email] => fambaghostproducer@gmail.com
+  [txn_id] => 41387993CV375453N
+  [payment_type] => instant
+  [last_name] => FERNANDA S SANTOS
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10289 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 115c8e56c2d9b
+)
+
+10/12/2017 15:54: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 6.20
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 38CGGQEATGSZC
+  [address_street] => 24/4 Nui Mot
+  [payment_date] => 09:54:24 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 57000
+  [first_name] => Pham
+  [mc_fee] => 0.76
+  [address_country_code] => VN
+  [address_name] => Pham Dat
+  [notify_version] => 3.8
+  [custom] => 10293
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Vietnam
+  [address_city] => Nha Trang
+  [quantity] => 1
+  [verify_sign] => AZa.qp9Sm9azQ2uZ79zJsk0S6GTsAXDq5MTv3kUtlF01jg9wBAZBfnYa
+  [payer_email] => tylor_kid2004@yahoo.com
+  [txn_id] => 4C869991R5396035E
+  [payment_type] => instant
+  [last_name] => Dat
+  [address_state] => Khanh Hoa
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.76
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10293 - 2000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => VN
+  [transaction_subject] => 
+  [payment_gross] => 6.20
+  [ipn_track_id] => a6c8e1237bb7c
+)
+
+10/12/2017 17:44: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => S4FRW4MBGBUGL
+  [address_street] => Praca Padre Nelson Tafuri 123 Em Frente a Praça
+Centro
+  [payment_date] => 11:44:40 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 36546-000
+  [first_name] => Gabriel Matias
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => Gabriel Matias Gonçalves
+  [notify_version] => 3.8
+  [custom] => 10297
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Divinésia
+  [quantity] => 1
+  [verify_sign] => A6U8o4ynbcyaltOoESW5ejsnjOfdAYn7XBAIeEY6rdn-wAjQXVMUkf0F
+  [payer_email] => gabriel.matias@engenharia.ufjf.br
+  [txn_id] => 8KX434417L1224934
+  [payment_type] => instant
+  [last_name] => Gonçalves
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10297 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 85f2193932424
+)
+
+10/12/2017 17:46: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 31.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => M3DEMZJTAB2QW
+  [address_street] => 1119 washington street
+  [payment_date] => 11:46:04 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 02189
+  [first_name] => Gustavo
+  [mc_fee] => 2.59
+  [address_country_code] => US
+  [address_name] => Gustavo Tintureira
+  [notify_version] => 3.8
+  [custom] => 10298
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => United States
+  [address_city] => weymouth
+  [quantity] => 1
+  [verify_sign] => APUeHBQ7FlbIrLl0rkaqNQJas.6dA5suQISpwYqDXgeU61H9ajDi6JZ9
+  [payer_email] => gustavoniz_@hotmail.com
+  [txn_id] => 7N947329S4217323L
+  [payment_type] => instant
+  [last_name] => Tintureira
+  [address_state] => MA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 2.59
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10298 - 10000 Cash
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => US
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 31.00
+  [ipn_track_id] => 5b1687a58d783
+)
+
+10/12/2017 18:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => D5NVZTV4QSESG
+  [address_street] => Rua Doutor Gordiano 216 301
+Prado
+  [payment_date] => 12:53:33 Dec 10, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 30411-080
+  [first_name] => Pedro
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Pedro Henrique Leal Rocha
+  [notify_version] => 3.8
+  [custom] => 10300
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belo Horizonte
+  [quantity] => 1
+  [verify_sign] => AgsbsAr9tR9sBLlAHgDl.EyS2GXcAaHkcr0nO.cRLDzRA597wrVd1LgJ
+  [payer_email] => badinhu@hotmail.com
+  [txn_id] => 0KJ0932084163574X
+  [payment_type] => instant
+  [last_name] => Henrique Leal Rocha
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10300 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f592e50043aa5
+)
+
+11/12/2017 10:17: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => S9NJKGRUZ9RUJ
+  [address_street] => Rua Duque de Caxias 347 casa
+Centro
+  [payment_date] => 04:17:19 Dec 11, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13520-000
+  [first_name] => Erick
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Erick Marrega
+  [notify_version] => 3.8
+  [custom] => 10318
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Pedro
+  [quantity] => 1
+  [verify_sign] => A-QNBItHZxadectfxpefiXGYZ9InAufABXRF4D.0Z932NddwwL75MXgV
+  [payer_email] => marrega_jj@hotmail.com
+  [txn_id] => 3FY42327V5307373D
+  [payment_type] => instant
+  [last_name] => Marrega
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10318 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 358f7176b4027
+)
+
+11/12/2017 20:58: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 12.40
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 92Z2XPR2CXZ8Y
+  [address_street] => Calle 165 nro 784
+  [payment_date] => 14:58:19 Dec 11, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1876
+  [first_name] => Ezequiel
+  [mc_fee] => 1.22
+  [address_country_code] => AR
+  [address_name] => Ezequiel Luna
+  [notify_version] => 3.8
+  [custom] => 10328
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Quilmes
+  [quantity] => 1
+  [verify_sign] => Ap6NvMS9obY81XaOJnXzBUL.LTIQA2G7fvotsk9fTcg-1xjzvATSBYj4
+  [payer_email] => kelocelote4@hotmail.com
+  [txn_id] => 4MA60258US836441T
+  [payment_type] => instant
+  [last_name] => Luna
+  [address_state] => Buenos Aires (Provincia)
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 1.22
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10328 - 4000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 12.40
+  [ipn_track_id] => 5cb6a9d29faa
+)
+
+11/12/2017 23:17: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => S9NJKGRUZ9RUJ
+  [address_street] => Rua Duque de Caxias 347 casa
+Centro
+  [payment_date] => 17:16:53 Dec 11, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13520-000
+  [first_name] => Erick
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Erick Marrega
+  [notify_version] => 3.8
+  [custom] => 10331
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Pedro
+  [quantity] => 1
+  [verify_sign] => AyfAAFlbgqo5YPxuAqFYI4EqaVRkAi6Q0wN-1iE0vONEiuIFTqMcy5YC
+  [payer_email] => marrega_jj@hotmail.com
+  [txn_id] => 3KW72091SF8811715
+  [payment_type] => instant
+  [last_name] => Marrega
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10331 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 5ce27030199f9
+)
+
+12/12/2017 04:34: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 3.10
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 38CGGQEATGSZC
+  [address_street] => 24/4 Nui Mot
+  [payment_date] => 22:33:58 Dec 11, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 57000
+  [first_name] => Pham
+  [mc_fee] => 0.53
+  [address_country_code] => VN
+  [address_name] => Pham Dat
+  [notify_version] => 3.8
+  [custom] => 10338
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Vietnam
+  [address_city] => Nha Trang
+  [quantity] => 1
+  [verify_sign] => ABnr0lOvAjIrKLH1gKWzGsfHmtUkAdkhtPxIO43SeIL9aDNV2G-RTvbs
+  [payer_email] => tylor_kid2004@yahoo.com
+  [txn_id] => 8JT50280KF6873206
+  [payment_type] => instant
+  [last_name] => Dat
+  [address_state] => Khanh Hoa
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.53
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10338 - 1000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => VN
+  [transaction_subject] => 
+  [payment_gross] => 3.10
+  [ipn_track_id] => 9b6aeb317296f
+)
+
+12/12/2017 14:36: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => FNTGPV5YZKSD4
+  [address_street] => Rua Sílvio Silvério de Lima 105
+Jardim Santa Cruz
+  [payment_date] => 08:35:59 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 18275-700
+  [first_name] => VINICIUS ROMANO
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => VINICIUS ROMANO CAMARGO
+  [notify_version] => 3.8
+  [custom] => 10350
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Tatuí
+  [quantity] => 1
+  [verify_sign] => AkKsl2OITH.Qt24EU.oMnTqSI3QWAnrxC9HNCSQqFUGbQLIk2R2QUs16
+  [payer_email] => vinicius.romano_c@hotmail.com
+  [txn_id] => 5JU67419TR4037911
+  [payment_type] => instant
+  [last_name] => CAMARGO
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10350 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 44fafa1e315c
+)
+
+12/12/2017 23:44: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 17:44:16 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 3.56
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10366
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AjZjvRuTvkbaMgEl2OrzYqn.qh5AA2JpvuA7Ttbpja2gw4DWT0aEks8T
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 55F95662JM2570743
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10366 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a12ed8375ac2f
+)
+
+12/12/2017 23:50: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 17:50:27 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10367
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => Aky-U7IsZ9-oGENoyd17eQHAWjEGANnbcZSLeu9DwHCi2PcPKt5ElMdI
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 50S00801V55286109
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10367 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3e3c2781c568a
+)
+
+13/12/2017 00:27: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => Y9HR3J7TN5ZHQ
+  [address_street] => Quadra Qc 6 Rua a 7
+Jardins Mangueiral
+  [payment_date] => 18:27:03 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 71699-262
+  [first_name] => Felipe
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Felipe Torres
+  [notify_version] => 3.8
+  [custom] => 10368
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Brasília
+  [quantity] => 1
+  [verify_sign] => Adxx8kXnF7PlbjE66OfL3ha9oHm7A4xL2UgzMjFXF9XYSfJCatDn8IN6
+  [payer_email] => felipemailtorres@gmail.com
+  [txn_id] => 5TW04852W8847833R
+  [payment_type] => instant
+  [last_name] => Torres
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10368 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6cd9b044a3dc
+)
+
+13/12/2017 00:48: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9PRTPCYMJ5Q3J
+  [address_street] => Rua Riachuelo 1293 
+Centro Histórico
+  [payment_date] => 18:48:36 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 90010-271
+  [first_name] => Henrique
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Henrique Munhoz
+  [notify_version] => 3.8
+  [custom] => 10372
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Porto Alegre
+  [quantity] => 1
+  [verify_sign] => AzA7FoHvjaOPATEpAzpOt1C16oGeA5A0gUbqSaJ0uPINo1Dt74x-AipW
+  [payer_email] => henriquemunhoz321@gmail.com
+  [txn_id] => 6RT681984F1464039
+  [payment_type] => instant
+  [last_name] => Munhoz
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10372 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 92c7de0b8db
+)
+
+13/12/2017 00:52: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9PRTPCYMJ5Q3J
+  [address_street] => Rua Riachuelo 1293 
+Centro Histórico
+  [payment_date] => 18:52:40 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 90010-271
+  [first_name] => Henrique
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Henrique Munhoz
+  [notify_version] => 3.8
+  [custom] => 10374
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Porto Alegre
+  [quantity] => 1
+  [verify_sign] => ACn0mr1kaCgv5g2f9wMQ-Yf0ggcBAOvJoIL8clfENW2iud08sO.Z4Cxn
+  [payer_email] => henriquemunhoz321@gmail.com
+  [txn_id] => 23210363UX583102R
+  [payment_type] => instant
+  [last_name] => Munhoz
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10374 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d6b8b8e38965f
+)
+
+13/12/2017 01:28: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => AUMLSGSVULCS6
+  [address_street] => Rua Rio Grande do norte 255 apto 102
+  [payment_date] => 19:27:46 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 95670-000
+  [first_name] => Jhonatan
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Jhonatan Hoffmann
+  [notify_version] => 3.8
+  [custom] => 10376
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Gramado
+  [quantity] => 1
+  [verify_sign] => ABap6vIOy0upV.LT-ny88jv6yTiwABstBrG0FKcL0n2ldZGv1qT5eQ8e
+  [payer_email] => bin_laden_br@hotmail.com
+  [txn_id] => 77440243YD2458209
+  [payment_type] => instant
+  [last_name] => Hoffmann
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10376 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 111dccb37bc7b
+)
+
+13/12/2017 02:01: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => TMYKTUACQY9YY
+  [address_street] => Rua Carlos Chagas 352
+Zona 05
+  [payment_date] => 20:01:12 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 87015-240
+  [first_name] => Cezar
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Cezar Castilho
+  [notify_version] => 3.8
+  [custom] => 10378
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Maringá
+  [quantity] => 1
+  [verify_sign] => AKc96eBRDik4SWDSmeMLado72zn8A-rNR9ecb9hw8mguWL.2rzsdz410
+  [payer_email] => cezar_augusto_10@outlook.com
+  [txn_id] => 5YH61111SE074194G
+  [payment_type] => instant
+  [last_name] => Castilho
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10378 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2f5994c4a605b
+)
+
+13/12/2017 02:03: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => TMYKTUACQY9YY
+  [address_street] => Rua Carlos Chagas 352
+Zona 05
+  [payment_date] => 20:03:17 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 87015-240
+  [first_name] => Cezar
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Cezar Castilho
+  [notify_version] => 3.8
+  [custom] => 10379
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Maringá
+  [quantity] => 1
+  [verify_sign] => AejPql6LWSUwNBtBtik1mnp3aBATAVEHoxVAYqpW-3xl37Yu64-U19Zr
+  [payer_email] => cezar_augusto_10@outlook.com
+  [txn_id] => 3WE763127D361383G
+  [payment_type] => instant
+  [last_name] => Castilho
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10379 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 93b8a7be29a90
+)
+
+13/12/2017 02:56: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 6.20
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VU4BA7UJ6TRJG
+  [address_street] => 6 Monika Ln
+  [payment_date] => 20:56:45 Dec 12, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 06804-3926
+  [first_name] => Eduardo
+  [mc_fee] => 0.76
+  [address_country_code] => US
+  [address_name] => Eduardo Guiselini
+  [notify_version] => 3.8
+  [custom] => 10380
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => United States
+  [address_city] => Brookfield
+  [quantity] => 1
+  [verify_sign] => ATZeES7HSChOHiWSQPSPwiCOO4GsACeVaeaatBBYnEsWWGtnUmBhcKU.
+  [payer_email] => Duducianorte001@hotmail.com
+  [txn_id] => 94K74199633069353
+  [payment_type] => instant
+  [last_name] => Guiselini
+  [address_state] => CT
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.76
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10380 - 2000 Cash
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => US
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 6.20
+  [ipn_track_id] => d4464d2911fbb
+)
+
+13/12/2017 14:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VX6T3BE27EXAQ
+  [address_street] => Rua Cícero de Freitas Barros 199
+Bela Vista
+  [payment_date] => 08:19:00 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 38301-222
+  [first_name] => Hendrix
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Hendrix soares da silva
+  [notify_version] => 3.8
+  [custom] => 10395
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ituiutaba
+  [quantity] => 1
+  [verify_sign] => A974NHHIJ5Z2La-K84ANg8ZL4W0dAmHpLCjHy8UtONFRRFLFNh3KxNpm
+  [payer_email] => hendrix.silva01@gmail.com
+  [txn_id] => 84571468UK997172M
+  [payment_type] => instant
+  [last_name] => soares da silva
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10395 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 4363ee2c4bf11
+)
+
+13/12/2017 16:35: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => RAJVNEELGSRHG
+  [address_street] => Rua São Rafael 2117 fundo
+Jardim Redentor
+  [payment_date] => 10:35:26 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 17032-240
+  [first_name] => anderson
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => anderson priolo da silva santos
+  [notify_version] => 3.8
+  [custom] => 10398
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Bauru
+  [quantity] => 1
+  [verify_sign] => A9eW7ONKAzoaKmplLddROz52.-UkAGVp4ZJjpdcGpT5.UBhCCfXqFWL-
+  [payer_email] => allansantos890@gmail.com
+  [txn_id] => 9P673610FF045374D
+  [payment_type] => instant
+  [last_name] => priolo da silva santos
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10398 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 4d62a37ec8055
+)
+
+13/12/2017 19:09: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 13:09:05 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 2.08
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10401
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => A5h-gtF0C0NWpfvKO0PwX--jWXC5AK9sgvqBOEw3eZvAx0ANrVmW383j
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 24Y818739T8958547
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10401 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 224f08c678246
+)
+
+13/12/2017 19:17: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDHFVQPD7WAZY
+  [address_street] => Rua José Daux 73
+Canasvieiras
+  [payment_date] => 13:17:25 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 88054-250
+  [first_name] => Elvio
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Alexandre Henrique netto
+  [notify_version] => 3.8
+  [custom] => 10403
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Florianópolis
+  [quantity] => 1
+  [verify_sign] => A.VQdA.u5bvQco7zfBi3w9l55NEMA8QxtCmqfLJJD4nKc1JAidpZSLpD
+  [payer_email] => alexandrehknetto@gmail.com
+  [txn_id] => 5EH004698X932432L
+  [payment_type] => instant
+  [last_name] => Jose Kretzer
+  [address_state] => SC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10403 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 746a6c3af0716
+)
+
+13/12/2017 19:23: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 6.20
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VU4BA7UJ6TRJG
+  [address_street] => 6 Monika Ln
+  [payment_date] => 13:23:37 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 06804-3926
+  [first_name] => Eduardo
+  [mc_fee] => 0.76
+  [address_country_code] => US
+  [address_name] => Eduardo Guiselini
+  [notify_version] => 3.8
+  [custom] => 10404
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => United States
+  [address_city] => Brookfield
+  [quantity] => 1
+  [verify_sign] => ATGAhg2c3V8dlK.0WJG0.A.KSVQuAROL53BiB0Fc9zvNZ0zD-NCW0VKF
+  [payer_email] => Duducianorte001@hotmail.com
+  [txn_id] => 31Y27538G8662684M
+  [payment_type] => instant
+  [last_name] => Guiselini
+  [address_state] => CT
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.76
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10404 - 2000 Cash
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => US
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 6.20
+  [ipn_track_id] => 97c77b3749be6
+)
+
+13/12/2017 21:02: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 9.30
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VU4BA7UJ6TRJG
+  [address_street] => 6 Monika Ln
+  [payment_date] => 15:02:29 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 06804-3926
+  [first_name] => Eduardo
+  [mc_fee] => 0.99
+  [address_country_code] => US
+  [address_name] => Eduardo Guiselini
+  [notify_version] => 3.8
+  [custom] => 10406
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => United States
+  [address_city] => Brookfield
+  [quantity] => 1
+  [verify_sign] => A8..E3Y3hcdkFh.mXOBMrKX0FmEkAAMuZgpVredzaK0gy-6sJ4U2kov4
+  [payer_email] => Duducianorte001@hotmail.com
+  [txn_id] => 3AJ29607VT065215J
+  [payment_type] => instant
+  [last_name] => Guiselini
+  [address_state] => CT
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.99
+  [shipping_discount] => 0.00
+  [insurance_amount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Invoice 10406 - 3000 Cash
+  [discount] => 0.00
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => US
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 9.30
+  [ipn_track_id] => 333f804fa21ca
+)
+
+13/12/2017 22:14: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => ZKGXX8VVFLS9Q
+  [address_street] => Rua Joaquim José da Silva Xavier 27
+Vila Paraíso
+  [payment_date] => 16:14:39 Dec 13, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13843-016
+  [first_name] => Alan bruno
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => ONFLICK
+  [notify_version] => 3.8
+  [custom] => 10409
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Mogi Guaçu
+  [quantity] => 1
+  [verify_sign] => A1MLS5h2m2oZtK4pPfsP207.F3fMAqdB3OA5xLGMh0uvuZ-clDcaA30u
+  [payer_email] => suporte@onflick.com.br
+  [txn_id] => 4W471573MW964374L
+  [payment_type] => instant
+  [payer_business_name] => ONFLICK
+  [last_name] => oliveira do vale
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10409 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9a7c45c3ac153
+)
+
+14/12/2017 17:33: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => NRW49GFWPA2E6
+  [address_street] => Avenida Procópio Rola 1798
+Central
+  [payment_date] => 11:33:28 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 68900-081
+  [first_name] => joao paulo belo
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => joao paulo belo costa
+  [notify_version] => 3.8
+  [custom] => 10424
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Macapá
+  [quantity] => 1
+  [verify_sign] => AeYUplByiUxAC5LHZVHEFu1RC9qGAo9paMYIR13OY2eLB-Xhf8ngTsYS
+  [payer_email] => jpbelooo@gmail.com
+  [txn_id] => 0XJ556833P101552N
+  [payment_type] => instant
+  [last_name] => costa
+  [address_state] => AP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10424 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b18dcc39135a3
+)
+
+14/12/2017 19:48: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9RKLQLSKW32UQ
+  [address_street] => Rua Apolônio Mariano Da Silva 06 csa
+Jardim Noronha
+  [payment_date] => 13:48:24 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 04853-175
+  [first_name] => luciano
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => luciano amorim
+  [notify_version] => 3.8
+  [custom] => 10429
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Paulo
+  [quantity] => 1
+  [verify_sign] => Alpe80q3tbwQTri7MRpf3h0NKogtAfj7T7PcpNWjfv74OOhBc2kciBmH
+  [payer_email] => luciano.ads@hotmail.com
+  [txn_id] => 2JB54786DH474863C
+  [payment_type] => instant
+  [last_name] => amorim
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10429 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a15d3372ed466
+)
+
+14/12/2017 20:04: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => Z8NZGZ26Q5S4E
+  [address_street] => Rua São Rafael 2117 fundo
+Jardim Redentor
+  [payment_date] => 14:04:24 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 17032-240
+  [first_name] => anderson
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => anderson priolo da silva santos
+  [notify_version] => 3.8
+  [custom] => 10431
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Bauru
+  [quantity] => 1
+  [verify_sign] => A.IN4sSVCmCoAHbXAmTeH.xLaHW1AO1LOwZYTwPXFIF38DlHpXYKUzvm
+  [payer_email] => ads_baiano@hotmail.com
+  [txn_id] => 7SC94705J8043335L
+  [payment_type] => instant
+  [last_name] => priolo da silva santos
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10431 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3c7d67ef7070f
+)
+
+14/12/2017 23:30: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9PRTPCYMJ5Q3J
+  [address_street] => Rua Riachuelo 1293 
+Centro Histórico
+  [payment_date] => 17:30:42 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 90010-271
+  [first_name] => Henrique
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Henrique Munhoz
+  [notify_version] => 3.8
+  [custom] => 10434
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Porto Alegre
+  [quantity] => 1
+  [verify_sign] => AmPBl6zfeEFNpgtiWJ1wb7MzV2oIAcLRB95ITlxYfACLB0p6L7.zmx.7
+  [payer_email] => henriquemunhoz321@gmail.com
+  [txn_id] => 9VK919928F2978446
+  [payment_type] => instant
+  [last_name] => Munhoz
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10434 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 898f79888e99a
+)
+
+15/12/2017 00:22: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2MPLCLAP8DHJQ
+  [address_street] => Rua Paraná 290
+Tabapuá Brasília II
+  [payment_date] => 18:22:23 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 61648-310
+  [first_name] => Carlos
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Carlos Eduardo
+  [notify_version] => 3.8
+  [custom] => 10437
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Caucaia
+  [quantity] => 1
+  [verify_sign] => Af4UO.4hHj.jdTngYSl6a2Sg1RViAP8qe9hVzYL1F.PXxuveLaXz3iW5
+  [payer_email] => carlosmarinho250@hotmail.com
+  [txn_id] => 28V213187K099662W
+  [payment_type] => instant
+  [last_name] => Eduardo
+  [address_state] => CE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10437 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3a57ad16bc6d0
+)
+
+15/12/2017 01:18: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2MPLCLAP8DHJQ
+  [address_street] => Rua Paraná 290
+Tabapuá Brasília II
+  [payment_date] => 19:18:24 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 61648-310
+  [first_name] => Carlos
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Carlos Eduardo
+  [notify_version] => 3.8
+  [custom] => 10438
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Caucaia
+  [quantity] => 1
+  [verify_sign] => AnI73LV0-M8EGIQIK0HgY7R3YoTHAyw8.ziHBChAUQusnRp.hw1qm-Xn
+  [payer_email] => carlosmarinho250@hotmail.com
+  [txn_id] => 9X500121NA380673G
+  [payment_type] => instant
+  [last_name] => Eduardo
+  [address_state] => CE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10438 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2c2a84a52719c
+)
+
+15/12/2017 03:58: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 21:58:12 Dec 14, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 8.00
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10440
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AuAxZVJ8j8Yw41eHK8vd9ct2cB98AX8v4WUjIfsq5qGGE-aSHblQYTsw
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 83E753694M608030C
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10440 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 5b1f97e3a6f9d
+)
+
+15/12/2017 12:35: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 06:35:04 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10441
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => AFUGuHEr9vYgRhIhS3QRf6OcgVMKAMWef7x-4mTIvw30ExqBpBW6xDS0
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 0WM56139R6961372Y
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10441 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => e2d0ad29aed3
+)
+
+15/12/2017 12:37: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 06:37:04 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10442
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => Aofl4.vj6EbIUGclPnfo5AhPdmSVANixy8.62IoB3hdaZrd3lG6VH1ik
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 3GD93694Y42851514
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10442 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d6b2dd329bd1f
+)
+
+15/12/2017 17:06: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 11:06:39 Dec 15, 2017 PST
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 6.90
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AqjFrpC28ggVORTPY1KtWswKmWa0AqzmcLpvH0.zJ2UVdjKDLygNbWC7
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 1VD98391D7173773U
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 6.90
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => 76fbd68f261c7
+)
+
+15/12/2017 17:18: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 11:18:45 Dec 15, 2017 PST
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 5.91
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => ArKaZnzm6FtI70W0Bd9QeImn8e3fASgN4QOvcL0dR3mjuS2uvtf1BQe0
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 9N131022BH687992V
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 5.91
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => a8251816d67ed
+)
+
+15/12/2017 17:56: RAW POSTs incompletos! #1 - Dump: Array
+(
+  [transaction_subject] => 
+  [txn_type] => send_money
+  [payment_date] => 11:56:49 Dec 15, 2017 PST
+  [last_name] => Rafati
+  [residence_country] => CA
+  [payment_gross] => 17.56
+  [mc_currency] => USD
+  [business] => marciohattori@live.com
+  [payment_type] => instant
+  [protection_eligibility] => Ineligible
+  [verify_sign] => AylTa3xCmKRubfYHjT.Zg6WRmxUGA5cQBL88L8iM0iss-9HBT9hWMiJB
+  [payer_status] => verified
+  [payer_email] => payments@broadbandtvcorp.com
+  [txn_id] => 2YY320586K8327549
+  [receiver_email] => marciohattori@live.com
+  [first_name] => Shahrzad
+  [payer_id] => 87X59QRKEEP5U
+  [receiver_id] => F4PNUCMQLEMTW
+  [payer_business_name] => Broadbandtv Corp.
+  [payment_status] => Completed
+  [mc_gross] => 17.56
+  [charset] => windows-1252
+  [notify_version] => 3.8
+  [ipn_track_id] => bcfb6e1f1160e
+)
+
+15/12/2017 17:58: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => Y9HR3J7TN5ZHQ
+  [address_street] => Quadra Qc 6 Rua a 7
+Jardins Mangueiral
+  [payment_date] => 11:57:50 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 71699-262
+  [first_name] => Felipe
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Felipe Torres
+  [notify_version] => 3.8
+  [custom] => 10454
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Brasília
+  [quantity] => 1
+  [verify_sign] => ApB1P13TgWxevh--r-Xei3AvxB9TAdC0Fr9Kt8FUx1Y11shaaW2M3yNM
+  [payer_email] => felipemailtorres@gmail.com
+  [txn_id] => 4TF757651T378140H
+  [payment_type] => instant
+  [last_name] => Torres
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10454 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a9dc0f01e9f5b
+)
+
+15/12/2017 18:03: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2FP5WRPQM8QQL
+  [address_street] => Rua Dom Pedro I 206 ap 504
+América
+  [payment_date] => 12:03:27 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 89204-170
+  [first_name] => Jair
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Jair Albano Junior
+  [notify_version] => 3.8
+  [custom] => 10455
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Joinville
+  [quantity] => 1
+  [verify_sign] => Ap4UJtmE.661LGawpRYy3bzMqSgkA32lEU80dJ3YRQQ7N-RaEKQfj2IC
+  [payer_email] => jairalbanojunior@gmail.com
+  [txn_id] => 5LR09437AV5817022
+  [payment_type] => instant
+  [last_name] => Albano Junior
+  [address_state] => SC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10455 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 243435c9a158
+)
+
+15/12/2017 19:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 60.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 13:24:49 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 5.04
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10457
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AMy6wQhHFtlUiKumTXF0zV.VTvOuAUhshT.MQIqFTfySM96FDuOpok04
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 7SE20000FX3605126
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10457 - 6000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9d61ed47c2347
+)
+
+15/12/2017 19:49: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => G6MTNGUL52NGN
+  [address_street] => Rua Lupercio Gomes 95 bar do betio
+  [payment_date] => 13:49:05 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 11910-000
+  [first_name] => thiago
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => thiago clauter
+  [notify_version] => 3.8
+  [custom] => 10456
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Sete Barras
+  [quantity] => 1
+  [verify_sign] => ARjIwbxn-v3Hd9Qj62pC.kyjNCR2A6xNjaT.xotGBFUSP9B2QWgHqmFq
+  [payer_email] => thiagoclauter@gmail.com
+  [txn_id] => 3DH91234M0925994K
+  [payment_type] => instant
+  [last_name] => clauter
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10456 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ec1677044d8fd
+)
+
+15/12/2017 20:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => TMYKTUACQY9YY
+  [address_street] => Rua Carlos Chagas 352
+Zona 05
+  [payment_date] => 14:25:30 Dec 15, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 87015-240
+  [first_name] => Cezar
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Cezar Castilho
+  [notify_version] => 3.8
+  [custom] => 10460
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Maringá
+  [quantity] => 1
+  [verify_sign] => APPc8VERrOxp--muhFskZJxbSCtGAGGA.dgCNwdUd6DRh50b7eRx3j61
+  [payer_email] => cezar_augusto_10@outlook.com
+  [txn_id] => 3HT670713U340711P
+  [payment_type] => instant
+  [last_name] => Castilho
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10460 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9b23e887f3d95
+)
+
+16/12/2017 10:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => J2L5L2NV4AZPN
+  [address_street] => Caminho 35 01 
+Brasília
+  [payment_date] => 04:53:24 Dec 16, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 44089-120
+  [first_name] => Lucas
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Lucas Sena Santana
+  [notify_version] => 3.8
+  [custom] => 10468
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Feira De Santana
+  [quantity] => 1
+  [verify_sign] => ApPSY8KBt-RZlxOAAWRPLTrN49SFAcv16dIcbcF8ubt6ZPcoJT83ssPt
+  [payer_email] => lucas.iainj@gmail.com
+  [txn_id] => 0BH73179MP934014R
+  [payment_type] => instant
+  [last_name] => Sena Santana
+  [address_state] => BA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10468 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => be617f5e77c16
+)
+
+16/12/2017 11:10: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => AUMLSGSVULCS6
+  [address_street] => Rua Rio Grande do norte 255 apto 102
+  [payment_date] => 05:10:30 Dec 16, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 95670-000
+  [first_name] => Jhonatan
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Jhonatan Hoffmann
+  [notify_version] => 3.8
+  [custom] => 10469
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Gramado
+  [quantity] => 1
+  [verify_sign] => AeZXi-T7M6qPxYQvbgvm9BKLcL-UA1XSL-ITQNwHsSUgF-JQnA6gRTIw
+  [payer_email] => bin_laden_br@hotmail.com
+  [txn_id] => 79754675RL033334S
+  [payment_type] => instant
+  [last_name] => Hoffmann
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10469 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c77a5c9ea537a
+)
+
+16/12/2017 18:07: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 2.60
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => SV58GKAGUCCMA
+  [address_street] => Rua central da vergada, 718
+  [payment_date] => 12:07:24 Dec 16, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 4535-166
+  [first_name] => João Pedro de jesus Monteiro
+  [mc_fee] => 0.54
+  [address_country_code] => PT
+  [address_name] => João Pedro de jesus Monteiro Monteiro
+  [notify_version] => 3.8
+  [custom] => 10476
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Portugal
+  [address_city] => Aveiro
+  [quantity] => 1
+  [verify_sign] => Aw6cw2nCzgXJsEIV68Fd44g5MvISAVDNdh.NEzhx7n.Ay28hE01BfcW3
+  [payer_email] => pedrojesusmonteiro@outlook.pt
+  [txn_id] => 9L429476DN348111C
+  [payment_type] => instant
+  [last_name] => Monteiro
+  [address_state] => Santa Maria da Feira
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10476 - 1000 Cash
+  [mc_currency] => EUR
+  [item_number] => 
+  [residence_country] => PT
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c4f9877517e89
+)
+
+17/12/2017 11:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 15.50
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => MH8MY5GMXW29A
+  [address_street] => jujuy 1002
+  [payment_date] => 05:53:36 Dec 17, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1878
+  [first_name] => Facundo
+  [mc_fee] => 1.45
+  [address_country_code] => AR
+  [address_name] => Facundo Gomez
+  [notify_version] => 3.8
+  [custom] => 10487
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Quilmes
+  [quantity] => 1
+  [verify_sign] => AzypM04l4p0Q3YOQlVjAc3MxgmDXAoIAnhSbKnuYBewoiViRw4shsy9a
+  [payer_email] => faq_cai7@hotmail.com
+  [txn_id] => 5WJ56816RY283953F
+  [payment_type] => instant
+  [last_name] => Gomez
+  [address_state] => CIUDAD AUTÓNOMA DE BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 1.45
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10487 - 5000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 15.50
+  [ipn_track_id] => c6030d9f15d85
+)
+
+17/12/2017 14:41: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => L6J3P5NB7B49S
+  [address_street] => Rua Coronel Vaiano 01
+Vila Santa Bárbara
+  [payment_date] => 08:41:41 Dec 17, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 75901-001
+  [first_name] => regina
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => regina sp liao
+  [notify_version] => 3.8
+  [custom] => 10494
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio Verde
+  [quantity] => 1
+  [verify_sign] => ApVbZDBMCAKrfjP82D-OkXPRCF9nAgyx7qLycFT25mnhZenmFKhSfn0g
+  [payer_email] => isaiasjorgeleao@hotmail.com
+  [txn_id] => 8FX228984N007664R
+  [payment_type] => instant
+  [last_name] => sp liao
+  [address_state] => GO
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10494 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2de1eccc59c0
+)
+
+17/12/2017 19:36: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => BF9QR7WCCTC46
+  [address_street] => Avenida Manoel Padial 837
+Maria Aparecida Pedrossian
+  [payment_date] => 13:35:51 Dec 17, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79044-470
+  [first_name] => alexander
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => alexander quintana
+  [notify_version] => 3.8
+  [custom] => 10498
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Campo Grande
+  [quantity] => 1
+  [verify_sign] => A-4TD1xIG4duCYeyGiL8QjxHm5orAQ64clqONMCKNH2awI-okyHcY-Rf
+  [payer_email] => alextherox@gmail.com
+  [txn_id] => 3PS26006M70174834
+  [payment_type] => instant
+  [last_name] => quintana
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10498 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ee2142a32a4cd
+)
+
+17/12/2017 22:18: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 16:18:45 Dec 17, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 2.82
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10500
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AhBvl05VbxFvKdE8sk85Pz8eaQjFA6IfQB2LJ1ff3aInHPmNgAehKwuy
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 4BM03435D50122237
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10500 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c9d3703eb0da1
+)
+
+18/12/2017 09:42: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDHFVQPD7WAZY
+  [address_street] => Rua José Daux 73
+Canasvieiras
+  [payment_date] => 03:42:33 Dec 18, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 88054-250
+  [first_name] => Elvio
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Alexandre Henrique netto
+  [notify_version] => 3.8
+  [custom] => 10518
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Florianópolis
+  [quantity] => 1
+  [verify_sign] => AA57dAxF0eJf2HoLLhVs-oJ3uiQsAbCe63TIGf5Cc7xRSj82bpJKiOg1
+  [payer_email] => alexandrehknetto@gmail.com
+  [txn_id] => 89E41451FJ035594V
+  [payment_type] => instant
+  [last_name] => Jose Kretzer
+  [address_state] => SC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10518 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ac1cb0d812e03
+)
+
+18/12/2017 15:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 09:52:52 Dec 18, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 2.08
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10534
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => APFVGxoTcy6glUVOTDLzJRll44e1A3CjNgH7uq8xfUhntwkBsF6clhY3
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 0X9734215G656373L
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10534 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 12f3e807bc24b
+)
+
+18/12/2017 16:51: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 3BALXDGJQWPLW
+  [address_street] => Rua Ouro Preto 405 Panificadora Pão Quente
+Coroado
+  [payment_date] => 10:50:59 Dec 18, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 69080-430
+  [first_name] => Jose Filipe
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Jose Filipe Garcia Bezerra
+  [notify_version] => 3.8
+  [custom] => 10479
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Manaus
+  [quantity] => 1
+  [verify_sign] => AroWMNLIg.rbxz4bmzWG2Njp8SYLAKcyGStZuxK-lmVLB7VLtS.Ca0A.
+  [payer_email] => lipe.019@outlook.com
+  [txn_id] => 5VV77486UP5919305
+  [payment_type] => instant
+  [last_name] => Garcia Bezerra
+  [address_state] => AM
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10479 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => dc034fb5ba105
+)
+
+18/12/2017 20:28: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => Y2M73AAPSB3L6
+  [address_street] => Avenida Tres de Maio 1950
+Parque dos Estados
+  [payment_date] => 14:28:09 Dec 18, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 85875-000
+  [first_name] => Adriano
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Adriano Camini
+  [notify_version] => 3.8
+  [custom] => 10538
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Santa Terezinha de Itaipu
+  [quantity] => 1
+  [verify_sign] => AmPf17rkEF5FLOktcVdSTnxetF2yAZjp0vgbJVyGvO9qYwoUCWh2Nk4B
+  [payer_email] => adriano_delta@hotmail.com
+  [txn_id] => 7PX908316K003101L
+  [payment_type] => instant
+  [last_name] => Camini
+  [address_state] => PR
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10538 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 8619a4b4a6126
+)
+
+19/12/2017 01:04: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KKUG8WXSE54PQ
+  [address_street] => Rua Capitão Pedro Ivo N 38
+Centro
+  [payment_date] => 19:04:12 Dec 18, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 55825-000
+  [first_name] => tulyo
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => tulyo eugenio
+  [notify_version] => 3.8
+  [custom] => 10543
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Paudalho
+  [quantity] => 1
+  [verify_sign] => ASWRMsOLJN5-KXyCLkCihYL0CyubA5cxalwtPeNdreP0YUV3VIoQ9K.Z
+  [payer_email] => tulyo77@gmail.com
+  [txn_id] => 46D7229456081070E
+  [payment_type] => instant
+  [last_name] => eugenio
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10543 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 9af7007bc465b
+)
+
+19/12/2017 13:02: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => S9NJKGRUZ9RUJ
+  [address_street] => Rua Duque de Caxias 347 casa
+Centro
+  [payment_date] => 07:02:02 Dec 19, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13520-000
+  [first_name] => Erick
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Erick Marrega
+  [notify_version] => 3.8
+  [custom] => 10547
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Pedro
+  [quantity] => 1
+  [verify_sign] => AapVkgrrHVHdNljvk5izPBS33aX4AGkfu.7pW0BQfkReMTG8P7FCKnKb
+  [payer_email] => marrega_jj@hotmail.com
+  [txn_id] => 92T74295N9532872S
+  [payment_type] => instant
+  [last_name] => Marrega
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10547 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 5fedca3099fe8
+)
+
+19/12/2017 14:43: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 6.20
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => B2PXUV5KX6BES
+  [address_street] => Belgrano 12
+Quilmes
+  [payment_date] => 08:43:31 Dec 19, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1874
+  [first_name] => Santiago
+  [mc_fee] => 0.76
+  [address_country_code] => AR
+  [address_name] => Santiago Barrios
+  [notify_version] => 3.8
+  [custom] => 10550
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Bernal
+  [quantity] => 1
+  [verify_sign] => AQZSJXihFVWGk7ZO-aEGZ4Y6MQ09AWPCdbuakUXNO30tp-IOamXCI3CD
+  [payer_email] => santi.cappelletti@gmail.com
+  [txn_id] => 59415151CC3625415
+  [payment_type] => instant
+  [last_name] => Barrios
+  [address_state] => Ciudad de Buenos Aires
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.76
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10550 - 2000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 6.20
+  [ipn_track_id] => 8006c82f7a2b
+)
+
+20/12/2017 01:09: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 31.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9EMXY9UBGRG6Y
+  [address_street] => don bosco 373
+  [payment_date] => 19:09:25 Dec 19, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1876
+  [first_name] => martin
+  [mc_fee] => 2.59
+  [address_country_code] => AR
+  [address_name] => martin pena
+  [notify_version] => 3.8
+  [custom] => 10575
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => quilmes
+  [quantity] => 1
+  [verify_sign] => A8eo1UayKZyoKzpUCn5yf9GWVZMPA9ct.lsZSXNh23F93Y62U5S.nyoN
+  [payer_email] => totto.7@hotmail.com
+  [txn_id] => 44X063990Y4981712
+  [payment_type] => instant
+  [last_name] => pena
+  [address_state] => BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 2.59
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10575 - 10000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 31.00
+  [ipn_track_id] => ec425703e21cb
+)
+
+20/12/2017 16:27: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => M8QBSGQXU7ZY4
+  [address_street] => Rua Maria de Jesus Cerveira 2881 asd
+Bairro Morada do Sol
+  [payment_date] => 10:27:23 Dec 20, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79130-000
+  [first_name] => EDIMO
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => EDIMO LEANDRO
+  [notify_version] => 3.8
+  [custom] => 10588
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio Brilhante
+  [quantity] => 1
+  [verify_sign] => AmlP-LybSepBHFdKRfAPSeMFfmSVA0U01YxuNqwlFkiFkyszOPRMVtSI
+  [payer_email] => edimorfe1@hotmail.com
+  [txn_id] => 982050824G529250F
+  [payment_type] => instant
+  [last_name] => LEANDRO
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10588 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6887ab6ca34d4
+)
+
+20/12/2017 16:29: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => M8QBSGQXU7ZY4
+  [address_street] => Rua Maria de Jesus Cerveira 2881 asd
+Bairro Morada do Sol
+  [payment_date] => 10:29:10 Dec 20, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79130-000
+  [first_name] => EDIMO
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => EDIMO LEANDRO
+  [notify_version] => 3.8
+  [custom] => 10590
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio Brilhante
+  [quantity] => 1
+  [verify_sign] => AWElYfNwDiuhUoOTq.PUCaxPRo7-A7SBY6MtjKl38kNpUavALX-Mjmca
+  [payer_email] => edimorfe1@hotmail.com
+  [txn_id] => 44B74110XY470014B
+  [payment_type] => instant
+  [last_name] => LEANDRO
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10590 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 11c515719f1aa
+)
+
+20/12/2017 17:26: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 9.30
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => Q9BVWGMQG6ZTU
+  [address_street] => Presidente Peron 1399
+Presidente Peron 1399
+  [payment_date] => 11:26:47 Dec 20, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 1879
+  [first_name] => Raul
+  [mc_fee] => 0.99
+  [address_country_code] => AR
+  [address_name] => Raul Rodriguez
+  [notify_version] => 3.8
+  [custom] => 10595
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Argentina
+  [address_city] => Quilmes
+  [quantity] => 1
+  [verify_sign] => AIls.0ayavTd.bLosRxHvtPQWk8-AUkdG3GihV3HaGwXr4kkE9.BGl9Z
+  [payer_email] => rodriguez.n@outlook.com
+  [txn_id] => 4B181643TR940620F
+  [payment_type] => instant
+  [last_name] => Rodriguez
+  [address_state] => CIUDAD AUTÓNOMA DE BUENOS AIRES
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 0.99
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Factura 10595 - 3000 Cash
+  [mc_currency] => USD
+  [item_number] => 
+  [residence_country] => AR
+  [transaction_subject] => 
+  [payment_gross] => 9.30
+  [ipn_track_id] => 33a9e7a98bc0a
+)
+
+21/12/2017 14:17: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => FNTGPV5YZKSD4
+  [address_street] => Rua Sílvio Silvério de Lima 105
+Jardim Santa Cruz
+  [payment_date] => 08:17:15 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 18275-700
+  [first_name] => VINICIUS ROMANO
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => VINICIUS ROMANO CAMARGO
+  [notify_version] => 3.8
+  [custom] => 10612
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Tatuí
+  [quantity] => 1
+  [verify_sign] => AcnykrW0vrw9uEk75NfPUesGzUgrAu.3aDMJL0yvYeeQoySM2EwvVgLx
+  [payer_email] => vinicius.romano_c@hotmail.com
+  [txn_id] => 96Y43228V9831900J
+  [payment_type] => instant
+  [last_name] => CAMARGO
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10612 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 79dd1a93de7eb
+)
+
+21/12/2017 14:31: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => G6MTNGUL52NGN
+  [address_street] => Rua Lupercio Gomes 95 jardim magario
+  [payment_date] => 08:30:30 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 11910-000
+  [first_name] => thiago
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => thiago clauter
+  [notify_version] => 3.8
+  [custom] => 10614
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Sete Barras
+  [quantity] => 1
+  [verify_sign] => A9MwsrUiHeHzkeAtSUuk1GTWswsbAivbK9ALp9iu1j.7-4JeJf-dhoc2
+  [payer_email] => thiagoclauter@gmail.com
+  [txn_id] => 67897619UT124192U
+  [payment_type] => instant
+  [last_name] => clauter
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10614 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f60f33b9eb2cb
+)
+
+21/12/2017 16:50: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YKPRC8KVMFF9E
+  [address_street] => Avenida Pedro Álvares Cabral 1879
+Souza
+  [payment_date] => 10:50:12 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66613-150
+  [first_name] => Vitor Prata da Rocha
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Vitor Prata da Rocha Prata
+  [notify_version] => 3.8
+  [custom] => 10617
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => Aq0DTKGAvIu51bvd6fbaW1xNRljjAiR7YvCgdUsulVgMoZGoxnCnpgcH
+  [payer_email] => vitor_prata_r@hotmail.com
+  [txn_id] => 9X098389HB290021B
+  [payment_type] => instant
+  [last_name] => Prata
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10617 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2dc5deb9698f9
+)
+
+21/12/2017 18:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 5ZJEZEBQLQ932
+  [address_street] => RUA LETÍCIA QUADRA 123 LOTE 1
+GUARATIBA
+  [payment_date] => 12:25:43 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 23031-191
+  [first_name] => Heric
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Heric Barbosa Sousa silva
+  [notify_version] => 3.8
+  [custom] => 10621
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => RIO DE JANEIRO
+  [quantity] => 1
+  [verify_sign] => AU29SuE8-XyHKPJB5w2YZsmoDfnrA6pxePJO.ZN4iGcHVX8JwkxlRnkD
+  [payer_email] => heric.sephiroth@ig.com.br
+  [txn_id] => 3MP247772T526802R
+  [payment_type] => instant
+  [last_name] => Barbosa Sousa silva
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10621 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1354aba6da96d
+)
+
+22/12/2017 01:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => QWFJCBF9RULGG
+  [address_street] => Rua Florianópolis 4071
+Mathias Velho
+  [payment_date] => 19:24:50 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 92330-500
+  [first_name] => Jonathan
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Jonathan Nunes Da Silva
+  [notify_version] => 3.8
+  [custom] => 10632
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Canoas
+  [quantity] => 1
+  [verify_sign] => Ak9okkY2H57Lc3JsylcV1P7DM5xQAxtIAboIXoYluxJ6nk4zhzJU85yV
+  [payer_email] => jon.nunes@hotmail.com
+  [txn_id] => 8F234602JM668792R
+  [payment_type] => instant
+  [last_name] => Nunes Da Silva
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10632 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2a8563a71eaa6
+)
+
+22/12/2017 03:57: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 150.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 21:57:44 Dec 21, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 11.70
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10636
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => ASUPgnmEAxmO5qQ9582sBxMp85q3Adzo0JNKiq-qGJfRea7Lo0801bws
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 2BN6939137178005G
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10636 - 15000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => a4fdc3e1fa5d
+)
+
+22/12/2017 16:54: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YEVSXT2EZR39G
+  [address_street] => Avenida Acelino de Leão 2056
+Santa Rita
+  [payment_date] => 10:54:20 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 68901-315
+  [first_name] => Daniel
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => Daniel R D Alves
+  [notify_version] => 3.8
+  [custom] => 10644
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Macapá
+  [quantity] => 1
+  [verify_sign] => AynbVXRLIxQIb8Wk1o4S9VpWfW.hADqZhKxrFT0ypTR2b5zyg7e6ED5p
+  [payer_email] => danielrdalves@msn.com
+  [txn_id] => 44G64581KC6751131
+  [payment_type] => instant
+  [last_name] => Alves
+  [address_state] => AP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10644 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 7fc90067656fc
+)
+
+22/12/2017 16:54: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 7NBUETN6AHXQQ
+  [address_street] => Rua Cearense 06 casa
+Pilar
+  [payment_date] => 10:54:38 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 25233-400
+  [first_name] => DERICK
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => DERICK COSTA
+  [notify_version] => 3.8
+  [custom] => 10645
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Duque de Caxias
+  [quantity] => 1
+  [verify_sign] => AxAEdHlSWRdFgCaJ.uOyqAuZYmc3AGqC6qZMc1pRzx6Lv9G9HSUcUo0i
+  [payer_email] => jenny_badgril@hotmail.com
+  [txn_id] => 1RU91272HH570871P
+  [payment_type] => instant
+  [last_name] => COSTA
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10645 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 56c79d1e3c40d
+)
+
+22/12/2017 19:31: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 40.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => SXSVDXUKM3S9E
+  [address_street] => Avenida Clemenciano Barnasque 160 412
+Teresópolis
+  [payment_date] => 13:31:34 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 91720-260
+  [first_name] => Eduardo
+  [mc_fee] => 2.60
+  [address_country_code] => BR
+  [address_name] => Eduardo Gentili Griggio
+  [notify_version] => 3.8
+  [custom] => 10648
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Porto Alegre
+  [quantity] => 1
+  [verify_sign] => AyNkw02mySqlxwMXGI2CX3dPjLdWAzsib59DcZ1Ma.JMsCHmca.IyR2z
+  [payer_email] => edu_griggio@hotmail.com
+  [txn_id] => 9HT22279VC548702V
+  [payment_type] => instant
+  [last_name] => Gentili Griggio
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10648 - 4000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 349ea4233b3c8
+)
+
+22/12/2017 20:20: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LWPEZSQVFY78N
+  [address_street] => Avenida Conselheiro Furtado 205 casa 09
+Batista Campos
+  [payment_date] => 14:19:54 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66025-160
+  [first_name] => GINDEONY
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => GINDEONY FERNANDA S SANTOS
+  [notify_version] => 3.8
+  [custom] => 10651
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AJDydjphV9zi3AXAVzkLe0ALWVzCAU9puA94TVN1kQMpGHoQ6fd0UjoP
+  [payer_email] => fambaghostproducer@gmail.com
+  [txn_id] => 0HU80463AA921771U
+  [payment_type] => instant
+  [last_name] => FERNANDA S SANTOS
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10651 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 7e3a6e9f2d0d8
+)
+
+22/12/2017 22:48: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => M8QBSGQXU7ZY4
+  [address_street] => Rua Maria de Jesus Cerveira 2881 asd
+Bairro Morada do Sol
+  [payment_date] => 16:48:14 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79130-000
+  [first_name] => EDIMO
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => EDIMO LEANDRO
+  [notify_version] => 3.8
+  [custom] => 10658
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio Brilhante
+  [quantity] => 1
+  [verify_sign] => Acv1348YchBcGD6nCqCmPLaSff6gAodW4k6kvU43SVjy4Ja-EnaySASB
+  [payer_email] => edimorfe1@hotmail.com
+  [txn_id] => 6TA97799SW5222319
+  [payment_type] => instant
+  [last_name] => LEANDRO
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10658 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1fe0ef76143eb
+)
+
+23/12/2017 04:56: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => EWXF5FM3KSXVA
+  [address_street] => Rua Cabixi 88
+Redenção
+  [payment_date] => 22:56:21 Dec 22, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 69047-090
+  [first_name] => sara
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => sara aquino
+  [notify_version] => 3.8
+  [custom] => 10662
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Manaus
+  [quantity] => 1
+  [verify_sign] => ARUuc27mF4sAES6DJ3L3AlhiBP1FAJ.LBNSQEzzAeOYA.hJp8zbWvPI9
+  [payer_email] => tiago_quita11@hotmail.com
+  [txn_id] => 9PS41524HA092043W
+  [payment_type] => instant
+  [last_name] => aquino
+  [address_state] => AM
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10662 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 170826b8c5c5c
+)
+
+23/12/2017 10:42: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => NRW49GFWPA2E6
+  [address_street] => Avenida Procópio Rola 1798
+Central
+  [payment_date] => 04:41:59 Dec 23, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 68900-081
+  [first_name] => joao paulo belo
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => joao paulo belo costa
+  [notify_version] => 3.8
+  [custom] => 10665
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Macapá
+  [quantity] => 1
+  [verify_sign] => AOMD01X8CLk7Dd9mbDo408O1e-ckAulyZ-wmm9Upy4Px880dcEiqmiTI
+  [payer_email] => jpbelooo@gmail.com
+  [txn_id] => 70R32744GA7737417
+  [payment_type] => instant
+  [last_name] => costa
+  [address_state] => AP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10665 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 79e28f81f25dd
+)
+
+23/12/2017 12:25: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => EBFHTPWXDEWEY
+  [address_street] => Rua Tancredo Neves 103
+Centro
+  [payment_date] => 06:24:53 Dec 23, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 55825-000
+  [first_name] => Robson
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Robson José
+  [notify_version] => 3.8
+  [custom] => 10666
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Paudalho
+  [quantity] => 1
+  [verify_sign] => Az.OuMq2h2Q3G9RVR0saWwY6ZTfSAyaftT7aoFhTDpfmpVEVEF6DTbcZ
+  [payer_email] => rjsilva-pe@outlook.com
+  [txn_id] => 89T74821WP931884Y
+  [payment_type] => instant
+  [last_name] => Silva
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10666 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => fb8e022e5322
+)
+
+23/12/2017 14:28: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2S3TVQESSADRG
+  [address_street] => Rua Pedro Calmon 470 Casa
+Paraiso
+  [payment_date] => 08:27:54 Dec 23, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 46430-000
+  [first_name] => NIUZETE
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => NIUZETE MEIRA
+  [notify_version] => 3.8
+  [custom] => 10669
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Guanambi
+  [quantity] => 1
+  [verify_sign] => AlnaTptv-6PZ6M3xXAPf2NDPhiRaAlCLDDPDc5dT2tZm.UyqAVim.Gs5
+  [payer_email] => rafa_gbi2@hotmail.com
+  [txn_id] => 10508970MC060451B
+  [payment_type] => instant
+  [last_name] => MEIRA
+  [address_state] => BA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10669 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3cedaa0e8f8e0
+)
+
+23/12/2017 17:29: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DWMKJLTELY436
+  [address_street] => Rua Conselheiro Oscar Gressler 432
+Aliança
+  [payment_date] => 11:29:13 Dec 23, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 96830-710
+  [first_name] => jonathan
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Jonathan Oliveira
+  [notify_version] => 3.8
+  [custom] => 10670
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Santa Cruz do sul
+  [quantity] => 1
+  [verify_sign] => A8S5sRCltHW7NgG1SAuDk3V0UaB0AqD.EUujKF-ESOKzjTMsK3LTZdWO
+  [payer_email] => jonathan_sk@live.com
+  [txn_id] => 0KF09597A62430206
+  [payment_type] => instant
+  [last_name] => Oliveira
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10670 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 12fbbf948b1d4
+)
+
+23/12/2017 18:47: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DDHFVQPD7WAZY
+  [address_street] => Rua José Daux 73
+Canasvieiras
+  [payment_date] => 12:47:16 Dec 23, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 88054-250
+  [first_name] => Elvio
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Alexandre Henrique netto
+  [notify_version] => 3.8
+  [custom] => 10671
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Florianópolis
+  [quantity] => 1
+  [verify_sign] => AQvMNfJsxUOwDVeyj6MaxeXsx3WqA039d.HqgayZNEUBbnD7scaizPxH
+  [payer_email] => alexandrehknetto@gmail.com
+  [txn_id] => 8A0244331K4051827
+  [payment_type] => instant
+  [last_name] => Jose Kretzer
+  [address_state] => SC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10671 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1e19c4ef1526a
+)
+
+24/12/2017 16:53: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YKPRC8KVMFF9E
+  [address_street] => Avenida Pedro Álvares Cabral 1879
+Souza
+  [payment_date] => 10:53:21 Dec 24, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66613-150
+  [first_name] => Vitor Prata da Rocha
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Vitor Prata da Rocha Prata
+  [notify_version] => 3.8
+  [custom] => 10677
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AZI3e6tHgbWMO6sRj5VXufBbqarmAu39edlFYc3AaJnn0ZOye6aa6c-j
+  [payer_email] => vitor_prata_r@hotmail.com
+  [txn_id] => 1FX74978GK0879339
+  [payment_type] => instant
+  [last_name] => Prata
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10677 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 8b2a5fa4163f0
+)
+
+24/12/2017 18:12: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 9RKLQLSKW32UQ
+  [address_street] => Rua Apolônio Mariano Da Silva 06 csa
+Jardim Noronha
+  [payment_date] => 12:12:26 Dec 24, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 04853-175
+  [first_name] => luciano
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => luciano amorim
+  [notify_version] => 3.8
+  [custom] => 10678
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Paulo
+  [quantity] => 1
+  [verify_sign] => AshKpSGCAcxRS8aurUlF6KUuodDdAUM-RCIvDRk9.UEJgvtjMtQ.6HNu
+  [payer_email] => luciano.ads@hotmail.com
+  [txn_id] => 7J435801H8967861S
+  [payment_type] => instant
+  [last_name] => amorim
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10678 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c426e57262faf
+)
+
+25/12/2017 02:21: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 60.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 20:21:18 Dec 24, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 5.04
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10679
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => A44HhPZE71q4qzsSnyR4rlheUNFxAhAqecEfn2fCR1PO6UxVLXt3gmlm
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 0PA03835BR9443542
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10679 - 6000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1812e5ed330b8
+)
+
+25/12/2017 14:47: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 4YGXFJ5V9RL5E
+  [address_street] => Quadra Shces Quadra 305 Bloco B 105
+Cruzeiro Novo
+  [payment_date] => 08:47:19 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 70650-352
+  [first_name] => Rodrigo
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Rodrigo Santos
+  [notify_version] => 3.8
+  [custom] => 10681
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Brasília
+  [quantity] => 1
+  [verify_sign] => A3leG774XAclJBv3pDAxsQFVF0-8ASNG1IghPiy-.GssH2gUCgLEd2qL
+  [payer_email] => rodrigonegociosfinanceiros@outlook.com
+  [txn_id] => 7KN45306PK843605U
+  [payment_type] => instant
+  [last_name] => Santos
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10681 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2717022ae5f85
+)
+
+25/12/2017 18:03: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LWPEZSQVFY78N
+  [address_street] => Avenida Conselheiro Furtado 205 casa 09
+Batista Campos
+  [payment_date] => 12:03:09 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66025-160
+  [first_name] => GINDEONY
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => GINDEONY FERNANDA S SANTOS
+  [notify_version] => 3.8
+  [custom] => 10686
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AJ5.S6.FN-8E5k2mb3TjqtIVKIRKAooYwhR.H8sc4Ea74nfiOV1h6RN4
+  [payer_email] => fambaghostproducer@gmail.com
+  [txn_id] => 6MW948558R2316439
+  [payment_type] => instant
+  [last_name] => FERNANDA S SANTOS
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10686 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d795f6e26751b
+)
+
+25/12/2017 18:26: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 12:25:47 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10687
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => Aj4ZsnZJ9j5IN11GdmiYP1hyz.-SA6IawI2lcHw9AlZ9gNGaACDAPrJP
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 242800590L8027605
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10687 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 2da8b77adb438
+)
+
+25/12/2017 18:32: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => XDHRHV973KYYA
+  [address_street] => Rua Carmela Brum 350
+Elite
+  [payment_date] => 12:32:35 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 27522-140
+  [first_name] => Uiliam
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Uiliam Landim
+  [notify_version] => 3.8
+  [custom] => 10688
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Resende
+  [quantity] => 1
+  [verify_sign] => ATXM-5lApgRiqLDmYaJLWuXyuiVOAAsu8e0efoua9C5dUwMIlWePyZIQ
+  [payer_email] => landim.uiliam@gmail.com
+  [txn_id] => 12K83204F9397163U
+  [payment_type] => instant
+  [last_name] => Landim
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10688 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ee50a357a0cb
+)
+
+25/12/2017 18:45: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => J2L5L2NV4AZPN
+  [address_street] => Caminho 35 01 
+Brasília
+  [payment_date] => 12:45:07 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 44089-120
+  [first_name] => Lucas
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => Lucas Sena Santana
+  [notify_version] => 3.8
+  [custom] => 10689
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Feira De Santana
+  [quantity] => 1
+  [verify_sign] => AisuPQ0BOXFzAALSYmz47i4m9UG5AgK2g0W1Ao24iuPDfpcqHKOOHO7y
+  [payer_email] => lucas.iainj@gmail.com
+  [txn_id] => 4TA57491BP3710152
+  [payment_type] => instant
+  [last_name] => Sena Santana
+  [address_state] => BA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10689 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ec58e95b8faed
+)
+
+25/12/2017 21:42: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 4YGXFJ5V9RL5E
+  [address_street] => Quadra Shces Quadra 305 Bloco B 105
+Cruzeiro Novo
+  [payment_date] => 15:42:33 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 70650-352
+  [first_name] => Rodrigo
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Rodrigo Santos
+  [notify_version] => 3.8
+  [custom] => 10690
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Brasília
+  [quantity] => 1
+  [verify_sign] => ATvrE5M5s7AwHeA-qsu5IVsjFOG.AbaMPPnffyg.X99YfZp79IbzELQM
+  [payer_email] => rodrigonegociosfinanceiros@outlook.com
+  [txn_id] => 4PC08108H24775713
+  [payment_type] => instant
+  [last_name] => Santos
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10690 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d89544512af7a
+)
+
+25/12/2017 23:35: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 3BALXDGJQWPLW
+  [address_street] => Rua Ouro Preto 405 Panificadora Pão Quente
+Coroado
+  [payment_date] => 17:35:43 Dec 25, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 69080-430
+  [first_name] => Jose Filipe
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Jose Filipe Garcia Bezerra
+  [notify_version] => 3.8
+  [custom] => 10693
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Manaus
+  [quantity] => 1
+  [verify_sign] => Ayq2b.nQVrIYNglLB3NqidCCNTZpAdWy0YwXuDytVFnfa297lAuSWt.W
+  [payer_email] => lipe.019@outlook.com
+  [txn_id] => 48J41532YE994160P
+  [payment_type] => instant
+  [last_name] => Garcia Bezerra
+  [address_state] => AM
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10693 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 7e66df2c6782
+)
+
+26/12/2017 15:40: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LT85UU8RWTYWY
+  [address_street] => Alameda São Boaventura 692
+Fonseca
+  [payment_date] => 09:40:15 Dec 26, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 24120-191
+  [first_name] => RODRIGO
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => RODRIGO S LAZCANO
+  [notify_version] => 3.8
+  [custom] => 10701
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Niterói
+  [quantity] => 1
+  [verify_sign] => AYsYP9DTUAHT.4TomeLWiHmBCOXbAJeai1W3rijKivNpSx3nC6cI5nII
+  [payer_email] => rodrigo1803@outlook.com
+  [txn_id] => 64L11136PS6963454
+  [payment_type] => instant
+  [last_name] => S LAZCANO
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10701 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 81fb03c758217
+)
+
+26/12/2017 17:57: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => AG9PSV767UC6J
+  [address_street] => Rua Dezesseis 1210 120
+Setor Norte
+  [payment_date] => 11:56:58 Dec 26, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 38300-070
+  [first_name] => Fernando
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Fernando Alexandre Mendes
+  [notify_version] => 3.8
+  [custom] => 10709
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ituiutaba
+  [quantity] => 1
+  [verify_sign] => ASwCcXUnOde13WA82-GfzcuQ4OjtAp4dFj8NZ4yRy8uvceD8qLAInl7m
+  [payer_email] => om01@hotmail.com
+  [txn_id] => 2H7503663T790490E
+  [payment_type] => instant
+  [last_name] => Alexandre Mendes
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10709 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => dee1db40708c5
+)
+
+26/12/2017 18:07: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => DZ2G6BGP4NRMU
+  [address_street] => Avenida Três 11 aa
+Progresso
+  [payment_date] => 12:07:00 Dec 26, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 38302-042
+  [first_name] => César
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => César Pedro Daniel Castro
+  [notify_version] => 3.8
+  [custom] => 10619
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ituiutaba
+  [quantity] => 1
+  [verify_sign] => A41JebVd0hbDo6ExbfW9cwZ0D7iaARATCdBCWPEQLHF5ODpmTezP3rZW
+  [payer_email] => jc01@hotmail.com
+  [txn_id] => 6L591511CW6455020
+  [payment_type] => instant
+  [last_name] => Pedro Daniel Castro
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10619 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 623fcd746631
+)
+
+27/12/2017 02:10: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 4YGXFJ5V9RL5E
+  [address_street] => Quadra Shces Quadra 305 Bloco B 105
+Cruzeiro Novo
+  [payment_date] => 20:10:16 Dec 26, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 70650-352
+  [first_name] => Rodrigo
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Rodrigo Santos
+  [notify_version] => 3.8
+  [custom] => 10718
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Brasília
+  [quantity] => 1
+  [verify_sign] => Aa6c7S226xRLkxxBxJVwhoijLY.qA1k8wIquZk6MUXCJJ.Br0gE651H9
+  [payer_email] => rodrigonegociosfinanceiros@outlook.com
+  [txn_id] => 6A1434807X888761K
+  [payment_type] => instant
+  [last_name] => Santos
+  [address_state] => DF
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10718 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ac5d82787ac9c
+)
+
+27/12/2017 14:36: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YC5BQ9KC4CEYG
+  [address_street] => Rua Vinte E Dois 12 casa
+Centro
+  [payment_date] => 08:36:12 Dec 27, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 38300-076
+  [first_name] => Igor
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Igor Rodrigo Lima
+  [notify_version] => 3.8
+  [custom] => 10721
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ituiutaba
+  [quantity] => 1
+  [verify_sign] => AChdlSINAq2roFHYku2joljyQgqbAJUppk2FrWOrVbyOZ4XvLOpBAUll
+  [payer_email] => marcolaa@hotmail.com
+  [txn_id] => 6EM47754HS2488149
+  [payment_type] => instant
+  [last_name] => Rodrigo Lima
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10721 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6eab653a574a7
+)
+
+28/12/2017 16:48: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 3BALXDGJQWPLW
+  [address_street] => Rua Ouro Preto 405 Panificadora Pão Quente
+Coroado
+  [payment_date] => 10:48:09 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 69080-430
+  [first_name] => Jose Filipe
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Jose Filipe Garcia Bezerra
+  [notify_version] => 3.8
+  [custom] => 10743
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Manaus
+  [quantity] => 1
+  [verify_sign] => ApcKY-W5PXdlooN0p0-HxnNw-eVQA8PVex6VdXctlv-hoLXYfvc3nHGt
+  [payer_email] => lipe.019@outlook.com
+  [txn_id] => 7S567058LC1828538
+  [payment_type] => instant
+  [last_name] => Garcia Bezerra
+  [address_state] => AM
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10743 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => fa9d59607c5af
+)
+
+28/12/2017 17:12: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => unconfirmed
+  [payer_id] => NNEP3Y2HUZZSC
+  [tax] => 0.00
+  [address_street] => Rua Do Meio 155 
+Bonfim
+  [payment_date] => 11:11:37 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 53637-195
+  [first_name] => Ricardo
+  [mc_fee] => 1.60
+  [address_country_code] => BR
+  [address_name] => Ricardo Carvalho
+  [notify_version] => 3.8
+  [custom] => 10744
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Igarassu
+  [quantity] => 1
+  [verify_sign] => AGrjDpPWtzhMmAbam3PDnwJQuiw4A6EUJK0SfvP3VtBNuHV2KjbTj6Vl
+  [payer_email] => richard_linus@hotmail.com
+  [txn_id] => 93P03071TD311123X
+  [payment_type] => instant
+  [last_name] => Carvalho
+  [address_state] => PE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10744 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 426a4b024f438
+)
+
+28/12/2017 18:55: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => MQJXJFXBPDC2W
+  [address_street] => Rua Ana Pimentel 26 ap 23
+Ponta da Praia
+  [payment_date] => 12:54:48 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 11030-050
+  [first_name] => Lutiero
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Lutiero Pedroso Fabri
+  [notify_version] => 3.8
+  [custom] => 10745
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Santos
+  [quantity] => 1
+  [verify_sign] => AmSUA2aBYI2yi92G70NHTehD80iGAHeFs5YZwoDkNJJTiezCflkRf5IY
+  [payer_email] => lutiero@gmail.com
+  [txn_id] => 8HC93911HX4024843
+  [payment_type] => instant
+  [last_name] => Pedroso Fabri
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10745 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 23b8b17aa94ff
+)
+
+29/12/2017 03:07: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 21:06:51 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 2.82
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10751
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AGtNL1vk86XyJKjcltmgNfm0w4wtAZxOaiRiiclh-QaD1AOZALvy2wfW
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 6FK23500EK637563Y
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10751 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d49d130aa94a3
+)
+
+29/12/2017 05:24: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 60.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 2MPLCLAP8DHJQ
+  [address_street] => Rua Paraná 290
+Tabapuá Brasília II
+  [payment_date] => 23:24:07 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 61648-310
+  [first_name] => Carlos
+  [mc_fee] => 3.59
+  [address_country_code] => BR
+  [address_name] => Carlos Eduardo
+  [notify_version] => 3.8
+  [custom] => 10754
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Caucaia
+  [quantity] => 1
+  [verify_sign] => AnNhl9p9K0RGTGzBw3q0YV-nprpOA3nVkfaXK3gGvcMEIcqrEXBvVxkO
+  [payer_email] => carlosmarinho250@hotmail.com
+  [txn_id] => 8L161020YB446751D
+  [payment_type] => instant
+  [last_name] => Eduardo
+  [address_state] => CE
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10754 - 6000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3b74e852101d1
+)
+
+29/12/2017 05:26: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 20.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 23:26:25 Dec 28, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 2.08
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10755
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => AJULjXLWifX4Q3cXomBDoUlZUpqPA-Y5lX6h81yF5kR5TiYYkgdUM9TG
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 5E4145022D333391W
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10755 - 2000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 3a26acb194824
+)
+
+29/12/2017 09:44: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => M8QBSGQXU7ZY4
+  [address_street] => Rua Maria de Jesus Cerveira 2881 asd
+Bairro Morada do Sol
+  [payment_date] => 03:44:18 Dec 29, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 79130-000
+  [first_name] => EDIMO
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => EDIMO LEANDRO
+  [notify_version] => 3.8
+  [custom] => 10756
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Rio Brilhante
+  [quantity] => 1
+  [verify_sign] => A5..Tdr20stt.lSjqQVjep3hjHB4Ayj1hcMULjxaZNSLF5ZJA6k4FdrI
+  [payer_email] => edimorfe1@hotmail.com
+  [txn_id] => 8VC78668Y82849218
+  [payment_type] => instant
+  [last_name] => LEANDRO
+  [address_state] => MS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10756 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => ea175761d7c78
+)
+
+29/12/2017 10:15: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => W34D8YPQ3AVFJ
+  [address_street] => Rua Marcílio Dias 1017
+Vila Seabra
+  [payment_date] => 04:15:21 Dec 29, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 17060-030
+  [first_name] => Maria Irenice
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Maria Irenice Carniato Cano
+  [notify_version] => 3.8
+  [custom] => 10760
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Bauru
+  [quantity] => 1
+  [verify_sign] => AE1zpczbsxQHCHjEn2JCYyZgRqqNAGi1wkzb4A0pBS-6PV.NNUwjVRFB
+  [payer_email] => danilo_Ruy2010@hotmail.com
+  [txn_id] => 5F919627Y31978023
+  [payment_type] => instant
+  [last_name] => Carniato Cano
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10760 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => c767d71398abc
+)
+
+29/12/2017 12:34: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => W34D8YPQ3AVFJ
+  [address_street] => Rua Marcílio Dias 1017
+Vila Seabra
+  [payment_date] => 06:34:38 Dec 29, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 17060-030
+  [first_name] => Maria Irenice
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Maria Irenice Carniato Cano
+  [notify_version] => 3.8
+  [custom] => 10763
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Bauru
+  [quantity] => 1
+  [verify_sign] => A3Kcdc13K2NTDLgu2IR3TQGa8NFHAe4PB5tVCrROvVspLppzhtUlDziB
+  [payer_email] => danilo_Ruy2010@hotmail.com
+  [txn_id] => 6V849527D39928412
+  [payment_type] => instant
+  [last_name] => Carniato Cano
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10763 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 1a786a32b4fc5
+)
+
+29/12/2017 13:14: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => CWJ29PQ59WU2J
+  [address_street] => Rua Domingues Linhares 721
+Centro
+  [payment_date] => 07:14:16 Dec 29, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 76980-050
+  [first_name] => José
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => José Machieski
+  [notify_version] => 3.8
+  [custom] => 10764
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Vilhena
+  [quantity] => 1
+  [verify_sign] => AceEfF8PTzctBouMG8R6u9lJxj.WAJl-3Xl6cEaPCOqvQCLULILC.ZbM
+  [payer_email] => machiesk_jr@hotmail.com
+  [txn_id] => 65A73728MJ4183609
+  [payment_type] => instant
+  [last_name] => Machieski
+  [address_state] => RO
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10764 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => d7cb13f2e2fc6
+)
+
+30/12/2017 01:04: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 150.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => WWBXCCALRMJDC
+  [address_street] => ekiminiamicho 4-21-13 high grade kiyoshi 2 - 107
+high grade kiyoshi 2 - 107
+  [payment_date] => 19:04:18 Dec 29, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 323-0822
+  [first_name] => Alan
+  [mc_fee] => 11.70
+  [address_country_code] => JP
+  [address_name] => Kido Alan
+  [notify_version] => 3.8
+  [custom] => 10774
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Japan
+  [address_city] => Oyama
+  [quantity] => 1
+  [verify_sign] => AyuPSdT4W4m1uFYPoqcg3zbdWAPUA4lgE4mQeTNDRIMzqMcvsmhbj4Az
+  [payer_email] => kyoozinho@hotmail.com
+  [txn_id] => 4UW33276BC6557305
+  [payment_type] => instant
+  [last_name] => Kido
+  [address_state] => TOCHIGI
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10774 - 15000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => JP
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6225f76867bb1
+)
+
+30/12/2017 15:00: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => YKPRC8KVMFF9E
+  [address_street] => Avenida Pedro Álvares Cabral 1879
+Souza
+  [payment_date] => 08:59:56 Dec 30, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 66613-150
+  [first_name] => Vitor Prata da Rocha
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Vitor Prata da Rocha Prata
+  [notify_version] => 3.8
+  [custom] => 10787
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Belém
+  [quantity] => 1
+  [verify_sign] => AMFCxR-gs-ZTScmSYk1SytwWps8QAkpDNTkDH2aOtFrKBwcvTli4tofV
+  [payer_email] => vitor_prata_r@hotmail.com
+  [txn_id] => 6EM519442N498011K
+  [payment_type] => instant
+  [last_name] => Prata
+  [address_state] => PA
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10787 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b3daaac3895be
+)
+
+30/12/2017 17:50: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => 8GKUKZS2P9WRG
+  [address_street] => Rua Arthur Manoel Scheffer 15 casa
+Campestre
+  [payment_date] => 11:49:57 Dec 30, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 93048-410
+  [first_name] => Deivid
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => Deivid Thome
+  [notify_version] => 3.8
+  [custom] => 10789
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São Leopoldo
+  [quantity] => 1
+  [verify_sign] => Ab-V8RHojB3WewQRg6.fPglU7hCNAJ-0dBiodDJOvTO2bWWKJKI37Zgo
+  [payer_email] => yehhdeivid@gmail.com
+  [txn_id] => 4EH8409488600832L
+  [payment_type] => instant
+  [last_name] => Thome
+  [address_state] => RS
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10789 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 6ce6987835fe4
+)
+
+30/12/2017 23:35: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 10.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => LT85UU8RWTYWY
+  [address_street] => Alameda São Boaventura 692
+Fonseca
+  [payment_date] => 17:35:25 Dec 30, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 24120-191
+  [first_name] => RODRIGO
+  [mc_fee] => 1.10
+  [address_country_code] => BR
+  [address_name] => RODRIGO S LAZCANO
+  [notify_version] => 3.8
+  [custom] => 10793
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Niterói
+  [quantity] => 1
+  [verify_sign] => AfROHXJgo16k6LSzricRPguM9rm6AFhgpCjZZnfrEqH1yTAZo-WRqvlL
+  [payer_email] => rodrigo1803@outlook.com
+  [txn_id] => 0S350944KA936441C
+  [payment_type] => instant
+  [last_name] => S LAZCANO
+  [address_state] => RJ
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10793 - 1000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => f6d65fceb8524
+)
+
+31/12/2017 13:48: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 30.00
+  [protection_eligibility] => Eligible
+  [address_status] => unconfirmed
+  [payer_id] => GTVLAL4RRZSK6
+  [tax] => 0.00
+  [address_street] => Rua Martins Fontes 4 06
+Vila Independência
+  [payment_date] => 07:48:09 Dec 31, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 17054-310
+  [first_name] => maria
+  [mc_fee] => 2.10
+  [address_country_code] => BR
+  [address_name] => maria bomfim
+  [notify_version] => 3.8
+  [custom] => 10795
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Bauru
+  [quantity] => 1
+  [verify_sign] => ARZkBPkSfNCVhT.sVTmZrXznslyYA-S--b5pzDOlPKUElVGneWeAKLDZ
+  [payer_email] => allan_laundry@hotmail.com
+  [txn_id] => 3D953000VW028414T
+  [payment_type] => instant
+  [last_name] => bomfim
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10795 - 3000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [handling_amount] => 0.00
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 670335e6900a6
+)
+
+31/12/2017 18:19: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 100.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => VPWV82Q6CRFWL
+  [address_street] => Rua Joaquim Nunes Filho 161 apartamento 34
+Jardim Nova São João
+  [payment_date] => 12:18:53 Dec 31, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 13874-132
+  [first_name] => Gustavo
+  [mc_fee] => 5.59
+  [address_country_code] => BR
+  [address_name] => Gustavo Berti
+  [notify_version] => 3.8
+  [custom] => 10798
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => São João da Boa Vista
+  [quantity] => 1
+  [verify_sign] => AVcJSK2.6g4Eq8BUNu03eO0CQ5sjADqeiuKYDj0YokYiZCCx4QexCTWV
+  [payer_email] => gustavosnb@hotmail.com
+  [txn_id] => 7YA27957S3882205F
+  [payment_type] => instant
+  [last_name] => Berti
+  [address_state] => SP
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10798 - 10000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 505cf8a13fe1d
+)
+
+31/12/2017 21:24: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => EWXF5FM3KSXVA
+  [address_street] => Rua Cabixi 88
+Redenção
+  [payment_date] => 15:23:54 Dec 31, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => 69047-090
+  [first_name] => sara
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => sara aquino
+  [notify_version] => 3.8
+  [custom] => 10799
+  [payer_status] => unverified
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Manaus
+  [quantity] => 1
+  [verify_sign] => AaUfqD5WcoKFo8oXHUYgKLzmx.TEAEAd8PEoz3x48vnlJ68rYv9zi5wm
+  [payer_email] => tiago_quita11@hotmail.com
+  [txn_id] => 5WU42355M74243218
+  [payment_type] => instant
+  [last_name] => aquino
+  [address_state] => AM
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10799 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => b9cac98a12252
+)
+
+31/12/2017 22:18: TransaÃ§Ã£o recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [mc_gross] => 50.00
+  [protection_eligibility] => Eligible
+  [address_status] => confirmed
+  [payer_id] => KDYDERKD4HH7J
+  [address_street] => knight street 6685
+  [payment_date] => 16:18:33 Dec 31, 2017 PST
+  [payment_status] => Completed
+  [charset] => windows-1252
+  [address_zip] => V5p 2w1
+  [first_name] => Gabriel
+  [mc_fee] => 4.30
+  [address_country_code] => CA
+  [address_name] => gabriel henrique barreto
+  [notify_version] => 3.8
+  [custom] => 10800
+  [payer_status] => verified
+  [business] => marciohattori@live.com
+  [address_country] => Canada
+  [address_city] => vancouver
+  [quantity] => 1
+  [verify_sign] => ATbmGuOVs812SL9lImGCoYrkfH5OAl8cXhiu7ppb.LA7ZGu3ulPPmjas
+  [payer_email] => henrique_valencia02@hotmail.com
+  [txn_id] => 8058770570414074Y
+  [payment_type] => instant
+  [last_name] => Barreto
+  [address_state] => BC
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [receiver_id] => F4PNUCMQLEMTW
+  [txn_type] => web_accept
+  [item_name] => Fatura 10800 - 5000 Cash
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => CA
+  [transaction_subject] => 
+  [payment_gross] => 
+  [ipn_track_id] => 50b9b96d6c4e9
+)
+

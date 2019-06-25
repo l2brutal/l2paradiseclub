@@ -1,0 +1,22 @@
+Precisa criar um ícone de um item custom ou alterar um ícone exibido no painel?
+
+Os ícones de itens e skills exibidos no painel são automaticamente obtidos duma hospedagem externa da Atualstudio.
+Caso precise alterar ou criar um ícone, siga os seguintes passos:
+
+- Primeiramente, o ícone é de um item (weapon, armor, etc itens) ou skills?
+Caso seja de um item, será necessário criar na pasta "itens", caso seja skill, pasta "skills".
+
+- Obtenha o ID do item ou skill. O nome do arquivo deve ser esse ID!
+Será necessário utilizar o ID no nome da imagem/ícone a ser criado. Exemplo: 123.png
+
+- Obtenha o ícone de alguma forma, como por exemplo tirando screenshot in-game e salvando-o no formato correto.
+É necessário estar no formato PNG (.png) e possuir o tamanho de 32x32 pixels.
+
+- O item estando criado na pasta correta, na extensão (.png) e tamanho correto (32x32) ele entrará em vigor!
+
+Exemplo:
+Preciso modificar o ícone da adena!
+ID da adena = 57
+Irei montar o novo ícone e salvar na pasta: icons/itens/57.png
+
+Dúvidas? Entre em contato com a Atualstudio.com

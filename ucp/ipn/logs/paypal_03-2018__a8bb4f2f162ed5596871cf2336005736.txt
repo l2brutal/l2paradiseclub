@@ -1,0 +1,68 @@
+12/03/2018 09:18: RAW POSTs incompletos! #2 - Dump: Array
+(
+  [txn_type] => adjustment
+  [payment_date] => 05:18:23 Mar 12, 2018 PDT
+  [payment_gross] => 
+  [mc_currency] => BRL
+  [verify_sign] => Az4LcNB04-ix4m86qJSauYlARau8A7vWYQY8yOYW2egN3WxYZIGw6R2o
+  [payer_status] => verified
+  [payer_email] => marciohattori@live.com
+  [txn_id] => 7553388233837754V
+  [parent_txn_id] => 2H7503663T790490E
+  [payer_id] => F4PNUCMQLEMTW
+  [reason_code] => chargeback_settlement
+  [payment_status] => Completed
+  [payment_fee] => -20.00
+  [mc_gross] => -50.00
+  [custom] => 10709
+  [charset] => windows-1252
+  [notify_version] => 3.9
+  [ipn_track_id] => afbd80aa95564
+)
+
+12/03/2018 09:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [mc_gross] => 46.90
+  [protection_eligibility] => Eligible
+  [payer_id] => AG9PSV767UC6J
+  [address_street] => Rua Dezesseis 1210 120
+Setor Norte
+  [payment_date] => 13:33:51 Feb 23, 2018 PST
+  [payment_status] => Canceled_Reversal
+  [charset] => windows-1252
+  [address_zip] => 38300-070
+  [first_name] => Fernando
+  [mc_fee] => 3.10
+  [address_country_code] => BR
+  [address_name] => Fernando Alexandre Mendes
+  [notify_version] => 3.9
+  [reason_code] => unauthorized_claim
+  [custom] => 10709
+  [business] => marciohattori@live.com
+  [address_country] => Brazil
+  [address_city] => Ituiutaba
+  [verify_sign] => AUIRbPwmh7IwtBOMd9QtDgQ.KpNRA3H-9m8wSpC8nmBAzeokCzWMucD6
+  [payer_email] => om01@hotmail.com
+  [parent_txn_id] => 2H7503663T790490E
+  [txn_id] => 8XL13558CR683633Y
+  [payment_type] => instant
+  [last_name] => Alexandre Mendes
+  [address_state] => MG
+  [receiver_email] => marciohattori@live.com
+  [payment_fee] => 
+  [shipping_discount] => 0.00
+  [receiver_id] => F4PNUCMQLEMTW
+  [insurance_amount] => 0.00
+  [item_name] => Fatura 10709 - 5000 Cash
+  [discount] => 0.00
+  [mc_currency] => BRL
+  [item_number] => 
+  [residence_country] => BR
+  [handling_amount] => 0.00
+  [shipping_method] => Default
+  [transaction_subject] => 
+  [payment_gross] => 
+  [shipping] => 0.00
+  [ipn_track_id] => 12eb615f95f48
+)
+

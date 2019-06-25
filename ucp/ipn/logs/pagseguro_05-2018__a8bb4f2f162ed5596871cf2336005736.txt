@@ -1,0 +1,1110 @@
+01/05/2018 05:51: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 341A6F-182DB12DB14E-53340F4F8906-46CA93
+  [notificationType] => transaction
+)
+
+01/05/2018 09:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1FB4A2-7C61686168AE-0AA417BF9914-BA4A58
+  [notificationType] => transaction
+)
+
+01/05/2018 12:34: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9F2216-D8FDD4FDD410-6AA4449F9100-98AF71
+  [notificationType] => transaction
+)
+
+01/05/2018 12:43: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 684206-E08CFC8CFC05-D5546DAFB4C5-96CCE3
+  [notificationType] => transaction
+)
+
+01/05/2018 15:34: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 54F768-BA2E422E42E3-C994018F81AE-E9EBD5
+  [notificationType] => transaction
+)
+
+01/05/2018 22:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 45B410-0140F240F2A2-155473EF92B2-B6CF8D
+  [notificationType] => transaction
+)
+
+01/05/2018 23:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B77B70-0F827B827B29-0EE4B30F9D8D-638711
+  [notificationType] => transaction
+)
+
+02/05/2018 05:19: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C3B8C0-496B246B24B3-4BB4A8DF82D6-F238BB
+  [notificationType] => transaction
+)
+
+02/05/2018 05:20: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 20021F-7B6CAE6CAE9E-25540B4FB47E-D7777C
+  [notificationType] => transaction
+)
+
+02/05/2018 10:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4B5221-4FBEF5BEF53E-844426EF803B-795EB9
+  [notificationType] => transaction
+)
+
+02/05/2018 13:23: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 666E30-E17B3F7B3F30-C444FDBFA0D7-8D54E9
+  [notificationType] => transaction
+)
+
+02/05/2018 19:28: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E4C388-493A3F3A3FCD-C444B58F83FB-EDECD7
+  [notificationType] => transaction
+)
+
+02/05/2018 19:31: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 835EEC-046BFE6BFE4C-9EE4E95F8D15-AD4CEE
+  [notificationType] => transaction
+)
+
+02/05/2018 20:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1258F5-D2E428E428FA-F994FE5FA1EA-403579
+  [notificationType] => transaction
+)
+
+02/05/2018 20:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 88787E-31A222A2226E-37741DEFB703-3E1D1A
+  [notificationType] => transaction
+)
+
+02/05/2018 22:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 2B7BBB-AF169B169B2C-66649FFF96C8-ACF485
+  [notificationType] => transaction
+)
+
+02/05/2018 22:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EAF753-BAD738D73824-16647DDFAFF6-3CDDB1
+  [notificationType] => transaction
+)
+
+03/05/2018 06:25: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6E8B8A-6921DE21DEE7-B994EE0FBE63-DF8DA5
+  [notificationType] => transaction
+)
+
+03/05/2018 06:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 64E741-6DC910C91019-000436CFB6AE-4C0DFC
+  [notificationType] => transaction
+)
+
+03/05/2018 10:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EA0A0E-C7896989696E-1BB4224F932C-CFCCBF
+  [notificationType] => transaction
+)
+
+03/05/2018 12:46: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => DCC06C-D89FD79FD72D-CBB49E9F98C7-9374B6
+  [notificationType] => transaction
+)
+
+03/05/2018 12:59: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 59726F-9257F057F059-8664BCAFA4B8-3BBF85
+  [notificationType] => transaction
+)
+
+03/05/2018 14:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 83435C-4028CF28CF83-EDD45BDFAC83-1BDAB3
+  [notificationType] => transaction
+)
+
+03/05/2018 15:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E0100C-4318851885AE-1DD4D86FBE6D-5C8D68
+  [notificationType] => transaction
+)
+
+03/05/2018 16:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C2D0FF-2F62BB62BB35-81142BCF925F-0F4D37
+  [notificationType] => transaction
+)
+
+03/05/2018 19:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 99269E-9486F786F745-0884764F86BD-C45167
+  [notificationType] => transaction
+)
+
+03/05/2018 19:49: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 5E7792-9A43C843C857-6774CE2FAF01-39073E
+  [notificationType] => transaction
+)
+
+03/05/2018 20:15: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => F8E469-F1DB6DDB6D61-1EE4DDBFACDD-358DF7
+  [notificationType] => transaction
+)
+
+04/05/2018 03:46: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 90D94C-ACA4D9A4D92C-0BB4DA6F9BF0-CE8EE2
+  [notificationType] => transaction
+)
+
+04/05/2018 06:46: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B3EB94-04DE8CDE8C7E-D444463FB972-E0C097
+  [notificationType] => transaction
+)
+
+04/05/2018 10:20: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 16084E-5AE4E5E4E52C-1AA4E26FA983-C29639
+  [notificationType] => transaction
+)
+
+04/05/2018 12:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 97F164-680D4E0D4EE4-4CC4C40F9DC0-EB47E3
+  [notificationType] => transaction
+)
+
+04/05/2018 13:16: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6F1655-67F5EAF5EA51-DFF432CF87FD-DBD7B5
+  [notificationType] => transaction
+)
+
+04/05/2018 14:52: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 470E6E-F5B901B90136-0DD460DF8F12-6DEBB8
+  [notificationType] => transaction
+)
+
+04/05/2018 21:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 791065-3063E763E73C-7DD455AFB476-EBF636
+  [notificationType] => transaction
+)
+
+05/05/2018 00:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F8FF37-004723472309-0114362FBE6B-2E6F05
+  [notificationType] => transaction
+)
+
+05/05/2018 02:59: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => EC6025-B6FF81FF81B5-E00413CFA95D-612860
+  [notificationType] => transaction
+)
+
+05/05/2018 08:04: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => ED46C9-5DC9A5C9A5EF-DDD4D1AF8BBB-B6F485
+  [notificationType] => transaction
+)
+
+05/05/2018 08:04: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 069EFE-43795E795EDA-4CC4C26FA7A0-0CB81C
+  [notificationType] => transaction
+)
+
+05/05/2018 08:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B72122-5D5F0D5F0DA5-19946E7FA8D8-497AEA
+  [notificationType] => transaction
+)
+
+05/05/2018 10:29: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => D7AA0D-C2542A542AED-C554DA9FB18C-52C856
+  [notificationType] => transaction
+)
+
+05/05/2018 20:36: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 34F11A-E6EECFEECF52-D0049C3FBB78-3EDFB1
+  [notificationType] => transaction
+)
+
+05/05/2018 20:51: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 97339F-DEA7FDA7FD95-4BB4E53FB739-1E0081
+  [notificationType] => transaction
+)
+
+06/05/2018 10:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A796DA-6AD4F5D4F52A-D77461FFBB1B-6606AD
+  [notificationType] => transaction
+)
+
+06/05/2018 11:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 256FA1-4F8B5A8B5A28-B11474BFAEDA-9E75C0
+  [notificationType] => transaction
+)
+
+06/05/2018 14:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 659E59-1524D724D788-A224E33FBF1F-CAA938
+  [notificationType] => transaction
+)
+
+06/05/2018 15:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 98E65E-2153BE53BE1C-DEE4293F8F26-6FE343
+  [notificationType] => transaction
+)
+
+06/05/2018 16:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3318E3-140967096776-DDD42F7F95CA-A9930B
+  [notificationType] => transaction
+)
+
+07/05/2018 10:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => FDEA8E-414E184E18F1-055456BFA4A5-703ECC
+  [notificationType] => transaction
+)
+
+07/05/2018 15:27: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 723C96-0124A124A199-7664B1FF9C76-1F1CF2
+  [notificationType] => transaction
+)
+
+07/05/2018 15:46: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => D8832B-7985BB85BB53-EBB4C91FB15C-DA371E
+  [notificationType] => transaction
+)
+
+07/05/2018 21:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 505741-83C949C9493D-A554FB0FB448-7FBFEA
+  [notificationType] => transaction
+)
+
+07/05/2018 23:20: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 1E3840-829D369D366E-499473AF8D8A-1F2E6D
+  [notificationType] => transaction
+)
+
+08/05/2018 01:30: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 955EAF-992D3A2D3AA7-B3349F5FA6E4-391D00
+  [notificationType] => transaction
+)
+
+08/05/2018 05:41: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1DD0B4-D558C758C743-CFF487CF8B8F-AF3349
+  [notificationType] => transaction
+)
+
+08/05/2018 08:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EF1B98-CC485B485B9A-B44494BF9C53-8D3F17
+  [notificationType] => transaction
+)
+
+08/05/2018 22:02: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 91ED13-990883088370-355469AFA91A-EE1BAE
+  [notificationType] => transaction
+)
+
+08/05/2018 22:20: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 5A4496-ADB8DBB8DBFC-FFF489BF8DD0-2FF30F
+  [notificationType] => transaction
+)
+
+09/05/2018 01:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9C98A7-BA8C7B8C7B9A-7884BEBFB685-2A9E60
+  [notificationType] => transaction
+)
+
+09/05/2018 06:35: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => BE0DB2-32BFCFBFCF5F-666418EFBB64-AFA0D5
+  [notificationType] => transaction
+)
+
+09/05/2018 19:10: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => A0CAE8-15EC21EC21AD-21148F5FAA29-78FBCA
+  [notificationType] => transaction
+)
+
+10/05/2018 16:07: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4C5098-8E286F286FD4-BCC40DBFA70F-DB3689
+  [notificationType] => transaction
+)
+
+10/05/2018 19:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 070808-F519BD19BDE8-CCC4AA1F8771-DBA9B2
+  [notificationType] => transaction
+)
+
+10/05/2018 22:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C62B0B-D44019401975-0774C87FB64A-67DCD0
+  [notificationType] => transaction
+)
+
+10/05/2018 22:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 375D9E-ECC35CC35CAF-5884FEFFA782-18265D
+  [notificationType] => transaction
+)
+
+10/05/2018 23:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B82CCD-077510751081-A99440EF9319-66A990
+  [notificationType] => transaction
+)
+
+11/05/2018 01:16: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F502FA-9AB5B1B5B157-C444182F972D-39AEAE
+  [notificationType] => transaction
+)
+
+11/05/2018 07:25: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 82214F-1529F629F651-2CC4A33F9A99-9DC3A4
+  [notificationType] => transaction
+)
+
+11/05/2018 10:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F39C9E-ED8A2C8A2C30-30048EDF9679-36D890
+  [notificationType] => transaction
+)
+
+11/05/2018 20:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => CC0401-E20A860A8688-C7746C2FA739-E47A92
+  [notificationType] => transaction
+)
+
+11/05/2018 21:30: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 719F54-B7278C278CF5-9DD4451F94BA-31F59D
+  [notificationType] => transaction
+)
+
+12/05/2018 09:31: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 1FD013-DDF65EF65EB0-8DD4A91FABB0-A95106
+  [notificationType] => transaction
+)
+
+12/05/2018 14:56: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 5CDCEB-7887358735FE-B334FA8FBA04-6AFDEE
+  [notificationType] => transaction
+)
+
+12/05/2018 15:10: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => C8FDE7-776AB36AB352-46642ADF8D3A-AB75F9
+  [notificationType] => transaction
+)
+
+12/05/2018 15:22: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 23F3C8-0346BF46BF00-B004299F9ED0-450529
+  [notificationType] => transaction
+)
+
+12/05/2018 16:16: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7FEEFB-6416D016D07E-30044B7F9237-FFD344
+  [notificationType] => transaction
+)
+
+12/05/2018 18:51: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F67536-DB73BD73BD8C-2884CE0FAC2A-BDA81D
+  [notificationType] => transaction
+)
+
+13/05/2018 04:10: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E0E546-19A604A60461-A224F2EFA01F-4B6D27
+  [notificationType] => transaction
+)
+
+13/05/2018 09:14: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B91E64-B5EADEEADEF8-B334288FBBAA-269E9B
+  [notificationType] => transaction
+)
+
+13/05/2018 13:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6FBA09-1461BF61BF8E-7AA4434FA4A5-99F129
+  [notificationType] => transaction
+)
+
+13/05/2018 14:34: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 0B0A32-35F152F15285-5884F21FB103-77F64B
+  [notificationType] => transaction
+)
+
+13/05/2018 17:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 316380-63E141E141B7-CFF484AFB0D9-85786A
+  [notificationType] => transaction
+)
+
+13/05/2018 21:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E26941-7A0F3A0F3A1E-A444B6EFAD7C-28FD62
+  [notificationType] => transaction
+)
+
+14/05/2018 07:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => AC4040-D40FA30FA39B-9554AD7F916F-6254E8
+  [notificationType] => transaction
+)
+
+14/05/2018 10:29: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9A97EB-AF51A751A768-FBB4A2BF8BC5-B7081A
+  [notificationType] => transaction
+)
+
+14/05/2018 11:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 47E0E0-D0A0AAA0AA45-D6646CFFB8E9-97064A
+  [notificationType] => transaction
+)
+
+14/05/2018 12:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F4BAA2-60B48BB48B11-C1147F0F8BF5-060CE5
+  [notificationType] => transaction
+)
+
+14/05/2018 13:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => ABC20B-1F01F701F71E-D22466EFA7A8-7D10DF
+  [notificationType] => transaction
+)
+
+14/05/2018 13:41: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3BBA2D-614C244C240F-3BB4ABEF996B-AB0ADA
+  [notificationType] => transaction
+)
+
+14/05/2018 15:39: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E786F6-6BAD5FAD5FF5-FEE42F4F8263-4DD5C6
+  [notificationType] => transaction
+)
+
+14/05/2018 16:44: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => CFA8C8-02A503A5038C-2224181F9FD2-E60B54
+  [notificationType] => transaction
+)
+
+14/05/2018 20:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => D17B63-DE66E366E3DB-0774184F9BB1-3D6B20
+  [notificationType] => transaction
+)
+
+15/05/2018 06:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C9A326-4AAD3CAD3CEE-FDD49FFFB053-D7CDFE
+  [notificationType] => transaction
+)
+
+15/05/2018 12:22: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E9F049-737DF47DF47F-511473CF8AF7-D7DCFC
+  [notificationType] => transaction
+)
+
+15/05/2018 12:23: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 649C8D-0D20662066F3-099457BFAC2E-2E7A82
+  [notificationType] => transaction
+)
+
+15/05/2018 12:32: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 50B7EB-82CB88CB8873-F444709FAAF0-1A6FC0
+  [notificationType] => transaction
+)
+
+15/05/2018 12:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 8259C2-60EE12EE127F-4CC4CA7FA1DE-4516FA
+  [notificationType] => transaction
+)
+
+15/05/2018 12:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A1A8E2-83CF19CF1942-933490FFB730-FF381B
+  [notificationType] => transaction
+)
+
+15/05/2018 12:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 96CD0A-BBB97AB97A7F-EDD4DB6FAE51-DB554A
+  [notificationType] => transaction
+)
+
+15/05/2018 15:16: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3326D8-CEEBB1EBB14B-F554FD2FB479-DE5D03
+  [notificationType] => transaction
+)
+
+16/05/2018 02:53: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => AE8147-7907D107D1F4-FCC4B6FFB0A7-53D44C
+  [notificationType] => transaction
+)
+
+16/05/2018 17:00: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 23697B-5DDAFDDAFDB1-3554768F8BE4-536662
+  [notificationType] => transaction
+)
+
+16/05/2018 17:05: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => F70B72-B68CBA8CBA4B-7774C99F93A8-D13B67
+  [notificationType] => transaction
+)
+
+16/05/2018 19:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => F443C5-B8D9A1D9A1D1-EEE4428FB25E-CFBB84
+  [notificationType] => transaction
+)
+
+17/05/2018 02:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A45341-06D827D827C2-BBB4AFBFB3C9-09DECE
+  [notificationType] => transaction
+)
+
+17/05/2018 08:25: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => BA9E87-01527552753F-7DD4C82FB459-7477C2
+  [notificationType] => transaction
+)
+
+17/05/2018 12:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 12E8AF-538A128A12A4-3FF4330F9E4A-B35F10
+  [notificationType] => transaction
+)
+
+17/05/2018 13:00: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9AF894-0CDBDFDBDF8F-9DD4113F8281-E9FD1D
+  [notificationType] => transaction
+)
+
+17/05/2018 16:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => FB42FF-3D39963996A0-2884381F8625-5CA3BB
+  [notificationType] => transaction
+)
+
+17/05/2018 17:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 44D227-EE7FE77FE741-E444424FA6AC-5D7E44
+  [notificationType] => transaction
+)
+
+17/05/2018 19:55: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 436628-F51E8F1E8FC7-F66483AF9633-D97D16
+  [notificationType] => transaction
+)
+
+17/05/2018 20:18: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6B2527-E8F186F1860D-5444C21F85E4-3C0703
+  [notificationType] => transaction
+)
+
+18/05/2018 02:52: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 4ED274-E1141A141AC8-6EE4627FBCDE-0D776C
+  [notificationType] => transaction
+)
+
+18/05/2018 03:02: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => DFC1D4-D457F357F3D4-34441A1F80E0-F1920B
+  [notificationType] => transaction
+)
+
+18/05/2018 07:01: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A561A0-AE81348134E7-2AA496BFBF8B-2F3BAB
+  [notificationType] => transaction
+)
+
+18/05/2018 10:21: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 45D707-20A5A3A5A320-999442CFA244-F7FCF0
+  [notificationType] => transaction
+)
+
+18/05/2018 14:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 379822-3F450845082F-E114E54FAA4E-1F4CAE
+  [notificationType] => transaction
+)
+
+19/05/2018 08:20: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 974C3A-5F7256725638-E88475AF8BF4-CBB2AC
+  [notificationType] => transaction
+)
+
+19/05/2018 17:46: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 0A555E-C4CE5BCE5B0F-A88484FFA93E-155F58
+  [notificationType] => transaction
+)
+
+19/05/2018 20:39: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 572330-174119411989-C224D10F982E-C046C4
+  [notificationType] => transaction
+)
+
+19/05/2018 20:54: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1F260F-25A97FA97FFE-EFF400FFBB61-C8F9D0
+  [notificationType] => transaction
+)
+
+21/05/2018 15:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B316DC-A456FC56FC3C-CEE409FF8697-1EBC67
+  [notificationType] => transaction
+)
+
+21/05/2018 23:21: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 5F6551-156E536E5352-0AA4FB7FBE75-655F8E
+  [notificationType] => transaction
+)
+
+22/05/2018 05:25: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 11D470-2E4414441496-6EE45B7FB6EA-D18311
+  [notificationType] => transaction
+)
+
+22/05/2018 22:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 5A086C-318C548C5456-0224A79FBF9A-7DC743
+  [notificationType] => transaction
+)
+
+22/05/2018 22:21: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => D223D9-6800D700D76E-E774BB1F933F-103BF9
+  [notificationType] => transaction
+)
+
+23/05/2018 19:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 284C4B-8F732973296C-CDD4946F88F8-B42052
+  [notificationType] => transaction
+)
+
+24/05/2018 23:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 2ABB6C-9D80C780C7A1-3FF413FFB371-956FB4
+  [notificationType] => transaction
+)
+
+25/05/2018 14:49: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 3FD2F4-C8FE10FE10C1-888423DF80D6-760392
+  [notificationType] => transaction
+)
+
+25/05/2018 18:29: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 0066E1-662E7B2E7BC8-6BB4DCEFBA84-7D7F2A
+  [notificationType] => transaction
+)
+
+25/05/2018 19:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 0D2D02-3C7AD57AD5F3-A444B1DF82B1-DD70BF
+  [notificationType] => transaction
+)
+
+25/05/2018 19:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 98AE8F-57D296D2961D-1EE4B98FBDA0-0DBD56
+  [notificationType] => transaction
+)
+
+25/05/2018 23:52: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7A7A4C-F4ABBDABBDED-2004B99FA855-9D9D14
+  [notificationType] => transaction
+)
+
+26/05/2018 09:33: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1DCFA1-69B731B73169-3884658FB49B-EB5A9D
+  [notificationType] => transaction
+)
+
+26/05/2018 13:40: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 2FAF99-1FDFEDDFED87-5CC4A05FB004-EFFEEB
+  [notificationType] => transaction
+)
+
+26/05/2018 14:20: Algum dos parâmetros importantes está vazio!  - Dump: Array
+(
+  [notificationCode] => 5C50C8-8572B472B46B-9774395FAED2-1ECB65
+  [notificationType] => transaction
+)
+
+26/05/2018 14:57: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => D067C5-13BF0FBF0F66-0554A5EF8F25-E0992C
+  [notificationType] => transaction
+)
+
+26/05/2018 15:12: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 81E33E-71DFF1DFF150-C5541A3FACC8-9C72B5
+  [notificationType] => transaction
+)
+
+26/05/2018 15:24: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9CCB23-3CF61AF61A5D-3994E4AF8CFD-CC9843
+  [notificationType] => transaction
+)
+
+26/05/2018 15:35: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 25F68F-7EA019A0195B-C7749BBFACB9-C5102D
+  [notificationType] => transaction
+)
+
+26/05/2018 16:21: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 5C50C8-8572B472B46B-9774395FAED2-1ECB65
+  [notificationType] => transaction
+)
+
+26/05/2018 16:31: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => FA0E0C-05CC22CC22D7-2664206F859B-BD9BDE
+  [notificationType] => transaction
+)
+
+26/05/2018 20:17: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => C9633C-27729D729D20-78846E4FA783-E6C3A1
+  [notificationType] => transaction
+)
+
+26/05/2018 20:17: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E84446-37AC79AC7990-3664171FBC9C-25939C
+  [notificationType] => transaction
+)
+
+27/05/2018 08:26: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EE6D6C-C57FD07FD0F1-3554EBAFB7A4-EB8F33
+  [notificationType] => transaction
+)
+
+27/05/2018 08:57: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 930D85-090C160C16F9-AFF4276F9C75-F86339
+  [notificationType] => transaction
+)
+
+27/05/2018 10:44: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 26167E-F08974897481-6EE4EA8F8E37-67ADC5
+  [notificationType] => transaction
+)
+
+27/05/2018 14:19: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 3B428B-FD63626362F2-7994699FAC48-DDB4D7
+  [notificationType] => transaction
+)
+
+27/05/2018 14:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => EDAFF1-3190C790C7E4-9994EBCFBE5E-502AB4
+  [notificationType] => transaction
+)
+
+27/05/2018 17:29: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 596B37-F946C846C85F-AAA4488F94AC-41FE7F
+  [notificationType] => transaction
+)
+
+27/05/2018 18:05: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 5EA27F-04986B986BB5-AAA4677FAE17-606887
+  [notificationType] => transaction
+)
+
+27/05/2018 19:54: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E9DB95-DCCB15CB1544-2EE4378F8C74-1B7402
+  [notificationType] => transaction
+)
+
+28/05/2018 09:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B44913-49878287824A-EBB4D2CFAA75-B85401
+  [notificationType] => transaction
+)
+
+28/05/2018 10:38: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 3DAD29-951A9D1A9D48-2444B1FFBF2E-DE75AD
+  [notificationType] => transaction
+)
+
+28/05/2018 14:47: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => CB933D-92EA5AEA5A27-A664D7DFB2FE-2D64C9
+  [notificationType] => transaction
+)
+
+28/05/2018 15:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => A7F8E7-5CE92FE92F4C-7AA4FBBF9538-F92020
+  [notificationType] => transaction
+)
+
+28/05/2018 15:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => AA7758-D04786478657-E444476FAB0A-D4DDAA
+  [notificationType] => transaction
+)
+
+28/05/2018 16:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 780F82-8E01620162E4-4994DC0FA239-DC2142
+  [notificationType] => transaction
+)
+
+28/05/2018 18:21: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => EB4C48-F1BB07BB07A8-08844B0F8FF1-728B38
+  [notificationType] => transaction
+)
+
+28/05/2018 21:49: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 291FA6-A741DA41DA11-0334DC1FB3CA-9E04A1
+  [notificationType] => transaction
+)
+
+28/05/2018 22:41: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 2ED2A2-8847744774B2-4554200FA200-7B969C
+  [notificationType] => transaction
+)
+
+28/05/2018 22:45: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1DBE8A-9BC042C04281-0AA49BAF84A6-0D22A8
+  [notificationType] => transaction
+)
+
+29/05/2018 04:48: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => ECFF30-2D7058705808-EBB470BF98B1-973F17
+  [notificationType] => transaction
+)
+
+29/05/2018 05:06: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => E29E74-DBE164E164E0-7FF4C5BF8D93-F0B28C
+  [notificationType] => transaction
+)
+
+29/05/2018 05:08: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 5CF78F-419057905702-DFF42F7FB867-1CD019
+  [notificationType] => transaction
+)
+
+29/05/2018 05:24: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => DE1F10-F90EC70EC730-2AA4AEAFA93D-B87116
+  [notificationType] => transaction
+)
+
+29/05/2018 09:07: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => B74853-3EB9B1B9B11C-9FF4E2AF805F-C1F83D
+  [notificationType] => transaction
+)
+
+29/05/2018 14:56: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 70E6D7-C601F501F56B-2BB4836FAC08-FD8589
+  [notificationType] => transaction
+)
+
+29/05/2018 20:06: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => EE6533-9991DF91DF76-4334D64F928C-2A5896
+  [notificationType] => transaction
+)
+
+29/05/2018 23:20: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 7F88F6-FDF22EF22E3C-8114C38F91DD-69B447
+  [notificationType] => transaction
+)
+
+30/05/2018 00:41: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => BAD18B-F3D687D68764-61149FFF8313-45B570
+  [notificationType] => transaction
+)
+
+30/05/2018 00:51: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 685353-ED61376137C7-B77494BF95D1-A8021D
+  [notificationType] => transaction
+)
+
+30/05/2018 05:48: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 93498D-14DADBDADBB2-311409DFA38A-1E7D4B
+  [notificationType] => transaction
+)
+
+30/05/2018 09:46: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1C441D-B5C9EAC9EA0F-68849C4FA22E-F45153
+  [notificationType] => transaction
+)
+
+30/05/2018 17:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => B1D109-69597459743D-033406BF9737-8BEB65
+  [notificationType] => transaction
+)
+
+30/05/2018 17:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 521997-40FD62FD6221-BBB4C48FBBEB-94509B
+  [notificationType] => transaction
+)
+
+30/05/2018 18:39: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => EF3EEA-1E560C560C03-C334A8AFB51C-E9716F
+  [notificationType] => transaction
+)
+
+31/05/2018 03:33: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 07E9E1-E2A097A097B2-E774610F98B0-1EAD0B
+  [notificationType] => transaction
+)
+
+31/05/2018 03:36: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => F57095-4EC959C959B4-F99466BFA0E0-1D0FB9
+  [notificationType] => transaction
+)
+
+31/05/2018 08:36: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 4889BE-5666DF66DF44-A114784FB792-D60AB7
+  [notificationType] => transaction
+)
+
+31/05/2018 12:07: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 7EF2E5-765F9F5F9F3C-8334EFFF8448-2E59D5
+  [notificationType] => transaction
+)
+
+31/05/2018 14:38: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 988A1A-B896C696C647-1554800F8C82-872329
+  [notificationType] => transaction
+)
+
+31/05/2018 17:51: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 6D1652-142C0D2C0D3D-3994868FB9DF-1D598A
+  [notificationType] => transaction
+)
+
+31/05/2018 18:43: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 2B9296-C242F542F5CD-AFF4CC2F84A7-AEBEEB
+  [notificationType] => transaction
+)
+
+31/05/2018 22:05: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 9DB158-A5D503D503AE-C444501FB3C4-CFF1A7
+  [notificationType] => transaction
+)
+

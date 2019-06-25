@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<siege>
+<configs>
+<atualstudio>Cache script by Atualstudio.com</atualstudio>
+<updated>1541045756</updated>
+</configs>
+<line>
+<castle>gludio</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>dion</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>giran</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>oren</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>aden</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>innadril</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>goddard</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>rune</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+<line>
+<castle>schuttgart</castle>
+<owner>No Owner</owner>
+<leader>No Leader</leader>
+<ally>No Alliance</ally>
+<nextwar>00/00/0000 00:00</nextwar>
+<tax>0</tax>
+<attacks>0</attacks>
+<attacksname></attacksname>
+<defs>0</defs>
+<defsname></defsname>
+</line>
+</siege>
