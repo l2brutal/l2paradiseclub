@@ -1,0 +1,10 @@
+{
+    "main": {
+        "fmlist": {
+            "fmlist_manage": "fmlist_manage"
+        },
+        "gmakeup": {
+            "gmakeup_manage": "gmakeup_manage"
+        }
+    }
+}

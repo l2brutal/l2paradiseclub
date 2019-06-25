@@ -1,0 +1,92 @@
+[
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "newest_prefix",
+                "type": "VARCHAR",
+                "default": "",
+                "length": 2550,
+                "null": true,
+                "comment": "AT&P: Latest prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "require_prefix",
+                "type": "TINYINT",
+                "default": "0",
+                "null": true,
+                "comment": "AT&P: Require a prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "default_prefix",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "AT&P: Default prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "default_tags",
+                "type": "MEDIUMTEXT",
+                "null": true,
+                "comment": "AT&P: Default tags"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "show_prefix_in_desc",
+                "type": "TINYINT",
+                "default": "0",
+                "null": true,
+                "comment": "AT&P: Show prefixes on index"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_topic_mmod",
+            {
+                "name": "topic_prefix",
+                "type": "INT",
+                "default": "-1",
+                "null": true,
+                "comment": "AT&P: Topic prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_topic_mmod",
+            {
+                "name": "topic_add_tags",
+                "type": "MEDIUMTEXT",
+                "null": true,
+                "comment": "AT&P: Add tags"
+            }
+        ]
+    }
+]

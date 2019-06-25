@@ -1,0 +1,16 @@
+{
+    "viewer": {
+        "conversations": {
+            "conversations_manage": "conversations_manage"
+        },
+        "settings": {
+            "settings_manage": "settings_manage"
+        },
+        "tools": {
+            "tools_manage": "tools_manage"
+        },
+        "logs": {
+            "logs_manage": "logs_manage"
+        }
+    }
+}

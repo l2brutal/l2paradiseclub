@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "invite": {
+            "default_controller": "",
+            "protected": 0
+        }
+    },
+    "front": {
+        "invite": {
+            "default_controller": "",
+            "protected": false
+        }
+    }
+}

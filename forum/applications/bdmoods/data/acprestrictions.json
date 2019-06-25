@@ -1,0 +1,10 @@
+{
+    "manage": {
+        "manage": {
+            "bdmoods_manage": "bdmoods_manage"
+        },
+        "settings": {
+            "settings_manage": "settings_manage"
+        }
+    }
+}

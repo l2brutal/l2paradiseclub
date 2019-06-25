@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+RewriteBase /forum/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule \.(js|css|jpeg|jpg|gif|png|ico|map)(\?|$) /forum/404error.php [L,NC]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /forum/index.php [L]
+</IfModule>

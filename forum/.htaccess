@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+RewriteBase /forum/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule \.(js|css|jpeg|jpg|gif|png|ico|map)(\?|$) /forum/404error.php [L,NC]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /forum/index.php [L]
+</IfModule>
+# Use PHPedge as default
+AddHandler application/x-httpd-php-edge .php
+# BEGIN custom php.ini PHPedge
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /home/omass476/public_html/l2paradise/forum
+</IfModule>
+# END custom php.ini

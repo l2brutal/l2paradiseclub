@@ -1,0 +1,303 @@
+{
+    "advancedtagsprefixes_prefixes": {
+        "name": "advancedtagsprefixes_prefixes",
+        "columns": {
+            "prefix_id": {
+                "allow_null": false,
+                "auto_increment": true,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": null,
+                "length": 10,
+                "name": "prefix_id",
+                "type": "INT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "prefix_title": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": null,
+                "length": 255,
+                "name": "prefix_title",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "prefix_pre": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": null,
+                "length": 255,
+                "name": "prefix_pre",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "prefix_post": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": null,
+                "length": 255,
+                "name": "prefix_post",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "prefix_groups": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": null,
+                "length": 0,
+                "name": "prefix_groups",
+                "type": "MEDIUMTEXT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "prefix_showtitle": {
+                "allow_null": false,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": "1",
+                "length": 1,
+                "name": "prefix_showtitle",
+                "type": "TINYINT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            }
+        },
+        "indexes": {
+            "PRIMARY": {
+                "type": "primary",
+                "name": "PRIMARY",
+                "length": [
+                    null
+                ],
+                "columns": [
+                    "prefix_id"
+                ]
+            },
+            "prefix": {
+                "type": "key",
+                "name": "prefix",
+                "length": [
+                    150
+                ],
+                "columns": [
+                    "prefix_title"
+                ]
+            }
+        },
+        "collation": "utf8_general_ci",
+        "engine": "MyISAM",
+        "comment": "Additional data store for prefixes"
+    },
+    "advancedtagsprefixes_node_settings": {
+        "name": "advancedtagsprefixes_node_settings",
+        "columns": {
+            "id": {
+                "allow_null": false,
+                "auto_increment": true,
+                "binary": false,
+                "comment": "ID Number",
+                "decimals": null,
+                "default": null,
+                "length": 20,
+                "name": "id",
+                "type": "BIGINT",
+                "unsigned": true,
+                "values": [],
+                "zerofill": false
+            },
+            "node_app": {
+                "allow_null": false,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": "",
+                "length": 32,
+                "name": "node_app",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "node_type": {
+                "allow_null": false,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": "",
+                "length": 32,
+                "name": "node_type",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "node_id": {
+                "name": "node_id",
+                "type": "BIGINT",
+                "length": 20,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "require_prefix": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Require a prefix",
+                "decimals": null,
+                "default": "0",
+                "length": 4,
+                "name": "require_prefix",
+                "type": "TINYINT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "default_prefix": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Default prefix",
+                "decimals": null,
+                "default": null,
+                "length": 255,
+                "name": "default_prefix",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "default_tags": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Default tags",
+                "decimals": null,
+                "default": null,
+                "length": 0,
+                "name": "default_tags",
+                "type": "MEDIUMTEXT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "tag_mode": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Tag mode",
+                "decimals": null,
+                "default": "inherit",
+                "length": 255,
+                "name": "tag_mode",
+                "type": "VARCHAR",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "allowed_prefixes": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Allowed prefixes",
+                "decimals": null,
+                "default": null,
+                "length": 0,
+                "name": "allowed_prefixes",
+                "type": "MEDIUMTEXT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "tag_min": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Min tags allowed",
+                "decimals": null,
+                "default": "-1",
+                "length": 11,
+                "name": "tag_min",
+                "type": "INT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "tag_max": {
+                "allow_null": true,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "Max tags allowed",
+                "decimals": null,
+                "default": "-1",
+                "length": 11,
+                "name": "tag_max",
+                "type": "INT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            }
+        },
+        "indexes": {
+            "PRIMARY": {
+                "type": "primary",
+                "name": "PRIMARY",
+                "length": [
+                    null
+                ],
+                "columns": [
+                    "id"
+                ]
+            },
+            "node_key": {
+                "type": "unique",
+                "name": "node_key",
+                "length": [
+                    null,
+                    null,
+                    null
+                ],
+                "columns": [
+                    "node_app",
+                    "node_type",
+                    "node_id"
+                ]
+            }
+        },
+        "collation": "utf8_unicode_ci",
+        "engine": "InnoDB"
+    }
+}

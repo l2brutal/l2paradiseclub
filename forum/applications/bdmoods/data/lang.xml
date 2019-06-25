@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="bdmoods" version="110001">
+  <word key="__app_bdmoods" js="0">Moods</word>
+  <word key="menu__bdmoods_manage" js="0">Moods</word>
+  <word key="menu__bdmoods_manage_manage" js="0">Moods</word>
+  <word key="menu__bdmoods_manage_settings" js="0">Settings</word>
+  <word key="module__bdmoods_mood" js="0">My Mood</word>
+  <word key="member__bdmoods_MemberForm" js="0">Mood</word>
+  <word key="group__bdmoods_GroupForm" js="0">Moods</word>
+  <word key="r__manage" js="0">Manage</word>
+  <word key="r__bdmoods_manage" js="0">Manage Moods</word>
+  <word key="r__bdmoods_settings" js="0">Manage Moods Settings</word>
+  <word key="bd_moods_moods" js="0">Moods</word>
+  <word key="bd_moods_canSee" js="0">Can See Moods</word>
+  <word key="bd_moods_canChange" js="0">Can Change Mood</word>
+  <word key="bd_moods_canUseCustom" js="0">Can Edit Feeling Text</word>
+  <word key="filestorage__bdmoods_FileStorage" js="0">(BD4) Moods Images</word>
+  <word key="bd_moods_moodChooserIcon" js="0">Mood Icon Class</word>
+  <word key="bd_moods_moodNotFound" js="0">Mood could not be found</word>
+  <word key="bd_moods_manageMoods" js="0">Manage Moods</word>
+  <word key="bd_moods_settings" js="0">Moods Settings</word>
+  <word key="bd_moods_imgmaxwidth" js="0">Max Image Display Width</word>
+  <word key="bd_moods_imgmaxheight" js="0">Max Image Display Height</word>
+  <word key="bd_moods_maxcustomtextlength" js="0">Custom Feeling Max Length</word>
+  <word key="bd_moods_displaypos" js="0">Display Position</word>
+  <word key="bd_moods_search_settings" js="0">Moods Settings</word>
+  <word key="bd_moods_tooltip" js="0">Feeling %s</word>
+  <word key="bd_moods_hovercard_feeling" js="0">Feeling</word>
+  <word key="bd_moods_removeMood" js="0">Remove</word>
+  <word key="bd_moods_moodChooser" js="0">My Mood</word>
+  <word key="bd_moods_addMood" js="0">Add Mood</word>
+  <word key="bd_moods_addBulkMood" js="0">Bulk Add</word>
+  <word key="bd_moods_editMood" js="0">Edit Mood</word>
+  <word key="bd_moods_mood_title" js="0">Title</word>
+  <word key="bd_moods_mood_image" js="0">Image</word>
+  <word key="bd_moods_mood_images" js="0">Images</word>
+  <word key="bd_moods_moodNone" js="0">None</word>
+  <word key="bd_moods_customFeeling" js="0">Currently Feeling</word>
+  <word key="bd_moods_mood" js="0">Mood</word>
+  <word key="bd_moods_userNavLink" js="0">Mood Icon on User Nav</word>
+  <word key="bd_moods_userDropLink" js="0">My Moods Link in User Menu</word>
+  <word key="bd_moods_updateMood" js="0">Update Mood</word>
+  <word key="bd_moods_general" js="0">General</word>
+  <word key="bd_moods_imageDisplay" js="0">Image Display</word>
+  <word key="bd_moods_noMoods" js="0">There are no moods available.</word>
+  <word key="bd_moods_mustSelect" js="0">Please first select a mood below.</word>
+  <word key="block_latestMoodUpdates" js="0">Latest Mood Updates</word>
+  <word key="block_latestMoodUpdates_desc" js="0">Shows a list of the latest mood updates</word>
+  <word key="bd_moods_latestMoodUpdates" js="0">Latest Mood Updates</word>
+  <word key="bd_moods_xUpdatedMood" js="0">is now feeling %s</word>
+  <word key="bd_moods_entriesNumber" js="0">Number of Entries</word>
+  <word key="bd_moods_widgetNoUpdates" js="0">No Mood Updates to Show</word>
+  <word key="bd_moods_showOnMobile" js="0">Show moods on mobile?</word>
+ </app>
+</language>

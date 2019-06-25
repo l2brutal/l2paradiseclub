@@ -1,0 +1,72 @@
+{
+    "1": {
+        "method": "addColumn",
+        "params": [
+            "core_groups",
+            {
+                "name": "g_pmviewer_protectedgroup",
+                "type": "tinyint",
+                "length": 1,
+                "unsigned": true,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "2": {
+        "method": "addColumn",
+        "params": [
+            "core_groups",
+            {
+                "name": "g_pmviewer_viewhidden",
+                "type": "tinyint",
+                "length": 1,
+                "unsigned": true,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "3": {
+        "method": "addColumn",
+        "params": [
+            "core_groups",
+            {
+                "name": "g_pmviewer_hideunhide",
+                "type": "tinyint",
+                "length": 1,
+                "unsigned": true,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "4": {
+        "method": "addColumn",
+        "params": [
+            "core_groups",
+            {
+                "name": "g_pmviewer_managemembers",
+                "type": "tinyint",
+                "length": 1,
+                "unsigned": true,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "5": {
+        "method": "addColumn",
+        "params": [
+            "core_groups",
+            {
+                "name": "g_pmviewer_editposts",
+                "type": "tinyint",
+                "length": 1,
+                "unsigned": true,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    }
+}

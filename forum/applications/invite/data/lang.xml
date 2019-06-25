@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="invite" version="200014">
+  <word key="__app_invite" js="0">Invite System</word>
+  <word key="menu__invite_invite" js="0">Invite System</word>
+  <word key="menu__invite_invite_invite" js="0">Invitations</word>
+  <word key="menu__invite_invite_settings" js="0">Settings</word>
+  <word key="menu__invite_invite_bonus" js="0">Bonus</word>
+  <word key="menu__invite_invite_members" js="0">Members</word>
+  <word key="acplogs__invite_settings" js="0">Updated Invite System settings</word>
+  <word key="group__invite_Invite" js="0">Invite System</word>
+  <word key="is_canvite" js="0">Can Invite People</word>
+  <word key="is_unlimited" js="0">Has Unlimited Invitations</word>
+  <word key="is_expireinvite" js="0">Invitation expires</word>
+  <word key="is_expireinvite_desc" js="0">How many days should an invitation remains valid</word>
+  <word key="is_on" js="0">Enable Invite System</word>
+  <word key="is_requireinvite" js="0">Require an invitation to register an account</word>
+  <word key="is_emailfrominvite" js="0">Use invitation email address on new account</word>
+  <word key="is_emailfrominvite_desc" js="0">This will force the invited user to use the invitation email when creating the account</word>
+  <word key="is_registrationgroup_toggle" js="0">Change primary group of new user</word>
+  <word key="is_registrationgroup" js="0">Registration group</word>
+  <word key="is_registrationgroup_desc" js="0"><![CDATA[This will be the group that the user will be moved to after create the account.<br /><strong>NOTE</strong>: This setting will NOT have effect if you use Commerce subscription that change the primary user group after purchase.]]></word>
+  <word key="is_contentcountperinvite" js="0">Earn one invitation</word>
+  <word key="is_contentcountperinvite_ae" js="0">At every</word>
+  <word key="is_contentcountperinvite_desc" js="0">The number of content a member must make to gain one invitation (example: set to 10 will mean a member will get 1 invite for every 10 new content posted)</word>
+  <word key="is_invitation_per_member" js="0">Invitations per Member</word>
+  <word key="is_photo" js="0">Photo</word>
+  <word key="is_name" js="0">Name</word>
+  <word key="is_member_group_id" js="0">Group</word>
+  <word key="is_invites_remaining" js="0">Invites Remaining</word>
+  <word key="invite_code_req" js="0">Invitation Code</word>
+  <word key="invite_code_req_desc" js="0"><![CDATA[Please paste your <strong>Invitation Code</strong> received via email to sign up on this site]]></word>
+  <word key="invite_code_opt" js="0">Invitation Code</word>
+  <word key="invite_code_opt_desc" js="0"><![CDATA[Optionally you can inform the <strong>Invitation Code</strong>, if you were invited by a member]]></word>
+  <word key="is_error_notsameemails" js="0">You are required to use the same email address from invitation received.</word>
+  <word key="invite_add_invite" js="0">Adding an Invitation</word>
+  <word key="invite_edit_invite" js="0">Editing Invite to</word>
+  <word key="invite_sender_id" js="0">Inviter Name</word>
+  <word key="invite_invited_name" js="0">Invitee Name</word>
+  <word key="invite_invited_email" js="0">Invitee Email</word>
+  <word key="invite_senton" js="0">Sent on</word>
+  <word key="resend_invite" js="0">Resend Invitation</word>
+  <word key="delete_invite" js="0">Delete Invitation</word>
+  <word key="invite_sender_name" js="0">Inviter</word>
+  <word key="invite_invited_details" js="0">Invited</word>
+  <word key="invite_date" js="0">Date</word>
+  <word key="invite_status" js="0">Status</word>
+  <word key="invite_actions" js="0">Actions</word>
+  <word key="invite_status_pending" js="0"><![CDATA[<span style='font-weight:bold;color:red;'>PENDING</span>]]></word>
+  <word key="invite_status_converted" js="0"><![CDATA[<span style='font-weight:bold;color:green;'>CONVERTED</span>]]></word>
+  <word key="invite_status_expired" js="0"><![CDATA[<span style='font-weight:bold;color:gray;'>EXPIRED</span>]]></word>
+  <word key="invites_filter_pending" js="0">PENDING</word>
+  <word key="invites_filter_converted" js="0">CONVERTED</word>
+  <word key="invites_filter_expired" js="0">EXPIRED</word>
+  <word key="invite_deleted" js="0">Invitation deleted</word>
+  <word key="expired_invites_deleted" js="0">All expired invitations were deleted</word>
+  <word key="send_invitation" js="0">Send Invitation</word>
+  <word key="send_new_invitation" js="0">Send New Invitation</word>
+  <word key="invite_sent" js="0">The invitation was successfully sent.</word>
+  <word key="invite_resent" js="0">The invitation was successfully resent.</word>
+  <word key="add_bonus" js="0">Add Bonus</word>
+  <word key="bonus_to_member" js="0">Give bonus to a member</word>
+  <word key="bonus_to_group" js="0">Give bonus to a member group</word>
+  <word key="is_bonus_type" js="0">Type of receiver</word>
+  <word key="is_bonus_type_member" js="0">Member Name</word>
+  <word key="is_bonus_type_group" js="0">Group</word>
+  <word key="is_bonus_type_group_others" js="0">Include Secondary Groups</word>
+  <word key="is_no_member_selected" js="0">You did not select any member or this is an invalid member</word>
+  <word key="is_bonus_nr" js="0">How many bonus invitations to give</word>
+  <word key="bonus_given" js="0">The bonus was successfully given</word>
+  <word key="is_giving_bonus_group" js="0">Giving bonus to a member group</word>
+  <word key="invite_does_not_exist" js="0">Sorry, the invitation code you are trying to use seems not be valid.</word>
+  <word key="invite_already_in_use" js="0">Sorry, the invitation code you are trying to use is already used by another user.</word>
+  <word key="invite_email_already_invited" js="0">Sorry, the email address you are trying to invite was already invited by someone else.</word>
+  <word key="invite_already_expired" js="0">Sorry, the invitation code you are trying to use is expired and cannot be used anymore.</word>
+  <word key="view_member" js="0">View Member</word>
+  <word key="email_user_invited" js="0">%s has invited you to %s.</word>
+  <word key="email_user_invited_text" js="0">dsfadsfasdfafafa</word>
+  <word key="members_i_invited" js="0">The following members were invited by me</word>
+  <word key="invites_remaining_x" js="0"><![CDATA[You have <strong>%s remaining</strong> invitations]]></word>
+  <word key="invites_remaining_unlimited" js="0"><![CDATA[You have <strong>unlimited</strong> invitations]]></word>
+  <word key="invites_no_remaining_invites" js="0"><![CDATA[You have <strong>no remaining</strong> invitations]]></word>
+  <word key="invites_no_remaining_invitesx" js="0">You are unable to send new invitations for now</word>
+  <word key="invited_by" js="0">Invited by</word>
+  <word key="no_results_invites" js="0">There are no invited members to display</word>
+  <word key="is_follow_member" js="0">Follow</word>
+  <word key="is_following_member" js="0">Following</word>
+  <word key="mailsub__invite_invite_system" js="0">You were invited to {setting=&quot;board_name&quot;}</word>
+  <word key="invite_email_text" js="0">Someone you may know has invited you to join to %s. In order to create an account, please copy and paste the invitation code provided in this email onto our sign-up form.</word>
+  <word key="invite_email_text_user" js="0">%s has invited you to join to %s. In order to create an account, please copy and paste the invitation code provided in this email onto our sign-up form.</word>
+  <word key="invite_email_text2" js="0"><![CDATA[This invitation will expire on <strong>%s</strong>.<br /><br />You can also click in the link below to go straight to our sign-up form]]></word>
+  <word key="invite_email_text3" js="0">You can also click in the link below to go straight to our sign-up form</word>
+  <word key="invitation_create_new" js="0">Invitation</word>
+  <word key="email_go_to_site_inv" js="0">Go to %s</word>
+  <word key="email_greeting_member_inv" js="0">Hi %s,</word>
+  <word key="email_already_in_use" js="0">This email address is already in use by another user on this board</word>
+  <word key="block_topInviters" js="0">Top Inviters</word>
+  <word key="block_topInviters_desc" js="0">Will display a list of top inviters across the last week, month, year or always</word>
+  <word key="invites_converted" js="0">{# [1:invite converted][?:invites converted]}</word>
+  <word key="top_inviters_empty__week" js="0">Nobody has converted invites this week.</word>
+  <word key="top_inviters_empty__month" js="0">Nobody has converted invites this month.</word>
+  <word key="top_inviters_empty__year" js="0">Nobody has converted invites this year.</word>
+  <word key="top_inviters_empty__all" js="0">Nobody has converted invites yet.</word>
+  <word key="is_number_to_show" js="0">Number of inviters to show</word>
+  <word key="is_exclude_groups" js="0">Block visible to</word>
+  <word key="block_latestConverted" js="0">Latest Converted Invitees</word>
+  <word key="block_latestConverted_desc" js="0">Will display the latest converted invitees into members</word>
+  <word key="is_nr" js="0">Number of members to show</word>
+  <word key="is_visibleto" js="0">Block visible to</word>
+  <word key="is_showicon" js="0">Display the popup Invitations link on board top?</word>
+  <word key="is_showicon_desc" js="0">If enabled, will display a link to the Invitation popup besides Notifications icon</word>
+  <word key="is_showmoremenu" js="0">Invitation option on + Create menu</word>
+  <word key="is_showmoremenu_desc" js="0"><![CDATA[If enabled, will display the Invitation on <strong>+ Create</strong> Menu]]></word>
+  <word key="is_tab_general" js="0">General</word>
+  <word key="is_tab_invitations" js="0">Invitations</word>
+  <word key="is_tab_registration" js="0">Registration</word>
+  <word key="is_restoreinvitation" js="0">Restore deleted or expired invitation</word>
+  <word key="is_restoreinvitation_desc" js="0">If enabled, the inviter will have the invitation added back to their account when a invite is deleted or expired</word>
+  <word key="is_showicon_nr" js="0">Display total of remaining invitations</word>
+  <word key="is_showicon_nr_desc" js="0">If enabled, will display on this app's icon (board top) how many remaining invitations the memher has. It won't appear if the member hasn't invitations available or if the member has unlimited invitations</word>
+  <word key="is_show_inviter_email" js="0">Show inviter in email</word>
+  <word key="is_show_inviter_email_desc" js="0">If enabled, will display the inviter name in email sent to the invitee.</word>
+  <word key="is_basic_settings" js="0">Basic Settings</word>
+  <word key="is_mailchimp_integration" js="0">Mailchimp Integration</word>
+  <word key="is_mailchimp_on" js="0">Enable integration to MailChimp</word>
+  <word key="is_mailchimp_on_desc" js="0">If enabled, the subscriber to your lists will receive an invitation to your board</word>
+  <word key="is_mailchimp_apikey" js="0">API Key</word>
+  <word key="is_mailchimp_apikey_desc" js="0">API key provided by MailChimp</word>
+  <word key="is_mailchimp_sender_id" js="0">Inviter</word>
+  <word key="is_mailchimp_sender_id_desc" js="0">This will be the user who will send the invitation.</word>
+  <word key="is_batch_invitations" js="0">Batch Invitations</word>
+  <word key="is_batch_invitations_desc" js="0"><![CDATA[<div class='ipsMessage ipsMessage_info'>Use this option to create batch invitations to be used on a campaign or to be posted elsewhere. It won't send any emails</div>]]></word>
+  <word key="add_invitations" js="0">Create Invitations</word>
+  <word key="invite_batch_nr" js="0">Number of Invites to generate</word>
+  <word key="is_batch_no_unlimited_perm" js="0"><![CDATA[<div class='ipsMessage ipsMessage_error'>You do not have <strong>UNLIMITED INVITATIONS</strong>. The batch invitations can only be created by someone with that permission.</div>]]></word>
+  <word key="is_batch_no_unlimited_perm_er" js="0"><![CDATA[ERROR: batch invitations can only be created by someone with <strong>UNLIMITED INVITATIONS</strong> permission.]]></word>
+  <word key="batch_invite_added" js="0">Invitations created</word>
+  <word key="created_by_batch_feature" js="0">Invitation generated by Batch feature</word>
+  <word key="profile_invite_Invitees" js="0">Invitees</word>
+  <word key="member__invite_Invite" js="0">Invite System</word>
+  <word key="invite_revoke_access" js="0">Prohibit from sending invitations</word>
+  <word key="invite_revoke_access_stop" js="0">Allow to send invitations</word>
+  <word key="invite_no_permission" js="0">You do not have permission to send invitations</word>
+  <word key="module__invite_invite" js="0">Invite System</word>
+  <word key="invitation_revoked" js="0">This member will not be able to use the Invite System</word>
+  <word key="invitation_allowed" js="0">This member will be able to use the Invite System</word>
+  <word key="is_registration_earninvitations" js="0">Give invitations to new members</word>
+  <word key="is_registration_earninvitations_nr" js="0">Number of invitations a new members will earn after register the account</word>
+  <word key="latest_invitations" js="0">Latest Invitations</word>
+  <word key="delete_all_expired" js="0">Delete Expired Invitations</word>
+  <word key="delete_all_expired_willrestore" js="0">This will delete all expired invitations. Inviters will have their invitations restored.</word>
+  <word key="delete_all_expired_wontrestore" js="0">This will delete all expired invitations.</word>
+  <word key="invitations_unlimited" js="0">Unlimited Invitations</word>
+  <word key="invitations_limited" js="0">Limited Invitations</word>
+  <word key="is_members_offset" js="0">Rebuilding Membmers Posts Offset</word>
+ </app>
+</language>

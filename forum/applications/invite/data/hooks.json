@@ -1,0 +1,38 @@
+{
+    "is_profiles": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_profile"
+    },
+    "is_NewTabAccountSettings": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_system"
+    },
+    "is_Settings": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\front\\system\\settings"
+    },
+    "is_newGlobalLink": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "is_Actions": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\front\\members\\profile"
+    },
+    "isFURL": {
+        "type": "C",
+        "class": "\\IPS\\Http\\Url\\Friendly"
+    },
+    "is_getConvertedMembers": {
+        "type": "C",
+        "class": "\\IPS\\Member"
+    },
+    "is_registerScreen": {
+        "type": "C",
+        "class": "\\IPS\\core\\modules\\front\\system\\register"
+    },
+    "is_ProfileLinkToRevoke": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_profile"
+    }
+}

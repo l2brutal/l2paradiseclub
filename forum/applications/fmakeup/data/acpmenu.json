@@ -1,0 +1,16 @@
+{
+    "main": {
+        "fmlist": {
+            "tab": "community",
+            "controller": "fmlist",
+            "do": "",
+            "restriction": "fmlist_manage"
+        },
+        "gmakeup": {
+            "tab": "community",
+            "controller": "gmakeup",
+            "do": "",
+            "restriction": "gmakeup_manage"
+        }
+    }
+}

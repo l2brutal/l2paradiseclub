@@ -1,0 +1,26 @@
+[
+    {
+        "key": "pmviewer_hiddenmessages",
+        "default": "1"
+    },
+    {
+        "key": "pmviewer_logentriesperpage",
+        "default": "20"
+    },
+    {
+        "key": "pmviewer_messagesperpage",
+        "default": "10"
+    },
+    {
+        "key": "pmviewer_monitoring_enable",
+        "default": "0"
+    },
+    {
+        "key": "pmviewer_monitoring_groups",
+        "default": ""
+    },
+    {
+        "key": "pmviewer_monitoring_keywords",
+        "default": ""
+    }
+]

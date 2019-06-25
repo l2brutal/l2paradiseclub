@@ -1,0 +1,29 @@
+{
+    "0": {
+        "method": "renameTable",
+        "params": [
+            "topic_prefixes",
+            "advancedtagsprefixes_prefixes"
+        ]
+    },
+    "3": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "last_prefix",
+                "type": "VARCHAR",
+                "length": "255",
+                "null": true,
+                "comment": "AT&P: Last topic prefix"
+            }
+        ]
+    },
+    "4": {
+        "method": "dropColumn",
+        "params": [
+            "forums_forums",
+            "newest_prefix"
+        ]
+    }
+}

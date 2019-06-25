@@ -1,0 +1,18 @@
+[
+    {
+        "key": "prefix_exclude_supers",
+        "default": "0"
+    },
+    {
+        "key": "prefix_in_title",
+        "default": "1"
+    },
+    {
+        "key": "prefix_on_index",
+        "default": "1"
+    },
+    {
+        "key": "prefix_tags_on_topic_list",
+        "default": "1"
+    }
+]

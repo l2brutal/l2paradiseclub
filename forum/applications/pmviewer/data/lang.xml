@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="pmviewer" version="100005">
+  <word key="__app_pmviewer" js="0">PM Viewer</word>
+  <word key="menu__pmviewer_viewer" js="0">PM Viewer</word>
+  <word key="group__pmviewer_PMViewer" js="0">PM Viewer</word>
+  <word key="menu__pmviewer_viewer_conversations" js="0">Conversations</word>
+  <word key="menu__pmviewer_viewer_settings" js="0">Settings</word>
+  <word key="menu__pmviewer_viewer_tools" js="0">Tools</word>
+  <word key="menu__pmviewer_viewer_logs" js="0">Logs</word>
+  <word key="mt_starter_id" js="0">Starter</word>
+  <word key="mt_to_member_id" js="0">To</word>
+  <word key="mt_title" js="0">Subject</word>
+  <word key="map_user_id" js="0">To</word>
+  <word key="mt_last_post_time" js="0">Last Message</word>
+  <word key="mt_starter_id_mt_to_member_id" js="0">Starter or Sent to</word>
+  <word key="mt_is_system" js="0">SYSTEM</word>
+  <word key="mt_conversation" js="0">Conversation</word>
+  <word key="mt_hide" js="0">Hide Conversation</word>
+  <word key="mt_unhide" js="0">Unhide Conversation</word>
+  <word key="mt_hide_desc" js="0">Hide Conversation</word>
+  <word key="mt_unhide_desc" js="0">Unhide Conversation</word>
+  <word key="mt_delete" js="0">Delete</word>
+  <word key="mt_delete_desc" js="0">Delete Conversation</word>
+  <word key="mt_join" js="0">Invite</word>
+  <word key="mt_join_desc" js="0">Invite a Member</word>
+  <word key="mt_join_button" js="0">Invite Member</word>
+  <word key="mt_member_joined" js="0">The user has joined to the conversation</word>
+  <word key="mt_conversation_hidden" js="0">This conversation is hidden</word>
+  <word key="mt_conversation_unhidden" js="0">This conversation is unhidden</word>
+  <word key="mt_member_id" js="0">Member</word>
+  <word key="mt_filter_hidden" js="0">Hidden</word>
+  <word key="mt_filter_deleted" js="0">Deleted</word>
+  <word key="mt_filter_regular" js="0">Active</word>
+  <word key="mt_edit_msg" js="0">Edit Post</word>
+  <word key="mt_post_edited" js="0">Post edited</word>
+  <word key="pmviewer_msg" js="0">Post Content</word>
+  <word key="pmviewer_member_removed" js="0">Member removed from conversation</word>
+  <word key="pmviewer_hidden_messages" js="0">Hidden Conversations</word>
+  <word key="acplogs__pmviewer_settings" js="0">PMViewer settings updated</word>
+  <word key="pmviewer_messagesperpage" js="0">Conversations per page</word>
+  <word key="pmviewer_systemmessages" js="0">System messages</word>
+  <word key="pmviewer_hiddenmessages" js="0">Hide System messages</word>
+  <word key="pmviewer_hiddenmessages_desc" js="0">Will hide messages sent by the system</word>
+  <word key="pmviewer_deletedmessages" js="0">Deleted messages</word>
+  <word key="pmviewer_monitoring" js="0">Conversation Keyword Monitoring</word>
+  <word key="pmviewer_monitoring_enable" js="0">Enable keyword monitoring</word>
+  <word key="pmviewer_monitoring_keywords" js="0">Keywords to monitor</word>
+  <word key="pmviewer_hide_all_conversations" js="0">Hide All Conversations</word>
+  <word key="pmviewer_hide_all_conversations_desc" js="0">This tool will hide all unhidden conversations.</word>
+  <word key="pmviewer_hiding_all_conversations" js="0">Hiding all conversations</word>
+  <word key="pmviewer_unhide_all_conversations" js="0">Unhide All Conversations</word>
+  <word key="pmviewer_unhide_all_conversations_desc" js="0">This tool will unhide all hidden conversations.</word>
+  <word key="pmviewer_unhiding_all_conversations" js="0">Unhiding all conversations</word>
+  <word key="pmviewer_protected_conversation" js="0">This is a protected conversation: one or more participants are in a protected group</word>
+  <word key="pmviewer_monitoring_groups" js="0">Notification Groups</word>
+  <word key="pmviewer_monitoring_groups_desc" js="0">Members from selected groups will be notified when someone sends a private message that contaims a monitored keyword</word>
+  <word key="notifications__pmviewer_keyword" js="0">PM Viewer</word>
+  <word key="notifications__keyword_used" js="0">Someone uses a monitored word on a private message</word>
+  <word key="notification__keyword_used" js="0">%s used a monitored keyword on a private message</word>
+  <word key="mailsub__pmviewer_notification_keyword_used" js="0"><![CDATA[{$message->author()->name|raw} used a monitored keyword on a private message]]></word>
+  <word key="pmviewer_keyword_something" js="0">Something</word>
+  <word key="g_pmviewer_protectedgroup" js="0">Protected Group</word>
+  <word key="g_pmviewer_protectedgroup_desc" js="0">If a member from a selected group is involved in a conversation, then this conversation will be not viewable in the PM Viewer application regardless of who else is involved.</word>
+  <word key="g_pmviewer_viewhidden" js="0">Can view HIDDEN conversations</word>
+  <word key="g_pmviewer_hideunhide" js="0">Can HIDE/UNHIDE conversations</word>
+  <word key="g_pmviewer_managemembers" js="0">Can INVITE/REMOVE members from conversations</word>
+  <word key="g_pmviewer_editposts" js="0">Can EDIT message content</word>
+  <word key="g_pmviewer_editposts_desc" js="0">Users will also be able to view Revisions from posts and delete/restore the original text</word>
+  <word key="pmviewer_cant_view_hidden" js="0">This is a hidden conversation: you have no permission to view it</word>
+  <word key="pmviewer_no_permission" js="0">You have no permission to perform this action</word>
+  <word key="r__conversations" js="0">Conversations</word>
+  <word key="r__conversations_manage" js="0">Can view conversations?</word>
+  <word key="r__tools" js="0">Tools</word>
+  <word key="r__tools_manage" js="0">Can use tools?</word>
+  <word key="r__logs" js="0">Logs</word>
+  <word key="r__logs_manage" js="0">Can view logs?</word>
+  <word key="pmviewer_all_conversations_hidden" js="0">Used the tool to hide all conversations</word>
+  <word key="pmviewer_all_conversations_unhidden" js="0">Used the tool to unhide all conversations</word>
+  <word key="pmviewer_view_conversation" js="0"><![CDATA[Viewed the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_hide_conversation" js="0"><![CDATA[Hide the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_unhide_conversation" js="0"><![CDATA[Unhide the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_join_conversation" js="0"><![CDATA[Invited %s to the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_block_conversation" js="0"><![CDATA[Removed %s from the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_unblock_conversation" js="0"><![CDATA[Invited %s back to the conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_revisions" js="0">Revisions</word>
+  <word key="eh_member_id" js="0">Edited by</word>
+  <word key="eh_edit_time" js="0">Date/Time</word>
+  <word key="eh_original_text" js="0">Original Text</word>
+  <word key="eh_modified_text" js="0">Modified Text</word>
+  <word key="pmviewer_ip_address_usage" js="0">See the usage of this IP Address</word>
+  <word key="delete_revision" js="0">Delete this revision</word>
+  <word key="revert_revision" js="0">Restore the original text</word>
+  <word key="pmviewer_revision_restore" js="0">This will restore the post message to its value before the current edit. This will also delete this revision. Are you sure?</word>
+  <word key="pmviewer_revision_restored_short" js="0">Post restored</word>
+  <word key="pmviewer_revision_restored" js="0"><![CDATA[Restored post #%s from conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="pmviewer_revision_deleted_short" js="0">Revision deleted</word>
+  <word key="pmviewer_revision_deleted" js="0"><![CDATA[Deleted a revision of post #%s from conversation <a href='{internal.admin.app=pmviewer&module=viewer&controller=conversations&do=view&id=%s}'>%s</a>]]></word>
+  <word key="ctime" js="0">Date/Time</word>
+  <word key="lang_key" js="0">Action</word>
+  <word key="note" js="0">Conversation title</word>
+  <word key="pmviewer_logentriesperpage" js="0">Log entries per page</word>
+ </app>
+</language>

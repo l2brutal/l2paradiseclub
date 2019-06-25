@@ -1,0 +1,28 @@
+{
+    "manage": {
+        "prefixes": {
+            "tab": "community",
+            "controller": "prefixes",
+            "do": "",
+            "restriction": "prefixes_manage"
+        },
+        "tags": {
+            "tab": "community",
+            "controller": "tags",
+            "do": "",
+            "restriction": "tags_manage"
+        },
+        "settings": {
+            "tab": "community",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "tools": {
+            "tab": "community",
+            "controller": "tools",
+            "do": "",
+            "restriction": "tools_manage"
+        }
+    }
+}

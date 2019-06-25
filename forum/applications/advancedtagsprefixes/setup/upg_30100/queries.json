@@ -1,0 +1,190 @@
+{
+    "1": {
+        "method": "createTable",
+        "params": [
+            {
+                "name": "advancedtagsprefixes_node_settings",
+                "columns": {
+                    "id": {
+                        "name": "id",
+                        "type": "BIGINT",
+                        "length": "20",
+                        "unsigned": true,
+                        "zerofill": false,
+                        "binary": false,
+                        "allow_null": false,
+                        "default": null,
+                        "auto_increment": true,
+                        "comment": "ID Number"
+                    },
+                    "node_id": {
+                        "name": "node_id",
+                        "type": "BIGINT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": null,
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "node_app": {
+                        "name": "node_app",
+                        "type": "VARCHAR",
+                        "length": 32,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "node_type": {
+                        "name": "node_type",
+                        "type": "VARCHAR",
+                        "length": 32,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "require_prefix": {
+                        "name": "require_prefix",
+                        "type": "TINYINT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": "0",
+                        "comment": "Require a prefix",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "default_prefix": {
+                        "name": "default_prefix",
+                        "type": "VARCHAR",
+                        "length": 255,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": null,
+                        "comment": "Default prefix",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "default_tags": {
+                        "name": "default_tags",
+                        "type": "MEDIUMTEXT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": null,
+                        "comment": "Default tags",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "tag_mode": {
+                        "name": "tag_mode",
+                        "type": "VARCHAR",
+                        "length": 255,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": "inherit",
+                        "comment": "Tag mode",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "allowed_prefixes": {
+                        "name": "allowed_prefixes",
+                        "type": "MEDIUMTEXT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": null,
+                        "comment": "Allowed prefixes",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "tag_min": {
+                        "name": "tag_min",
+                        "type": "INT",
+                        "length": 11,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": "-1",
+                        "comment": "Min tags allowed",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "tag_max": {
+                        "name": "tag_max",
+                        "type": "INT",
+                        "length": 11,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": "-1",
+                        "comment": "Max tags allowed",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    }
+                },
+                "indexes": {
+                    "PRIMARY": {
+                        "type": "primary",
+                        "name": "PRIMARY",
+                        "columns": [
+                            "id"
+                        ],
+                        "length": [
+                            null
+                        ]
+                    },
+                    "node_key": {
+                        "type": "unique",
+                        "name": "node_key",
+                        "columns": [
+                            "node_app",
+                            "node_type",
+                            "node_id"
+                        ],
+                        "length": [
+                            null,
+                            null,
+                            null
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "key": "fmu_badge_size",
+        "default": "small"
+    },
+    {
+        "key": "fmu_border_on",
+        "default": "1"
+    },
+    {
+        "key": "fmu_border_size",
+        "default": "1"
+    },
+    {
+        "key": "fmu_g_forums",
+        "default": "0"
+    },
+    {
+        "key": "fmu_g_rules",
+        "default": "0"
+    }
+]

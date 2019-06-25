@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="advancedtagsprefixes" version="30110">
+  <word key="__app_advancedtagsprefixes" js="0"><![CDATA[Advanced Tags &amp; Prefixes]]></word>
+  <word key="acplogs__advancedtagsprefixes_prefix_copied" js="0">Copied prefix '%s'.</word>
+  <word key="acplogs__advancedtagsprefixes_prefix_created" js="0">Added prefix '%s'.</word>
+  <word key="acplogs__advancedtagsprefixes_prefix_deleted" js="0">Deleted prefix '%s'.</word>
+  <word key="acplogs__advancedtagsprefixes_prefix_edited" js="0">Edited prefix '%s'.</word>
+  <word key="acplogs__advancedtagsprefixes_settings" js="0"><![CDATA[Saved Advanced Tags & Prefixes settings.]]></word>
+  <word key="acplogs__advancedtagsprefixes_tags_deleted" js="0">Deleted '%s' tags (%s affected).</word>
+  <word key="acplogs__advancedtagsprefixes_tags_updated" js="0">Changed '%s' tags to '%s' (%s affected).</word>
+  <word key="acplogs__advancedtagsprefixes_tools_lower" js="0">Converted all tags/prefixes to lowercase.</word>
+  <word key="acplogs__advancedtagsprefixes_tools_massadd_log" js="0"><![CDATA[Running Advanced Tags & Prefixes mass-add tags tool.]]></word>
+  <word key="acplogs__advancedtagsprefixes_tools_recache_log" js="0"><![CDATA[Running Advanced Tags & Prefixes rebuild tag cache tool.]]></word>
+  <word key="acplogs__advancedtagsprefixes_tools_repair" js="0"><![CDATA[Ran Advanced Tags & Prefixes auto-repair tool.]]></word>
+  <word key="advancedtagsprefixes_add_new_prefix" js="0">Add Prefix</word>
+  <word key="advancedtagsprefixes_app_title" js="0"><![CDATA[Advanced Tags &amp; Prefixes]]></word>
+  <word key="advancedtagsprefixes_last_use" js="0">Last Use</word>
+  <word key="advancedtagsprefixes_manage_prefixes" js="0">Manage Prefixes</word>
+  <word key="advancedtagsprefixes_manage_tags" js="0">Manage Tags</word>
+  <word key="advancedtagsprefixes_mmod_no_change" js="0">Do not change prefix</word>
+  <word key="advancedtagsprefixes_mmod_remove" js="0">-- Remove any prefix --</word>
+  <word key="advancedtagsprefixes_prefix_formatted" js="0">Formatted</word>
+  <word key="advancedtagsprefixes_prefix_groups" js="0">Groups</word>
+  <word key="advancedtagsprefixes_prefix_select_one" js="0">-- Select One --</word>
+  <word key="advancedtagsprefixes_prefix_settings" js="0">Settings</word>
+  <word key="advancedtagsprefixes_prefix_title" js="0">Prefix</word>
+  <word key="advancedtagsprefixes_tag_meta_app" js="0">App</word>
+  <word key="advancedtagsprefixes_tag_meta_area" js="0">Area</word>
+  <word key="advancedtagsprefixes_tag_text" js="0">Tag</word>
+  <word key="advancedtagsprefixes_tagmode_closed" js="0">Closed (choose from pre-defined tags only)</word>
+  <word key="advancedtagsprefixes_tagmode_inherit" js="0">Inherit (use the global setting)</word>
+  <word key="advancedtagsprefixes_tagmode_open" js="0">Open (create and apply tags ad-hoc)</word>
+  <word key="advancedtagsprefixes_tagmode_prefix" js="0">Prefixes only (no tag input)</word>
+  <word key="advancedtagsprefixes_tags_header" js="0">If you use an open tag system, tags may tend to get out of control. This is to help you stop that. You can sort tags by name or by usage, and if there's one you dislike or that has a typo, you can change or delete every instance of that tag all at once.</word>
+  <word key="advancedtagsprefixes_tags_edit" js="0">Editing Tag</word>
+  <word key="advancedtagsprefixes_tools" js="0">Advanced Tools</word>
+  <word key="advancedtagsprefixes_tools_error" js="0">Invalid request. Please try again, but better.</word>
+  <word key="advancedtagsprefixes_tools_lowercase" js="0">Convert Tags/Prefixes To Lowercase</word>
+  <word key="advancedtagsprefixes_tools_lowercase_button" js="0">Lower them all</word>
+  <word key="advancedtagsprefixes_tools_lowercase_header" js="0"><![CDATA[If you've enabled the "force tags to lowercase" setting, you may have found that all of your existing tags and prefixes still contain capital letters. This can cause problems, particularly with search results not containing everything you expect. Run this tool to make everything lowercase. <b style="color:#c00">Warning: This action cannot be reversed. Please backup your database before proceeding.</b>]]></word>
+  <word key="advancedtagsprefixes_tools_massadd" js="0">Mass-Add Tags or Prefixes</word>
+  <word key="advancedtagsprefixes_tools_massadd_confirm_button" js="0">Yes. Let's do it.</word>
+  <word key="advancedtagsprefixes_tools_massadd_done" js="0">Finished running Mass-Add Tags/Prefixes changes.</word>
+  <word key="advancedtagsprefixes_tools_massadd_header" js="0">If you just installed this application, you may be thinking, 'wow, I really wish there was a way to add these things to all my existing content.' Well, there is. It's right here. Search for topics based on a keyword or forum [or both], and enter a prefix or tag to add to all of the results.</word>
+  <word key="advancedtagsprefixes_tools_massadd_msg_intermediate" js="0">Bulk tag/prefix changes in progress (%s/%s complete). Isn't this fun?</word>
+  <word key="advancedtagsprefixes_tools_massadd_name_seo" js="0">Forum</word>
+  <word key="advancedtagsprefixes_tools_massadd_preview_button" js="0">Preview Changes</word>
+  <word key="advancedtagsprefixes_tools_massadd_preview_msg" js="0">Here are the search results. You want to add %s to the following %s topics. Processing %s at a time, this will take %s cycles. Are you sure?</word>
+  <word key="advancedtagsprefixes_tools_massadd_start_date" js="0">Date</word>
+  <word key="advancedtagsprefixes_tools_massadd_starter_name" js="0">Author</word>
+  <word key="advancedtagsprefixes_tools_massadd_tid" js="0">Topic ID</word>
+  <word key="advancedtagsprefixes_tools_massadd_title" js="0">Title</word>
+  <word key="advancedtagsprefixes_tools_rebuild" js="0">Rebuild Tag Cache</word>
+  <word key="advancedtagsprefixes_tools_rebuild_button" js="0">Recache them all</word>
+  <word key="advancedtagsprefixes_tools_rebuild_header" js="0">It is possible for the tag/prefix cache to get out of sync with the actual tags. This tool rebuilds the cache entirely, and ensures there aren't any old or empty entries.</word>
+  <word key="advancedtagsprefixes_tools_recache_msg" js="0">Finished rebuilding the tag cache.</word>
+  <word key="advancedtagsprefixes_tools_recache_msg_intermediate" js="0">Cache rebuild in progress (%s/%s complete). Please stand by...</word>
+  <word key="advancedtagsprefixes_tools_repair" js="0">Repair Installation</word>
+  <word key="advancedtagsprefixes_tools_repair_button" js="0">Fix it</word>
+  <word key="advancedtagsprefixes_tools_repair_header" js="0"><![CDATA[If you have a database error somewhere because of Advanced Tags & Prefixes, run this to try fixing it automagically.]]></word>
+  <word key="advancedtagsprefixes_tools_replace" js="0">Replace a Tag/Prefix</word>
+  <word key="advancedtagsprefixes_tools_replace_header" js="0"><![CDATA[You had members start using a tag, and then you realized something else would be better. Oops. Don't worry! We've got your back. This will replace all tags and prefixes that match the first thing with the second thing. If there are a lot, this could take a while. For a simpler interface, go to <a href='%s'>Manage Tags</a>.]]></word>
+  <word key="advancedtagsprefixes_tools_warn_prefixes_disabled" js="0"><![CDATA[Possible configuration error: <b>Prefixes are disabled.</b> To change this, go to <a href='%s'>Tag Settings</a> and enable prefixes.]]></word>
+  <word key="advancedtagsprefixes_tools_warn_tags_disabled" js="0"><![CDATA[Possible configuration error: <b>Tags are disabled.</b> Tags and prefixes can not be used in this state. To change this, go to <a href='%s'>Tag Settings</a> and enable tags.]]></word>
+  <word key="advancedtagsprefixes_uses" js="0">Uses</word>
+  <word key="advancedtagsprefixes_node_tab" js="0"><![CDATA[Tags &amp; Prefixes]]></word>
+  <word key="allowed_prefixes" js="0">Allowed Prefixes</word>
+  <word key="allowed_prefixes_desc" js="0"><![CDATA[Prefixes must be created manually from the Advanced Tags &amp; Prefixes application. Once you've done that, you can select them on each forum you want to enable them for.]]></word>
+  <word key="atp_addPrefix" js="0">Add prefix</word>
+  <word key="atp_addTags" js="0">Add tags</word>
+  <word key="atp_includeLocked" js="0">Include locked topics</word>
+  <word key="atp_includePinned" js="0">Include pinned topics</word>
+  <word key="atp_perCycle" js="0">Topics per cycle</word>
+  <word key="atp_perCycle_desc" js="0">Warning: This is an intensive process!</word>
+  <word key="atp_removeText" js="0">Remove text</word>
+  <word key="atp_removeText_desc" js="0">Enter text to remove from the title of all results, such as [Prefix].</word>
+  <word key="atp_searchFirstPost" js="0">Search first post</word>
+  <word key="atp_searchFirstPost_desc" js="0">If yes, search the first post of each topic in addition to its title. This will take longer.</word>
+  <word key="atp_searchForums" js="0">Search in forums</word>
+  <word key="atp_searchTerm" js="0">Search for</word>
+  <word key="atp_searchTerm_desc" js="0">Enter a keyword or phrase to find in topic titles or first post. Nothing fancy.</word>
+  <word key="atp_showForm" js="0">Click to view/change parameters</word>
+  <word key="blog_entry_prefix" js="0">Prefix</word>
+  <word key="blog_entry_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="content_record_form_prefix" js="0">Prefix</word>
+  <word key="content_record_form_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="default_prefix" js="0">Default Prefix</word>
+  <word key="default_tags" js="0">Default Tags</word>
+  <word key="event_prefix" js="0">Prefix</word>
+  <word key="event_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="file_prefix" js="0">Prefix</word>
+  <word key="file_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="image_prefix" js="0">Prefix</word>
+  <word key="image_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="menu__advancedtagsprefixes_manage" js="0">Advanced Tags</word>
+  <word key="menu__advancedtagsprefixes_manage_prefixes" js="0">Prefixes</word>
+  <word key="menu__advancedtagsprefixes_manage_settings" js="0">Settings</word>
+  <word key="menu__advancedtagsprefixes_manage_tags" js="0">Tags</word>
+  <word key="menu__advancedtagsprefixes_manage_tools" js="0">Advanced Tools</word>
+  <word key="messenger_prefix" js="0">Prefix</word>
+  <word key="messenger_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="prefix_exclude_supers" js="0">Exclude global moderators from &quot;Require Prefix&quot;</word>
+  <word key="prefix_groups" js="0">Groups allowed to use</word>
+  <word key="prefix_in_title" js="0">Add topic prefix to the page title</word>
+  <word key="prefix_in_title_desc" js="0"><![CDATA[If enabled, the topic prefix will be added to the beginning of the page title.<br />This may or may not be desired for SEO purposes.]]></word>
+  <word key="prefix_on_index" js="0">Show prefixes on main page</word>
+  <word key="prefix_on_index_desc" js="0">This will display prefixes beside the topic title in all forum listings. It may clutter the page or increase execution time on large forums.</word>
+  <word key="prefix_post" js="0">Formatting suffix</word>
+  <word key="prefix_post_desc" js="0"><![CDATA[You should enter the closing tag for the formatting prefix, if any.<br />Example: &lt;/span&gt;]]></word>
+  <word key="prefix_pre" js="0">Formatting prefix</word>
+  <word key="prefix_pre_desc" js="0"><![CDATA[This changes the formatting (color, font, etc) of the prefix.<br />Example: &lt;span class="ipsBadge" style="background:red;"&gt;]]></word>
+  <word key="prefix_showtitle" js="0">Include title in formatted prefix</word>
+  <word key="prefix_showtitle_desc" js="0">To create an image prefix, enter it as HTML in the &quot;Formatting Prefix&quot; field, and set this to 'No'.</word>
+  <word key="prefix_tags_on_topic_list" js="0">Show tags in topic list</word>
+  <word key="prefix_tags_on_topic_list_desc" js="0">If enabled, any tags will be shown beside the starter info when viewing the list of topics in a forum.</word>
+  <word key="prefix_title" js="0">Title</word>
+  <word key="prefix_title_desc" js="0">The prefix title [displayed on forms and before the title where applicable].</word>
+  <word key="r__prefixes" js="0">Prefixes</word>
+  <word key="r__tools" js="0">Advanced Tools</word>
+  <word key="r__prefixes_manage" js="0">Manage Prefixes</word>
+  <word key="r__prefixes_add" js="0">Add Prefixes</word>
+  <word key="r__prefixes_edit" js="0">Edit Prefixes</word>
+  <word key="r__prefixes_delete" js="0">Delete Prefixes</word>
+  <word key="r__tags_edit" js="0">Edit/Rename Tags</word>
+  <word key="r__tags_delete" js="0">Delete Tags</word>
+  <word key="r__tools_manage" js="0">View Advanced Tools</word>
+  <word key="r__tools_lower" js="0">Run 'Convert tags to lowercase' tool</word>
+  <word key="r__tools_repair" js="0">Run application repair tool</word>
+  <word key="r__tools_rebuild" js="0">Run 'Rebuild tag cache' tool</word>
+  <word key="r__tools_massadd" js="0">Run 'Mass-add tags/prefixes' tool</word>
+  <word key="report_prefix" js="0">Prefix</word>
+  <word key="report_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="require_prefix" js="0">Require a Prefix</word>
+  <word key="show_prefix_in_desc" js="0">Show as Categories</word>
+  <word key="show_prefix_in_desc_desc" js="0">Display the prefixes as links below the forum description, like subforums.</word>
+  <word key="support_prefix" js="0">Prefix</word>
+  <word key="support_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="tag_mode" js="0">Tag Mode</word>
+  <word key="tag_text_to" js="0">Tag Text</word>
+  <word key="topic_add_tags" js="0">Add Tags</word>
+  <word key="topic_prefix" js="0">Prefix</word>
+  <word key="topic_tags_noscript_prefix" js="0">Prefix</word>
+  <word key="tag_min" js="0">Minimum Tags Allowed</word>
+  <word key="tag_max" js="0">Maximum Tags Allowed</word>
+  <word key="use_default" js="0">Use Default</word>
+  <word key="block_tagCloud" js="0">Tag Cloud</word>
+  <word key="block_tagCloud_desc" js="0">Show most used tags across your site</word>
+  <word key="display_mode" js="0">Display Mode</word>
+  <word key="advancedtagsprefixes_displaymode_cloud" js="0">Cloud</word>
+  <word key="advancedtagsprefixes_displaymode_list" js="0">List</word>
+  <word key="cloud_mode" js="0">Include</word>
+  <word key="advancedtagsprefixes_cloudmode_all" js="0">All</word>
+  <word key="advancedtagsprefixes_cloudmode_tag" js="0">Tags</word>
+  <word key="advancedtagsprefixes_cloudmode_prefix" js="0">Prefixes</word>
+  <word key="nodes" js="0">Content Type</word>
+  <word key="block_title" js="0">Title</word>
+  <word key="min_instances" js="0">Minimum uses for display</word>
+  <word key="history_threshold" js="0">Include tags from the past</word>
+  <word key="format_prefixes" js="0">Format prefixes</word>
+  <word key="format_prefixes_desc" js="0">Font size for formatted prefixes will not change like normal tags.</word>
+  <word key="exclude_tags" js="0">Exclude Tags</word>
+ </app>
+</language>

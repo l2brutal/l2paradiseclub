@@ -1,0 +1,70 @@
+[
+    {
+        "key": "is_contentcountperinvite",
+        "default": "10"
+    },
+    {
+        "key": "is_emailfrominvite",
+        "default": "0"
+    },
+    {
+        "key": "is_expireinvite",
+        "default": "30"
+    },
+    {
+        "key": "is_mailchimp_apikey",
+        "default": ""
+    },
+    {
+        "key": "is_mailchimp_on",
+        "default": "0"
+    },
+    {
+        "key": "is_mailchimp_sender_id",
+        "default": ""
+    },
+    {
+        "key": "is_on",
+        "default": "1"
+    },
+    {
+        "key": "is_registration_earninvitations",
+        "default": "0"
+    },
+    {
+        "key": "is_registration_earninvitations_nr",
+        "default": "3"
+    },
+    {
+        "key": "is_registrationgroup",
+        "default": ""
+    },
+    {
+        "key": "is_registrationgroup_toggle",
+        "default": "0"
+    },
+    {
+        "key": "is_requireinvite",
+        "default": "1"
+    },
+    {
+        "key": "is_restoreinvitation",
+        "default": "1"
+    },
+    {
+        "key": "is_show_inviter_email",
+        "default": "0"
+    },
+    {
+        "key": "is_showicon",
+        "default": "1"
+    },
+    {
+        "key": "is_showicon_nr",
+        "default": "1"
+    },
+    {
+        "key": "is_showmoremenu",
+        "default": "1"
+    }
+]

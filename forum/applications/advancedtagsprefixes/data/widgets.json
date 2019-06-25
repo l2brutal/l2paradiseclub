@@ -1,0 +1,13 @@
+{
+    "tagCloud": {
+        "class": "\\IPS\\Widget\\StaticCache",
+        "restrict": [
+            "sidebar",
+            "cms"
+        ],
+        "default_area": "sidebar",
+        "allow_reuse": true,
+        "menu_style": "modal",
+        "embeddable": true
+    }
+}

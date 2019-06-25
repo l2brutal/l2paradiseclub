@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javascript app="advancedtagsprefixes">
+ <file javascript_type="controller" javascript_version="30110" javascript_app="advancedtagsprefixes" javascript_path="controllers/prefixes" javascript_location="admin" javascript_position="1000050" javascript_name="ips.prefixes.editPrefix.js"><![CDATA[;( function($, _, undefined){
+	"use strict";
+
+	ips.controller.register('advancedtagsprefixes.admin.prefixes.editPrefix', {
+		disallowedCharacters: [ "<", ">", "'", "\"" ],
+
+		initialize: function () {
+			this.on( 'keyup', '#elInput_atpPrefixTitle,#elInput_atpPrefixFormattingPre,#elInput_atpPrefixFormattingPost', this.updatePrefixPreview );
+			this.on( 'change', '#check_atpPrefixIncludeTitle', this.updatePrefixPreview );
+			
+			this.updatePrefixPreview();
+		},
+		
+		updatePrefixPreview: function () {
+			var titleEl = this.scope.find('#elInput_atpPrefixTitle');
+			
+			var prefix	= this.scope.find('#elInput_atpPrefixFormattingPre').val();
+			var title	= titleEl.val();
+			var suffix	= this.scope.find('#elInput_atpPrefixFormattingPost').val();
+			
+			// Check for prohibited characters
+			var i;
+			for ( i in this.disallowedCharacters )
+			{
+				if ( titleEl.val().indexOf( this.disallowedCharacters[i] ) !== -1 ) {
+					titleEl.val( titleEl.val().replace( this.disallowedCharacters[i], '' ) );
+					return;
+				}
+			}
+			
+			this.scope
+				.find('#atpPrefixPreview')
+					.html( prefix + ( this.scope.find('#check_atpPrefixIncludeTitle').prop('checked') ? title : '' ) + suffix );
+		}
+	});
+}(jQuery, _));
+]]></file>
+ <file javascript_type="controller" javascript_version="30110" javascript_app="advancedtagsprefixes" javascript_path="controllers/tags" javascript_location="admin" javascript_position="1000100" javascript_name="ips.tags.editTag.js"><![CDATA[;( function($, _, undefined){
+	"use strict";
+
+	ips.controller.register('advancedtagsprefixes.admin.tags.editTag', {
+		disallowedCharacters: [ "<", ">", "'", "\"" ],
+
+		initialize: function () {
+			this.on( 'keyup', '#elInput_atpTagTextTo', this.updateTagText );
+		},
+		
+		updateTagText: function () {
+			var text = this.scope.find('#elInput_atpTagTextTo');
+			
+			// Check for prohibited characters
+			var i;
+			for ( i in this.disallowedCharacters )
+			{
+				if ( text.val().indexOf( this.disallowedCharacters[i] ) !== -1 ) {
+					text.val( text.val().replace( this.disallowedCharacters[i], '' ) );
+					return;
+				}
+			}
+		}
+	});
+}(jQuery, _));
+]]></file>
+</javascript>

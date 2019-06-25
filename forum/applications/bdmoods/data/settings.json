@@ -1,0 +1,34 @@
+[
+    {
+        "key": "bd_moods_displaypos",
+        "default": "3"
+    },
+    {
+        "key": "bd_moods_imgmaxheight",
+        "default": "28"
+    },
+    {
+        "key": "bd_moods_imgmaxwidth",
+        "default": "96"
+    },
+    {
+        "key": "bd_moods_maxcustomtextlength",
+        "default": "48"
+    },
+    {
+        "key": "bd_moods_moodChooserIcon",
+        "default": "fa-smile-o"
+    },
+    {
+        "key": "bd_moods_showOnMobile",
+        "default": "1"
+    },
+    {
+        "key": "bd_moods_userDropLink",
+        "default": "0"
+    },
+    {
+        "key": "bd_moods_userNavLink",
+        "default": "1"
+    }
+]

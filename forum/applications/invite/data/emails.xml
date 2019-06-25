@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails><template><template_app>invite</template_app><template_name>invite_system</template_name><template_content_html><![CDATA[<strong style='font-size: 17px'>{$email->language->addToStack("email_greeting_member_inv", FALSE, array( 'sprintf' => array( $name|raw ) ) )}</strong>
+<br />
+<br />
+{{if \IPS\Settings::i()->is_show_inviter_email}}
+	{expression="$email->language->addToStack( 'invite_email_text_user', FALSE, array( 'sprintf' => array( $inviter, \IPS\Settings::i()->board_name ) ) )"}
+{{else}}
+	{expression="$email->language->addToStack( 'invite_email_text', FALSE, array( 'sprintf' => array( \IPS\Settings::i()->board_name ) ) )"}
+{{endif}}
+<br />
+<br />
+<table width='100%' cellpadding='15' cellspacing='0' border='0' style='background: #f9f9f9;'>
+	<tr>
+		<td>
+			<table width='100%' cellpadding='0' cellspacing='0' border='0' style='background: #f9f9f9;' class='responsive_table'>
+				<tr class='responsive_row'>
+					<td width='150' style="font-family: 'Helvetica Neue', helvetica, sans-serif; font-size: 14px;"><strong>{$email->language->addToStack("invite_code_req", FALSE)}:</strong></td>
+					<td style="font-family: monaco, 'Courier New', courier, monospace; font-size: 14px;">{$invitationCode|raw}</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br />
+{{if \IPS\Settings::i()->is_expireinvite > 0}}
+	{expression="$email->language->addToStack( 'invite_email_text2', FALSE, array( 'sprintf' => array( \IPS\DateTime::ts( $newDate|raw ) ) ) )"}
+{{else}}
+	{$email->language->addToStack("invite_email_text3", FALSE)}:
+{{endif}}
+<br />
+{{if \IPS\Settings::i()->is_requireinvite}}
+	{{if \IPS\Settings::i()->is_emailfrominvite}}	
+		<a href='{url="app=core&module=system&controller=register&invite_code_req={$invitationCode}&email_address={$toMail}" seoTemplate="register" base="front"}' style="color: #ffffff; font-family: 'Helvetica Neue', helvetica, sans-serif; text-decoration: none; font-size: 12px; background: {setting="email_color"}; line-height: 32px; padding: 0 10px; display: inline-block; border-radius: 3px;">{lang="sign_up"}</a>
+	{{else}}
+		<a href='{url="app=core&module=system&controller=register&invite_code_req={$invitationCode}" seoTemplate="register" base="front"}' style="color: #ffffff; font-family: 'Helvetica Neue', helvetica, sans-serif; text-decoration: none; font-size: 12px; background: {setting="email_color"}; line-height: 32px; padding: 0 10px; display: inline-block; border-radius: 3px;">{lang="sign_up"}</a>
+	{{endif}}
+{{else}}
+	<a href='{url="app=core&module=system&controller=register&invite_code_opt={$invitationCode}" seoTemplate="register" base="front"}' style="color: #ffffff; font-family: 'Helvetica Neue', helvetica, sans-serif; text-decoration: none; font-size: 12px; background: {setting="email_color"}; line-height: 32px; padding: 0 10px; display: inline-block; border-radius: 3px;">{lang="sign_up"}</a>
+{{endif}}
+<br />
+<br />
+<a href='{setting="base_url"}' style="color: #ffffff; font-family: 'Helvetica Neue', helvetica, sans-serif; text-decoration: none; font-size: 12px; background: {setting="email_color"}; line-height: 32px; padding: 0 10px; display: inline-block; border-radius: 3px;">{expression="$email->language->addToStack( 'email_go_to_site_inv', FALSE, array( 'sprintf' => array( \IPS\Settings::i()->board_name ) ) )"}</a>
+<br /><br />
+<em style='color: #8c8c8c'>&mdash; {setting="board_name"}</em>]]></template_content_html><template_data>$name, $invitationCode, $newDate, $toMail, $inviter, $email</template_data><template_content_plaintext><![CDATA[{$email->language->addToStack("email_greeting_member_inv", FALSE, array( 'sprintf' => array( $name|raw ) ) )},
+
+{{if !\IPS\Settings::i()->is_show_inviter_email}}
+	{expression="$email->language->addToStack( 'invite_email_text', FALSE, array( 'sprintf' => array( $inviter, \IPS\Settings::i()->board_name ) ) )"}
+{{else}}
+	{expression="$email->language->addToStack( 'invite_email_text_user', FALSE, array( 'sprintf' => array( \IPS\Settings::i()->board_name ) ) )"}
+{{endif}}
+
+======
+Value: {$invitationCode|raw}
+======
+
+{{if \IPS\Settings::i()->is_expireinvite > 0}}
+	{expression="$email->language->addToStack( 'invite_email_text2', FALSE, array( 'sprintf' => array( \IPS\DateTime::ts( $newDate|raw ) ) ) )"}
+{{endif}}
+
+-- {setting="board_name"}]]></template_content_plaintext></template></emails>

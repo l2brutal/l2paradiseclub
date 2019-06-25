@@ -1,0 +1,4 @@
+{
+  "app=bdmoods&module=manage&controller=settings":{"lang_key":"bd_moods_search_settings","restriction":"bdmoods_settings","keywords":["moods","mood settings","settings"]},
+  "app=bdmoods&module=manage&controller=manage":{"lang_key":"bd_moods_moods","restriction":"bdmoods_settings","keywords":["moods"]}
+}

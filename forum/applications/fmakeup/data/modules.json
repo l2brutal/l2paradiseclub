@@ -1,0 +1,8 @@
+{
+    "admin": {
+        "main": {
+            "default_controller": "fmlist",
+            "protected": 0
+        }
+    }
+}

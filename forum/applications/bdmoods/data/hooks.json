@@ -1,0 +1,22 @@
+{
+    "front_global": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "Dispatcher_Front": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Front"
+    },
+    "Member": {
+        "type": "C",
+        "class": "\\IPS\\Member"
+    },
+    "Forum_Front_Topics": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_topics"
+    },
+    "Core_Front_Profile": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_profile"
+    }
+}

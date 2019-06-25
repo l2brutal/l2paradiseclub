@@ -1,0 +1,209 @@
+{
+    "invite_invites": {
+        "name": "invite_invites",
+        "columns": {
+            "invite_id": {
+                "name": "invite_id",
+                "type": "INT",
+                "length": 10,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": null,
+                "comment": "ID Number",
+                "unsigned": true,
+                "zerofill": false,
+                "auto_increment": true,
+                "binary": false
+            },
+            "invite_sender_id": {
+                "name": "invite_sender_id",
+                "type": "MEDIUMINT",
+                "length": 8,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_code": {
+                "name": "invite_code",
+                "type": "VARCHAR",
+                "length": 32,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_date": {
+                "name": "invite_date",
+                "type": "INT",
+                "length": 10,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_invited_name": {
+                "name": "invite_invited_name",
+                "type": "VARCHAR",
+                "length": 50,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_invited_email": {
+                "name": "invite_invited_email",
+                "type": "VARCHAR",
+                "length": 100,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_message": {
+                "name": "invite_message",
+                "type": "TINYTEXT",
+                "length": null,
+                "decimals": null,
+                "values": [],
+                "allow_null": true,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_status": {
+                "name": "invite_status",
+                "type": "TINYINT",
+                "length": 1,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "1",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_conv_member_id": {
+                "name": "invite_conv_member_id",
+                "type": "MEDIUMINT",
+                "length": 8,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_conv_date": {
+                "name": "invite_conv_date",
+                "type": "INT",
+                "length": 10,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "invite_expiration_date": {
+                "name": "invite_expiration_date",
+                "type": "INT",
+                "length": 10,
+                "decimals": null,
+                "values": [],
+                "allow_null": false,
+                "default": "0",
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            }
+        },
+        "indexes": {
+            "PRIMARY": {
+                "type": "primary",
+                "name": "PRIMARY",
+                "columns": [
+                    "invite_id"
+                ],
+                "length": [
+                    null
+                ]
+            },
+            "inviter": {
+                "type": "key",
+                "name": "inviter",
+                "columns": [
+                    "invite_sender_id",
+                    "invite_code",
+                    "invite_date"
+                ],
+                "length": [
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "status": {
+                "type": "key",
+                "name": "status",
+                "columns": [
+                    "invite_status"
+                ],
+                "length": [
+                    null
+                ]
+            },
+            "member": {
+                "type": "key",
+                "name": "member",
+                "columns": [
+                    "invite_conv_member_id",
+                    "invite_conv_date"
+                ],
+                "length": [
+                    null,
+                    null
+                ]
+            }
+        }
+    }
+}

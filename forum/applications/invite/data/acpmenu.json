@@ -1,0 +1,28 @@
+{
+    "invite": {
+        "invite": {
+            "tab": "community",
+            "controller": "invite",
+            "do": "",
+            "restriction": "invite_manage"
+        },
+        "members": {
+            "tab": "community",
+            "controller": "members",
+            "do": "",
+            "restriction": "members_manage"
+        },
+        "bonus": {
+            "tab": "community",
+            "controller": "bonus",
+            "do": "",
+            "restriction": "bonus_manage"
+        },
+        "settings": {
+            "tab": "community",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage"
+        }
+    }
+}

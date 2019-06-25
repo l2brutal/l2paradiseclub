@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Default" author_name="Invision Power Services, Inc" author_url="http://www.invisionpower.com">
+ <template template_group="global" template_name="block" template_data="$title, $content, $margins=TRUE, $class='', $id=NULL, $showTitle=FALSE" template_location="admin" template_app="fmakeup"><![CDATA[<div class='acpBlock {$class}' {{if $id !== NULL}}id="{$id}"{{endif}}>
+	{$content|raw}
+</div>]]></template>
+ <template template_group="main" template_name="activeGrid" template_data="$id, $text, $currentStatus" template_location="admin" template_app="fmakeup"><![CDATA[{{if $currentStatus === NULL}}
+	<span class='ipsBadge ipsBadge_negative'>{lang="$text"}</span>
+{{else}}
+<span data-ipsStatusToggle>
+	<a href="{url="app=fmakeup&module=main&controller=fmlist&do=toggleGrid&id=$id&grid=0"}" data-ipsTooltip title="{lang="set_inactive"}" {{if $currentStatus !== 1}}class='ipsHide'{{endif}} data-state="enabled">
+			<span class="ipsBadge ipsBadge_positive ipsBadge_small ipsBadge_icon ipsType_center"><i class="fa fa-check"></i></span>
+    </a>
+    <a href="{url="app=fmakeup&module=main&controller=fmlist&do=toggleGrid&id=$id&grid=1"}" data-ipsTooltip title="{lang="set_active"}" {{if $currentStatus !== 0}}class='ipsHide'{{endif}} data-state="disabled">
+			<span class="ipsBadge ipsBadge_neutral ipsBadge_small ipsBadge_icon ipsType_center"><i class="fa fa-check"></i></span>
+    </a>
+</span>
+{{endif}}]]></template>
+ <template template_group="main" template_name="activeMakeup" template_data="$id, $text, $currentStatus" template_location="admin" template_app="fmakeup"><![CDATA[{{if $currentStatus === NULL}}
+<span class='ipsBadge ipsBadge_negative'>{lang="$text"}</span>
+{{else}}
+<span data-ipsStatusToggle>
+		<a href="{url="app=fmakeup&module=main&controller=fmlist&do=toggle&id=$id&status=0"}" data-ipsTooltip title="{lang="set_inactive"}" {{if $currentStatus !== 1}}class='ipsHide'{{endif}} data-state="enabled">
+			<span class="ipsBadge ipsBadge_positive ipsBadge_small ipsBadge_icon ipsType_center"><i class="fa fa-check"></i></span>
+    </a>
+    <a href="{url="app=fmakeup&module=main&controller=fmlist&do=toggle&id=$id&status=1"}" data-ipsTooltip title="{lang="set_active"}" {{if $currentStatus !== 0}}class='ipsHide'{{endif}} data-state="disabled">
+			<span class="ipsBadge ipsBadge_neutral ipsBadge_small ipsBadge_icon ipsType_center"><i class="fa fa-check"></i></span>
+    </a>
+</span>
+{{endif}}]]></template>
+ <template template_group="main" template_name="add" template_data="$id, $what" template_location="admin" template_app="fmakeup"><![CDATA[<a href="{url="app=fmakeup&module=main&controller=fmlist&do=$what&id=$id"}" data-ipsTooltip title="{lang="add"}">
+<span class="ipsBadge ipsBadge_neutral ipsBadge_small ipsBadge_icon ipsType_center"><i class="fa fa-plus"></i></span>
+</a>
+]]></template>
+ <template template_group="main" template_name="gmakeup" template_data="$content" template_location="admin" template_app="fmakeup"><![CDATA[<section id='elSecurityCenter'>
+    <h2 class='acpBlock_title'><span class="fa fa-info-circle" style="color:blue;"></span> {lang="fmakeup_global_message"}</h2>
+    {{if !empty( $content )}}
+        <br>
+        <div class='ipsGrid ipsGrid_collapsePhone'>
+        {{foreach $content as $key => $data}}
+            <div class='ipsGrid_span6 ipsPad'>
+                <div class='ipsAreaBackground_light ipsPad' {{if $data['status'] == 1 }}style='background-color: #e0f5ea;'{{endif}}>
+                    <h3 class='ipsType_sectionHead'><strong>{lang="$data['title']"}</strong></h3>
+                    {{if $data['description']}}
+                    <p class='ipsType_medium'>
+                        {lang="$data['description']"}
+                    </p>
+                    {{endif}}
+                    {{if isset( $data['button'] )}}
+                    <br>
+                    <a href='{url="{$data['button']['action']}"}' class='ipsButton ipsButton_small ipsButton_important'>{$data['button']['title']}</a>
+                    {{endif}}
+                </div>
+            </div>
+        {{endforeach}}
+            <div class='ipsGrid_span6 ipsPad'>
+                <div class='ipsAreaBackground_light ipsPad'>
+                    <h3 class='ipsType_sectionHead' style="color: grey;"><strong>{lang="fmakeup_comingsoon"}</strong></h3>
+
+                    <p class='ipsType_medium' style="color: grey;">
+                        {lang="fmakeup_comingsoon_desc"}
+                    </p>
+                    <br>
+                    <a href='http://bbcode.it/forum/9-imakeup/' class='ipsButton ipsButton_small ipsButton_overlaid'>{lang="fmakeup_suggest"}</a>
+                </div>
+            </div>
+        </div>
+    {{else}}
+        <div class='ipsAreaBackground_light ipsPad'>
+            <p class='ipsType_medium'>
+                {lang="security_no_recommendations"}
+            </p>
+        </div>
+    {{endif}}
+</section>]]></template>
+ <template template_group="main" template_name="unavailable" template_data="$title" template_location="admin" template_app="fmakeup"><![CDATA[<span class="ipsBadge ipsBadge_negative ipsBadge_small ipsBadge_icon ipsType_center" title="{$title}" data-ipsTooltip><i class="fa fa-ban"></i></span>
+
+]]></template>
+ <css css_location="front" css_app="fmakeup" css_attributes="" css_path="." css_name="imakeup.css">{{if settings.fmu_g_forums == 1 }}
+body[data-pagemodule=&quot;forums&quot;][data-pagecontroller=&quot;index&quot;] .ipsPageHeader{ display: none; }
+{{endif}}</css>
+</theme>

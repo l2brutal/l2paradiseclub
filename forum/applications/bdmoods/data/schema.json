@@ -1,0 +1,111 @@
+{
+    "bdmoods_moods": {
+        "name": "bdmoods_moods",
+        "columns": {
+            "mood_id": {
+                "name": "mood_id",
+                "type": "BIGINT",
+                "length": 20,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": null,
+                "comment": "ID Number",
+                "unsigned": true,
+                "zerofill": false,
+                "auto_increment": true,
+                "binary": false
+            },
+            "mood_title": {
+                "name": "mood_title",
+                "type": "VARCHAR",
+                "length": 128,
+                "decimals": null,
+                "values": null,
+                "allow_null": false,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            },
+            "mood_image": {
+                "name": "mood_image",
+                "type": "VARCHAR",
+                "length": 256,
+                "decimals": null,
+                "values": null,
+                "allow_null": true,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            }
+        },
+        "indexes": {
+            "PRIMARY": {
+                "type": "primary",
+                "name": "PRIMARY",
+                "columns": [
+                    "mood_id"
+                ],
+                "length": [
+                    null
+                ]
+            }
+        }
+    },
+    "bdmoods_updates": {
+        "name": "bdmoods_updates",
+        "columns": {
+            "update_mood": {
+                "allow_null": false,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": "0",
+                "length": 10,
+                "name": "update_mood",
+                "type": "BIGINT",
+                "unsigned": true,
+                "values": [],
+                "zerofill": false
+            },
+            "update_memberid": {
+                "allow_null": false,
+                "auto_increment": false,
+                "binary": false,
+                "comment": "",
+                "decimals": null,
+                "default": "0",
+                "length": 8,
+                "name": "update_memberid",
+                "type": "MEDIUMINT",
+                "unsigned": false,
+                "values": [],
+                "zerofill": false
+            },
+            "update_time": {
+                "name": "update_time",
+                "type": "INT",
+                "length": 10,
+                "decimals": null,
+                "values": null,
+                "allow_null": true,
+                "default": null,
+                "comment": "",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            }
+        },
+        "indexes": [],
+        "collation": "utf8mb4_unicode_ci",
+        "engine": "InnoDB"
+    }
+}

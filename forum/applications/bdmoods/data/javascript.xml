@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<javascript app="bdmoods">
+ <file javascript_app="bdmoods" javascript_location="front" javascript_path="controllers/chooser" javascript_name="ips.chooser.js" javascript_type="controller" javascript_version="110001" javascript_position="49"><![CDATA[;( function($, _, undefined){
+    "use strict";
+	
+	ips.createModule('ips.bdmoods', function () {
+
+		// Private methods
+		var _privateMethod = function () {
+
+		};
+
+		// Functions that become public methods
+		var init = function () {
+            $(".mood-select").on('click', function() {
+                $(".mood-select").removeClass('active');
+                $(this).addClass('active');
+                $('form input[name=bdmoods_moodid]').attr("value",($(this).attr('data-mood')));
+                $('form input[name=bd_moods_customFeeling]').val($(this).attr('data-mood-title'));       
+            });
+
+            $("button[data-removemood]").on('click', function() {
+                $('form input[name=bdmoods_remove]').val(1);    
+                $('#elMoodChooserSubmit').submit();
+            });
+            
+            $('#elMoodChooserSubmit button[type=submit]').on("click", function(e) {
+                if ($('form input[name=bdmoods_remove]').val()!==1 && $('form input[name=bdmoods_moodid]').val()==0) {
+                    e.preventDefault();
+                    $(".mood-error").fadeIn();
+                }
+                
+            });
+            
+            if (matchMedia) {
+                var mq = window.matchMedia("(max-width: 767px)");
+                mq.addListener(spanChange);
+                spanChange(mq);
+            };
+            
+            function spanChange(mq) {
+                if (mq.matches) {
+                    $("div.mood-select").removeClass('ipsGrid_span2');
+                    $("div.mood-select").addClass('ipsGrid_span4');
+                }
+                else {
+                    $("div.mood-select").removeClass('ipsGrid_span4');
+                    $("div.mood-select").addClass('ipsGrid_span2');
+                }
+            };
+            
+		},
+
+		publicMethod = function () {
+            
+		};
+
+		// Expose public methods
+		return {
+			init: init,
+			publicMethod: publicMethod
+		}
+	});
+}(jQuery, _));]]></file>
+ <order app="bdmoods" path="/applications/bdmoods/dev/js/front//controllers/chooser">ips.chooser.js
+</order>
+</javascript>

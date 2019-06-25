@@ -1,0 +1,15 @@
+{
+    "1": {
+        "method": "addColumn",
+        "params": [
+            "core_members",
+            {
+                "name": "invite_revoke_access",
+                "type": "tinyint",
+                "length": 1,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    }
+}

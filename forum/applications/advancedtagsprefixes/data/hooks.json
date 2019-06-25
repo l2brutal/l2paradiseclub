@@ -1,0 +1,50 @@
+{
+    "addPrefixToTitle": {
+        "type": "C",
+        "class": "\\IPS\\Content\\Controller"
+    },
+    "showCommentPrefix": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_search"
+    },
+    "forumLastPostPrefix": {
+        "type": "C",
+        "class": "\\IPS\\forums\\Forum"
+    },
+    "forumLastPostPrefix_Theme": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_index"
+    },
+    "addPrefixToForm": {
+        "type": "C",
+        "class": "\\IPS\\Content\\Item"
+    },
+    "savedActionExtension": {
+        "type": "C",
+        "class": "\\IPS\\forums\\SavedAction"
+    },
+    "addPrefixToRss": {
+        "type": "C",
+        "class": "\\IPS\\forums\\Feed"
+    },
+    "forumTopicTagList": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_forums"
+    },
+    "formatPrefix": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_core_front_global"
+    },
+    "nodeSettings": {
+        "type": "C",
+        "class": "\\IPS\\Node\\Controller"
+    },
+    "nodeModel": {
+        "type": "C",
+        "class": "\\IPS\\Node\\Model"
+    },
+    "addPrefixToForumTopicsWidget": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_widgets"
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "1": {
+        "method": "addColumn",
+        "params": [
+            "core_message_topics",
+            {
+                "name": "mt_is_hidden",
+                "type": "tinyint",
+                "length": 1,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "2": {
+        "method": "addColumn",
+        "params": [
+            "core_message_posts",
+            {
+                "name": "msg_edited_pmviewer",
+                "type": "tinyint",
+                "length": 1,
+                "allow_null": false,
+                "default": 0
+            }
+        ]
+    },
+    "3": {
+        "method": "createTable",
+        "params": [
+            {
+                "name": "pmviewer_edithistory",
+                "columns": {
+                    "eh_id": {
+                        "name": "eh_id",
+                        "type": "BIGINT",
+                        "length": 10,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": null,
+                        "comment": "ID Number",
+                        "unsigned": true,
+                        "zerofill": false,
+                        "auto_increment": true,
+                        "binary": false
+                    },
+                    "eh_member_id": {
+                        "name": "eh_member_id",
+                        "type": "MEDIUMINT",
+                        "length": 8,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "0",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "eh_conversation_id": {
+                        "name": "eh_conversation_id",
+                        "type": "INT",
+                        "length": 10,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "0",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "eh_post_id": {
+                        "name": "eh_post_id",
+                        "type": "INT",
+                        "length": 10,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "0",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "eh_edit_time": {
+                        "name": "eh_edit_time",
+                        "type": "INT",
+                        "length": 10,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": false,
+                        "default": "0",
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "eh_original_text": {
+                        "name": "eh_original_text",
+                        "type": "TEXT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": null,
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    },
+                    "eh_modified_text": {
+                        "name": "eh_modified_text",
+                        "type": "TEXT",
+                        "length": null,
+                        "decimals": null,
+                        "values": [],
+                        "allow_null": true,
+                        "default": null,
+                        "comment": "",
+                        "unsigned": false,
+                        "zerofill": false,
+                        "auto_increment": false,
+                        "binary": false
+                    }
+                },
+                "indexes": {
+                    "PRIMARY": {
+                        "type": "primary",
+                        "name": "PRIMARY",
+                        "columns": [
+                            "eh_id"
+                        ],
+                        "length": [
+                            null
+                        ]
+                    },
+                    "conversation": {
+                        "type": "key",
+                        "name": "conversation",
+                        "columns": [
+                            "eh_conversation_id",
+                            "eh_post_id"
+                        ],
+                        "length": [
+                            null,
+                            null
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

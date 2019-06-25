@@ -1,0 +1,14 @@
+{
+    "front": {
+        "mood": {
+            "default_controller": "update",
+            "protected": 0
+        }
+    },
+    "admin": {
+        "manage": {
+            "default_controller": "manage",
+            "protected": 0
+        }
+    }
+}

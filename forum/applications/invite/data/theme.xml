@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Default" author_name="Invision Power Services, Inc" author_url="http://www.invisionpower.com">
+ <template template_group="global" template_name="invitedByHoverCard" template_data="$member" template_location="front" template_app="invite"><![CDATA[{{if \IPS\Settings::i()->is_on AND $member->invited_by > 0}}
+	{{$member = \IPS\Member::load( $member->invited_by );}}
+	<li class="ipsDataItem">
+		<span class="ipsDataItem_generic ipsDataItem_size3">
+			<strong>
+				{lang="invited_by"}
+			</strong>
+		</span>
+		<span class="ipsDataItem_main">
+			{$member->link()|raw}
+		</span>
+	</li>
+{{endif}}]]></template>
+ <template template_group="global" template_name="invitedByProfileHeader" template_data="$member" template_location="front" template_app="invite"><![CDATA[{{if \IPS\Settings::i()->is_on AND $member->invited_by > 0}}
+	{{$member = \IPS\Member::load( $member->invited_by );}}
+	<li>
+		<h4 class="ipsType_minorHeading">
+			{lang="invited_by"}
+		</h4>
+		<span>
+			{$member->link()|raw}
+		</span>
+	</li>
+{{endif}}]]></template>
+ <template template_group="global" template_name="invitesAjax" template_data="$invites" template_location="front" template_app="invite"><![CDATA[<ol class='ipsDataList'>
+{{if empty( $invites )}}
+	<li class='ipsDataItem ipsDataItem_unread'>
+		<div class='ipsPad ipsType_light ipsType_center ipsType_normal'>{lang="no_results_invites"}</div>
+	</li>
+{{else}}
+	{{$key = \IPS\Session::i()->csrfKey;}}
+	{{foreach $invites as $memberId => $user}}
+		{{$member = \IPS\Member::load( $memberId );}}
+		{{$group = \IPS\Member\Group::load( $member->member_group_id )->formattedName;}}
+		<li class='ipsDataItem' itemprop="itemListElement">
+			<div class='ipsDataItem_icon'>
+				{template="userPhoto" app="core" group="global" params="$member, 'mini'"}
+			</div>
+			<div class='ipsDataItem_main'>
+				<div class="ipsPos_right">
+					<ul class='ipsList_inline'>
+						<li>
+							{{if \IPS\Member::loggedIn()->member_id && !$member->members_disable_pm and !\IPS\Member::loggedIn()->members_disable_pm and \IPS\Member::loggedIn()->canAccessModule( \IPS\Application\Module::get( 'core', 'messaging' ) )}}
+								<a class='ipsButton ipsButton_light ipsButton_verySmall' href='{url="app=core&module=messaging&controller=messenger&do=compose&to={$member->member_id}" seoTemplate="messenger_compose"}' data-ipsDialog data-ipsDialog-title='{lang="compose_new"}' data-ipsDialog-remoteSubmit data-ipsDialog-flashMessage="{lang="message_sent"}"><i class='fa fa-envelope'></i> <span class='ipsResponsive_showDesktop ipsResponsive_inline'>&nbsp; {lang="message_send"}</span></a>
+							{{endif}}
+						</li>
+						<li>
+							{{if \IPS\Member::loggedIn()->member_id != $member->member_id and ( !$member->members_bitoptions['pp_setting_moderate_followers'] or \IPS\Member::loggedIn()->following( 'core', 'member', $member->member_id ) )}}
+								{{$memberFollowers = $member->followers();}}
+								{template="memberFollow" app="invite" group="global" params="'core', 'member', $member->member_id, ( $memberFollowers === NULL ) ? 0 : $memberFollowers->count( TRUE )"}
+							{{endif}}
+						</li>
+					</ul>
+				</div>
+				<a href="{$member->url()}">
+						<span class='ipsDataItem_title'>{$member->name}</span>
+				</a>
+				<p class='ipsType_reset ipsType_medium'>{$group|raw}</p>
+			</div>
+		</li>
+	{{endforeach}}
+{{endif}}
+</ol>]]></template>
+ <template template_group="global" template_name="inviteSystemGlobalLink" template_data="" template_location="front" template_app="invite"><![CDATA[{{if \IPS\Settings::i()->is_on AND \IPS\Settings::i()->is_showicon AND \IPS\Member::loggedIn()->group['is_canvite'] AND !\IPS\Member::loggedIn()->invite_revoke_access}}
+	{{$invites = \IPS\Member::loggedIn()->getConvertedMembers();}}
+	<li class='cInvites cUserNav_icon'>
+		<a href='#' id='elFullInviteSystem' data-ipsTooltip title='{lang="menu__invite_invite_invite"}' data-ipsMenu data-ipsMenu-closeOnClick='false'>
+			<i class='fa fa-ticket'></i>  {{if member.invites_remaining > 0 AND \IPS\Settings::i()->is_showicon_nr AND !member.group['is_unlimited']}}<span class='ipsNotificationCount' data-notificationType='notify'>{member="invites_remaining"}</span>{{endif}}
+		</a>
+		<div id='elFullInviteSystem_menu' class='ipsMenu ipsMenu_wide ipsHide'>
+			<div class='ipsMenu_headerBar'>
+				<span class="ipsType_light ipsPos_right">
+					{{if \IPS\Member::loggedIn()->group['is_unlimited']}}
+						{lang="invites_remaining_unlimited"}
+					{{else}}
+						{lang="invites_remaining_x" sprintf="\IPS\Member::loggedIn()->invites_remaining"}
+					{{endif}}
+				</span>
+				<h4 class='ipsType_sectionHead'>{lang="latest_invitations"}</h4>
+			</div>
+			<div class='ipsMenu_innerContent'>
+				{template="invitesAjax" app="invite" location="front" group="global" params="$invites"}
+			</div>
+			<div class='ipsMenu_footerBar ipsType_center'>
+				<a href='{url="app=core&module=system&controller=settings&area=invitesystem" seoTemplate="settings_invitesystem"}'><i class='fa fa-bars'></i> {lang="send_new_invitation"}</a>
+			</div>
+		</div>
+	</li>
+{{endif}}]]></template>
+ <template template_group="global" template_name="memberFollow" template_data="$app, $area, $id, $count" template_location="front" template_app="invite"><![CDATA[
+<div data-followApp='{$app}' data-followArea='{$area}' data-followID='{$id}' data-controller='core.front.core.followButton'>
+	{template="memberFollowButton" group="global" app="invite" params="$app, $area, $id, $count"}
+</div>]]></template>
+ <template template_group="global" template_name="memberFollowButton" template_data="$app, $area, $id, $count" template_location="front" template_app="invite"><![CDATA[{{if member.member_id}}
+	<div class="ipsResponsive_hidePhone ipsResponsive_block">
+		{{if member.following( $app, $area, $id )}}
+			<a href="{url="app=core&module=system&section=notifications&do=follow&follow_app={$app}&follow_area={$area}&follow_id={$id}"}" title="{lang="following_this_member"}" data-ipsTooltip class="ipsButton ipsButton_positive ipsButton_verySmall ipsType_blendLinks" data-role="followButton" data-ipsHover data-ipsHover-cache='false' data-ipsHover-onClick><i class='fa fa-check'></i><i class='fa fa-user'></i> {lang="is_following_member"} <i class='fa fa-caret-down'></i></a>
+		{{else}}	
+			<a href="{url="app=core&module=system&section=notifications&do=follow&follow_app={$app}&follow_area={$area}&follow_id={$id}"}" title="{lang="follow_this_member"}" data-ipsTooltip class="ipsButton ipsButton_verySmall ipsButton_light ipsType_blendLinks" data-role="followButton" data-ipsHover data-ipsHover-cache='false' data-ipsHover-onClick><i class='fa fa-plus'></i><i class='fa fa-user'></i> {lang="is_follow_member"}</a>
+		{{endif}}
+	</div>
+	<div class="ipsResponsive_showPhone ipsResponsive_block">
+		{{if member.following( $app, $area, $id )}}
+			<a href="{url="app=core&module=system&section=notifications&do=follow&follow_app={$app}&follow_area={$area}&follow_id={$id}"}" title="{lang="following_this_member"}" data-ipsTooltip class="ipsButton ipsButton_positive ipsButton_fullWidth ipsButton_small ipsType_blendLinks" data-role="followButton" data-ipsHover data-ipsHover-cache='false' data-ipsHover-onClick><i class='fa fa-check'></i><i class='fa fa-user'></i> <i class='fa fa-caret-down'></i></a>
+		{{else}}	
+			<a href="{url="app=core&module=system&section=notifications&do=follow&follow_app={$app}&follow_area={$area}&follow_id={$id}"}" title="{lang="follow_this_member"}" data-ipsTooltip class="ipsButton ipsButton_fullWidth ipsButton_small ipsButton_alternate ipsType_blendLinks" data-role="followButton" data-ipsHover data-ipsHover-cache='false' data-ipsHover-onClick><i class='fa fa-plus'></i><i class='fa fa-user'></i></a>
+		{{endif}}
+	</div>
+{{endif}}]]></template>
+ <template template_group="profile" template_name="inviteesRows" template_data="$table, $headers, $rows" template_location="front" template_app="invite"><![CDATA[{{if count( $rows )}}
+	{{foreach $rows as $row}}
+		<tr class='ipsClearfix'>
+			<td>
+				{$row['photo']|raw}
+			</td>
+			<td>
+				{$row['name']|raw}
+			</td>
+			<td>
+				{$row['member_group_id']|raw}
+			</td>
+			<td>
+				{$row['joined']|raw}
+			</td>
+			<td class='ipsType_center'>
+				{$row['member_posts']|raw}
+			</td>
+		</tr>
+	{{endforeach}}
+{{else}}
+	<tr class='ipsClearfix'>
+		<td colspan="5">
+			<div class='ipsType_center ipsPad'>
+				<p class='ipsType_large ipsType_light'>{lang="no_rows_in_table"}</p>
+			</div>
+	</tr>
+{{endif}}]]></template>
+ <template template_group="profile" template_name="inviteesTable" template_data="$table, $headers, $rows, $quickSearch, $advancedSearch" template_location="front" template_app="invite"><![CDATA[<div data-baseurl="{$table->baseUrl}" data-resort='{$table->resortKey}'">
+	<div class='ipsColumns ipsColumns_collapsePhone'>
+		<section class='ipsColumn ipsColumn_fluid'>
+		<div class="acpBlock ipsClear">
+				<div class='ipsButtonBar ipsClearfix ipsPad_half'>
+					<ul class='ipsButtonRow ipsPos_right ipsClearfix'>
+						<li>
+							<a href='#elOrderMenu_menu' id='elOrderMenu' data-ipsMenu data-ipsMenu-activeClass='ipsButtonRow_active' data-ipsMenu-selectable="radio">{lang="order_by"} <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsMenu ipsMenu_auto ipsMenu_withStem ipsMenu_selectable ipsHide' id='elOrderMenu_menu'>
+								<li class='ipsMenu_item {{if $table->sortDirection == 'asc'}}ipsMenu_itemChecked{{endif}}' data-ipsMenuValue='asc'>
+									<a href='{$table->baseUrl->setQueryString( array( 'sortdirection' => 'asc' ) )}'>{lang="ascending"}</a>
+								</li>
+								<li class='ipsMenu_item {{if $table->sortDirection == 'desc'}}ipsMenu_itemChecked{{endif}}' data-ipsMenuValue='desc'>
+									<a href='{$table->baseUrl->setQueryString( array( 'sortdirection' => 'desc' ) )}'>{lang="descending"}</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					{{if $table->pages > 1}}
+						<div data-role="tablePagination">
+							{template="pagination" group="global" app="core" location="global" params="$table->baseUrl, $table->pages, $table->page, $table->limit"}
+						</div>
+					{{endif}}
+				</div>
+			
+				<div class='ipsBox'>
+					<table class='ipsTable ipsTable_responsive ipsTable_zebra {{foreach $table->classes as $class}}{$class} {{endforeach}}' data-role="table" data-ipsKeyNav data-ipsKeyNav-observe='e d return'>
+						<thead>
+							<tr class='ipsAreaBackground'>
+								<th style='width: 10%;'>{lang="member"}</th>
+								<th style='width: 30%;'>&nbsp;</th>
+								<th style='width: 20%;'>{lang="group"}</th>
+								<th style='width: 20%;'>{lang="joined"}</th>
+								<th style='width: 20%;'>{lang="members_posts"}</th>
+							</tr>
+						</thead>
+						<tbody data-role="tableRows">
+							{template="$table->rowsTemplate[1]" params="$table, $headers, $rows" object="$table->rowsTemplate[0]"}
+						</tbody>
+					</table>
+					<br>
+					{{if $table->pages > 1}}
+						<div data-role="tablePagination">
+							{template="pagination" group="global" app="core" location="global" params="$table->baseUrl, $table->pages, $table->page, $table->limit"}
+						</div>
+					{{endif}}
+				</div>
+		</div>
+	</section>
+</div>]]></template>
+ <template template_group="settings" template_name="inviteSystemSettings" template_data="$tab" template_location="front" template_app="invite"><![CDATA[{{if \IPS\Settings::i()->is_on AND \IPS\Member::loggedIn()->group['is_canvite'] AND !\IPS\Member::loggedIn()->invite_revoke_access}}
+	<li>
+		<a href='{url="app=core&module=system&controller=settings&area=invitesystem" seoTemplate="settings_invitesystem"}' id='setting_invitesystem' class='ipsType_normal ipsSideMenu_item {{if $tab === 'invitesystem'}}ipsSideMenu_itemActive{{endif}}' title="{lang="menu__invite_invite_invite"}" role="tab" aria-selected="{{if $tab === 'invitesystem'}}true{{else}}false{{endif}}">
+			<i class="fa fa-ticket"> </i>{lang="menu__invite_invite_invite"} {$value}
+		</a>
+	</li>
+{{endif}}]]></template>
+ <template template_group="settings" template_name="listConfirmed" template_data="$iLinked, $showLinks" template_location="front" template_app="invite"><![CDATA[{{if count( $iLinked )}}
+	{{$key = \IPS\Session::i()->csrfKey;}}
+	{{foreach $iLinked as $memberId => $user}}
+		{{$member = \IPS\Member::load( $memberId );}}
+		{{$group = \IPS\Member\Group::load( $member->member_group_id )->formattedName;}}
+		<tr class='ipsClearfix'>
+			<td style='width: 10%;'>
+				{template="userPhoto" group="global" app="core" params="$member, 'tiny'"}
+			</td>
+			<td style='width: {{if $showLinks === TRUE}}50%;{{else}}90%{{endif}}'>
+				{template="userLink" app="core" group="global" params="$member"}
+				<p class='ipsType_reset ipsType_medium'>{$group|raw}</p>
+			</td>
+			{{if $showLinks === TRUE}}
+				<td style='width: 40%;' align='middle'>
+					<a href='{url="app=linkedaccounts&module=accounts&controller=accounts&do=loginas&id={$memberId}&csrfKey={$key}"}'>{lang="sign_in_short"}</a> | <a data-confirm data-confirmsubmessage='{lang="unlink_accounts_confirm"}' href='{url="app=linkedaccounts&module=accounts&controller=accounts&do=unlink&id={$user['linked_account_id']}&mid={$memberId}&csrfKey={$key}"}'>{lang="unlink"}</a>
+				</td>
+			{{endif}}
+		</tr>
+	{{endforeach}}
+{{endif}}]]></template>
+ <template template_group="settings" template_name="settingsInviteSystem" template_data="$form, $iInvited" template_location="front" template_app="invite"><![CDATA[{{if \IPS\Settings::i()->is_on AND \IPS\Member::loggedIn()->group['is_canvite']}}
+	<div class='ipsType_normal'>
+		<div class='ipsGrid ipsGrid_collapsePhone'>
+			<div class='ipsGrid_span6'>
+				{{if \IPS\Member::loggedIn()->group['is_unlimited'] OR \IPS\Member::loggedIn()->invites_remaining > 0}}
+					<h3 class='ipsType_sectionHead'>{lang="send_new_invitation"}</h3>
+					{{if \IPS\Member::loggedIn()->group['is_unlimited']}}
+						<span class='ipsType_reset ipsType_right ipsType_small ipsType_light'>{lang="invites_remaining_unlimited"}</span>
+					{{else}}
+						<span class='ipsType_reset ipsType_right ipsType_small ipsType_light'>{lang="invites_remaining_x" sprintf="\IPS\Member::loggedIn()->invites_remaining"}</span>
+					{{endif}}
+					<hr class="ipsHr">
+						<table class='ipsTable ipsTable_responsive ipsTable_zebra' data-role="table" data-ipsKeyNav data-ipsKeyNav-observe='e d return'>
+							<tr>
+								<td>{$form|raw}</td>
+							</tr>
+						</table>
+				{{else}}
+						<h3 class='ipsType_sectionHead'>{lang="send_new_invitation"}</h3>
+						<span class='ipsType_reset ipsType_right ipsType_small ipsType_light'>{lang="invites_no_remaining_invites"}</span>
+						<table class='ipsTable ipsTable_responsive ipsTable_zebra' data-role="table" data-ipsKeyNav data-ipsKeyNav-observe='e d return'>
+							<tr>
+								<td>{lang="invites_no_remaining_invitesx"}</td>
+							</tr>
+						</table>
+				{{endif}}
+			</div>
+			<div class='ipsGrid_span6'>
+				<h3 class='ipsType_sectionHead'>{lang="members_i_invited"}</h3>
+				<hr class="ipsHr">
+				<ul class='ipsGrid'>
+					{{foreach $iInvited as $idx => $invited}}
+						<li class='ipsGrid_span3 ipsType_center' data-ipsTooltip title='{expression="\IPS\Member::load( $invited['invite_conv_member_id'] )->name"}'>{template="userPhoto" app="core" group="global" params="\IPS\Member::load($invited['invite_conv_member_id'] ), 'mini', NULL, '', FALSE"}</li>
+					{{endforeach}}
+				</ul>
+			</div>
+		</div>
+	</div>
+{{endif}}]]></template>
+ <template template_group="submit" template_name="categorySelector" template_data="$form" template_location="front" template_app="invite"><![CDATA[
+{{if !\IPS\Request::i()->isAjax()}}
+	{template="pageHeader" group="global" app="core" params="\IPS\Member::loggedIn()->language()->addToStack('send_new_invitation')"}
+{{else}}
+	<div class='ipsPad'>
+{{endif}}
+	{$form|raw}
+{{if \IPS\Request::i()->isAjax()}}
+	</div>
+{{endif}}]]></template>
+ <template template_group="view" template_name="inviteRows" template_data="$table, $headers, $invites" template_location="admin" template_app="invite"><![CDATA[{{if count( $invites )}}
+	{{foreach $invites as $invite}}
+		<tr class='ipsClearfix'>
+			<td class='cNexusSupportTable_icon'>
+				{$invite['photo']|raw}
+			</td>
+			<td style='width: 25%;' class='ipsPos_top'>
+				<div class='ipsType_medium'>
+					{$invite['invite_sender_id']|raw}
+					<p class='ipsType_reset ipsType_medium'>{$invite['member_group_id']|raw}</p>
+				</div>
+			</td>
+			{{if $invite['invite_invited_name']}}
+			<td style='width: 30%;' class='ipsPos_top'>
+				{$invite['invite_invited_name']|raw}
+				<p class='ipsType_reset ipsType_medium ipsType_light'>{$invite['invite_invited_email']|raw}</p>
+			</td>
+			{{endif}}
+			{{if !$invite['invite_invited_name']}}
+			<td style='width: 30%;' class='ipsPos_top'>
+				{lang="created_by_batch_feature"}
+				<p class='ipsType_reset ipsType_medium ipsType_light'>{$invite['invite_code']|raw}</p>
+			</td>
+			{{endif}}
+			<td style='width: 15%;'>
+				{$invite['invite_date']|raw}
+			</td>
+			<td style='width: 10%;'>
+				{$invite['invite_status']|raw}
+			</td>
+			<td class='ipsType_center' style='width: 10%;'>
+				{{foreach $invite as $k => $v}}
+					{{if $k === '_buttons'}}
+						{template="controlStrip" params="$v" group="global" app="core"}
+					{{endif}}
+				{{endforeach}}
+			</td>
+		</tr>
+	{{endforeach}}
+{{endif}}]]></template>
+ <template template_group="view" template_name="inviteTable" template_data="$table, $headers, $rows, $quickSearch" template_location="admin" template_app="invite"><![CDATA[{template="buttons" params="$table->rootButtons, ''" group="global" app="core" if="isset( $headers['_buttons'] )"}
+<div data-baseurl="{$table->baseUrl}" data-resort='{$table->resortKey}'">
+	<div class='ipsColumns ipsColumns_collapsePhone'>
+		<section class='ipsColumn ipsColumn_fluid'>
+		<div class="acpBlock ipsClear">
+			{{if $quickSearch !== NULL or $table->advancedSearch or !empty( $table->filters )}}
+				<div class='ipsClearfix ipsClear ipsPad acpWidgetToolbar ipsAreaBackground_dark' data-role="tableSortBar">
+					{{if $quickSearch !== NULL or $table->advancedSearch}}
+						{{if $table->advancedSearch}}
+							<a class='ipsPos_right acpWidgetSearch' data-ipsTooltip aria-label='{lang="search"}' href='{$table->baseUrl->setQueryString( array( 'advancedSearchForm' => '1', 'filter' => $table->filter, 'sortby' => $table->sortBy, 'sortdirection' => $table->sortDirection ) )}' data-ipsDialog data-ipsDialog-title='{lang="search"}'><i class='fa fa-cog'></i></a>
+						{{endif}}
+						{{if $quickSearch !== NULL}}
+							<input type='text' class='ipsField_short ipsPos_right acpTable_search ipsJS_show' data-role='tableSearch' results placeholder="{{if is_string( $quickSearch )}}{lang="search_prefix" sprintf="\IPS\Member::loggedIn()->language()->addToStack( $table->langPrefix . $quickSearch )"}{{else}}{lang="search"}{{endif}}" value="{expression="\IPS\Request::i()->quicksearch"}">
+						{{endif}}
+					{{endif}}
+					{{if !empty( $table->filters )}}
+						<div class='ipsButtonBar ipsClearfix ipsResponsive_showDesktop'>
+							<ul class='ipsButtonRow ipsPos_left ipsClearfix'>
+								<li data-action="tableFilter" data-filter="">
+									<a href='{$table->baseUrl->setQueryString( array( 'sortby' => $table->sortBy, 'sortdirection' => $table->sortDirection, 'page' => '1', 'filter' => '' ) )}' class='{{if !array_key_exists( $table->filter, $table->filters )}}ipsButtonRow_active{{endif}}'>{lang="all"}</a>
+								</li>
+								{{foreach $table->filters as $k => $q}}
+									<li data-action="tableFilter" data-filter="{$k}">
+										<a href='{$table->baseUrl->setQueryString( array( 'filter' => $k, 'sortby' => $table->sortBy, 'sortdirection' => $table->sortDirection, 'page' => '1' ) )}' class='{{if $k === $table->filter}}ipsButtonRow_active{{endif}}'>{lang="$k"}</a>
+									</li>
+								{{endforeach}}
+							</ul>
+						</div>
+					{{endif}}
+				</div>
+
+				<div class='ipsButtonBar ipsClearfix ipsPad_half'>
+					<ul class='ipsButtonRow ipsPos_right ipsClearfix'>
+						<li>
+							<a href='#elOrderMenu_menu' id='elOrderMenu' data-ipsMenu data-ipsMenu-activeClass='ipsButtonRow_active' data-ipsMenu-selectable="radio">{lang="order_by"} <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsMenu ipsMenu_auto ipsMenu_withStem ipsMenu_selectable ipsHide' id='elOrderMenu_menu'>
+								<li class='ipsMenu_item {{if $table->sortDirection == 'asc'}}ipsMenu_itemChecked{{endif}}' data-ipsMenuValue='asc'>
+									<a href='{$table->baseUrl->setQueryString( array( 'sortdirection' => 'asc' ) )}'>{lang="ascending"}</a>
+								</li>
+								<li class='ipsMenu_item {{if $table->sortDirection == 'desc'}}ipsMenu_itemChecked{{endif}}' data-ipsMenuValue='desc'>
+									<a href='{$table->baseUrl->setQueryString( array( 'sortdirection' => 'desc' ) )}'>{lang="descending"}</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+					{{if $table->pages > 1}}
+						<div data-role="tablePagination">
+							{template="pagination" group="global" app="core" location="global" params="$table->baseUrl, $table->pages, $table->page, $table->limit"}
+						</div>
+					{{endif}}
+				</div>
+			{{endif}}
+			<table class='ipsTable ipsTable_responsive ipsTable_zebra {{foreach $table->classes as $class}}{$class} {{endforeach}}' data-role="table" data-ipsKeyNav data-ipsKeyNav-observe='e d return'>
+				<thead>
+					<tr class='ipsAreaBackground'>
+						<th style='width: 5%;'>{lang="invite_sender_name"}</th>
+						<th style='width: 25%;'>&nbsp;</th>
+						<th style='width: 30%;'>{lang="invite_invited_details"}</th>
+						<th style='width: 15%;'>{lang="invite_date"}</th>
+						<th style='width: 10%;'>{lang="invite_status"}</th>
+						<th style='width: 15%;'>&nbsp;</th>
+					</tr>
+				</thead>
+				<tbody data-role="tableRows">
+					{template="$table->rowsTemplate[1]" params="$table, $headers, $rows" object="$table->rowsTemplate[0]"}
+				</tbody>
+			</table>
+			<br>
+			{{if $table->pages > 1}}
+				<div data-role="tablePagination">
+					{template="pagination" group="global" app="core" location="global" params="$table->baseUrl, $table->pages, $table->page, $table->limit"}
+				</div>
+			{{endif}}
+		</div>
+	</section>
+</div>]]></template>
+ <template template_group="view" template_name="member" template_data="$member" template_location="admin" template_app="invite"><![CDATA[<div class='acpBlock'>
+	<div class='cProfileSidebarBlock ipsPad ipsBox ipsSpacer_bottom'>
+		<span class='ipsUserPhoto ipsUserPhoto_mini'>					
+			<img src='{$member->photo}' alt=''>
+		</span>
+		<h2 class='ipsType_sectionHead ipsType_reset'>{$member->name}</h2>
+		<ul class='ipsDataList ipsDataList_reducedSpacing cProfileFields'>
+			<li class='ipsDataItem'>
+				<span class='ipsDataItem_generic ipsDataItem_size3 ipsType_break'><strong>E-mail</strong></span>
+				<span class='ipsDataItem_generic'>{$member->email}</span>
+			</li>
+			<li class='ipsDataItem'>
+				<span class='ipsDataItem_generic ipsDataItem_size3 ipsType_break'><strong>{lang="joined"}</strong></span>
+				<span class='ipsDataItem_generic'>{datetime="$member->joined"}</span>
+			</li>
+			<li class='ipsDataItem'>
+				<span class='ipsDataItem_generic ipsDataItem_size3 ipsType_break'><strong>{lang="invited_by"}</strong></span>
+				<span class='ipsDataItem_generic'>{expression="\IPS\Member::load( $member->invited_by )->name"}</span>
+			</li>
+		</ul>
+	</div>
+	<div class="ipsClearfix ipsType_center">
+		<a target="_blank" href='{$member->url()}' class='ipsButton ipsButton_primary ipsButton_medium title="{lang="members_profile" sprintf="$member->name"}">{lang="profile_view_profile"}</a>
+	</div>
+</div>]]></template>
+ <template template_group="widgets" template_name="latestConverted" template_data="$users, $orientation='vertical'" template_location="front" template_app="invite"><![CDATA[{{if !empty( $users ) }}
+	<h3 class='ipsWidget_title ipsType_reset'>{lang="block_latestConverted"}</h3>
+
+	{{if $orientation == 'vertical'}}
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				{{foreach $users as $memberId => $user}}
+					{{$member = \IPS\Member::load( $memberId );}}
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							{template="userPhoto" group="global" app="core" params="$member, 'tiny'"}
+						</div>
+						<div class='ipsDataItem_main'>
+							<a href="{$member->url()}" class='ipsDataItem_title ipsType_break'>{$member->link()|raw}</a><br>
+							<span class='ipsType_light ipsType_small'>{lang="members_joined"} {datetime="$member->joined"}</span>
+						</div>
+					</li>
+				{{endforeach}}
+			</ul>
+		</div>
+	{{else}}
+		<div class='ipsWidget_inner'>
+			<ul class='ipsDataList'>
+				{{foreach $users as $memberId => $user}}
+					{{$member = \IPS\Member::load( $memberId );}}
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_icon ipsPos_top'>
+							{template="userPhoto" group="global" app="core" params="$member, 'tiny'"}
+						</div>
+						<div class='ipsDataItem_main'>
+							<a href="{$member->url()}" class='ipsDataItem_title ipsType_break'>{$member->link()|raw}</a><br>
+							<span class='ipsType_light ipsType_small'>{lang="members_joined"} {datetime="$member->joined"}</span>
+						</div>
+					</li>
+				{{endforeach}}
+			</ul>
+		</div>
+	{{endif}}
+{{endif}}]]></template>
+ <template template_group="widgets" template_name="topInviters" template_data="$topInvitersThisWeek, $limit, $orientation='vertical'" template_location="front" template_app="invite"><![CDATA[<h3 class='ipsType_reset ipsWidget_title'>{lang="block_topInviters"}</h3>
+<div class='ipsTabs ipsTabs_small ipsTabs_stretch ipsClearfix' id='elTopInviters' data-ipsTabBar data-ipsTabBar-updateURL='false' data-ipsTabBar-contentArea='#elTopInviters_content'>
+	<a href='#elTopInviters' data-action='expandTabs'><i class='fa fa-caret-down'></i></a>
+	<ul role="tablist">
+		<li>
+			<a href='#ipsTabs_elTopInviters_el_topInvitersWeek_panel' id='el_topInvitersWeek' class='ipsTabs_item ipsTabs_activeItem ipsType_center' role="tab" aria-selected='true'>{lang="week"}</a>
+		</li>
+		<li>
+			<a href='{url="app=invite&module=invite&controller=invite&do=topInviters&time=month&limit={$limit}&orientation={$orientation}"}' id='el_topInvitersMonth' class='ipsTabs_item ipsType_center' role="tab" aria-selected='false'>{lang="month"}</a>
+		</li>		
+		<li>
+			<a href='{url="app=invite&module=invite&controller=invite&do=topInviters&time=year&limit={$limit}&orientation={$orientation}"}' id='el_topInvitersYear' class='ipsTabs_item ipsType_center' role="tab" aria-selected='false'>{lang="year"}</a>
+		</li>
+		<li>
+			<a href='{url="app=invite&module=invite&controller=invite&do=topInviters&time=all&limit={$limit}&orientation={$orientation}"}' id='el_topInvitersAll' class='ipsTabs_item ipsType_center' role="tab" aria-selected='false'>{lang="alltime"}</a>
+		</li>
+	</ul>
+</div>
+
+<section id='elTopInviters_content' class='ipsWidget_inner'>
+	<div id="ipsTabs_elTopInviters_el_topInvitersWeek_panel" class='ipsTabs_panel'>
+		{template="topInvitersRows" group="widgets" app="invite" params="$topInvitersThisWeek, 'week', $orientation"}
+	</div>
+</section>]]></template>
+ <template template_group="widgets" template_name="topInvitersRows" template_data="$results, $timeframe, $orientation='vertical'" template_location="front" template_app="invite"><![CDATA[{{if count( $results )}}
+	{{if $orientation == 'vertical'}}
+		<ol class='ipsDataList ipsDataList_reducedSpacing cTopContributors'>
+			{{$idx = 1;}}
+			{{foreach $results as $memberId => $rep}}
+				{{$member = \IPS\Member::load( $memberId );}}
+				<li class='ipsDataItem'>
+					<div class='ipsDataItem_icon ipsPos_middle ipsType_center ipsType_large ipsType_light'><strong>{expression="$idx++"}</strong></div>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						{template="userPhoto" app="core" group="global" params="$member, 'tiny'"}
+						<div>
+							{$member->link()|raw}
+							<br>
+							<span class='ipsType_light'>{lang="invites_converted" pluralize="$rep"}
+						</div>
+					</div>
+				</li>
+			{{endforeach}}
+		</ol>
+	{{else}}
+		<div class="ipsGrid">
+			{{foreach $results as $memberId => $rep}}
+				{{$member = \IPS\Member::load( $memberId );}}
+				<div class='ipsGrid_span2'>
+					<div class='ipsDataItem_main ipsPhotoPanel ipsPhotoPanel_tiny'>
+						{template="userPhoto" app="core" group="global" params="$member, 'tiny'"}
+						<div>
+							{$member->link()|raw}
+							<br>
+							<span class='ipsType_light'>{$rep} {lang="invites_converted"}</span>
+						</div>
+					</div>
+				</div>
+			{{endforeach}}
+		</div>
+	{{endif}}
+{{else}}
+	<div class='ipsPad'>
+		<p class='ipsType_reset'>{lang="top_inviters_empty__{$timeframe}"}</p>
+	</div>
+{{endif}}]]></template>
+</theme>

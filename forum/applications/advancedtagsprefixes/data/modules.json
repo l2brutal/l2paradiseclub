@@ -1,0 +1,8 @@
+{
+    "admin": {
+        "manage": {
+            "default_controller": "prefixes",
+            "protected": false
+        }
+    }
+}

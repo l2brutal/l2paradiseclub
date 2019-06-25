@@ -1,0 +1,8 @@
+{
+    "admin": {
+        "viewer": {
+            "default_controller": "",
+            "protected": false
+        }
+    }
+}

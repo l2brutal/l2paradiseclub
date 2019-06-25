@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Default" author_name="Invision Power Services, Inc" author_url="https://www.invisioncommunity.com">
+ <template template_group="widgets" template_name="tagCloud" template_data="$blockTitle, $tags, $searchKey=NULL, $displayMode='cloud'" template_app="advancedtagsprefixes" template_location="front"><![CDATA[{{if !empty( $tags ) }}
+	<h3 class='ipsWidget_title ipsType_reset'>{$blockTitle}</h3>
+
+	{{if ( $displayMode == 'cloud' )}}
+		<div class='ipsPad_half ipsWidget_inner ipsStyle_center'>
+			{{foreach $tags as $tag => $info}}
+				{{$urlEncodedTag = rawurlencode( $tag );}}
+				<a href="{url="app=core&module=search&controller=search&type={$searchKey}&tags={$urlEncodedTag}" seoTemplate="search"}" title="{lang="find_tagged_content" sprintf="$tag"}" style='font-size:{expression="round(($info['scale']*225)+75)"}%;line-height:1;margin:0;' class='ipsField_yesNo ipsType_break'>
+					<span>{$info['label']|raw}</span>
+				</a>
+			{{endforeach}}
+		</div>
+	{{else}}
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				{{foreach $tags as $tag => $info}}
+					{{$urlEncodedTag = rawurlencode( $tag );}}
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main'>
+							<div class="ipsCommentCount ipsPos_right">{expression="$info['count']"}</div>
+							<a href="{url="app=core&module=search&controller=search&type={$searchKey}&tags={$urlEncodedTag}" seoTemplate="search"}" title="{lang="find_tagged_content" sprintf="$tag"}" class='ipsStep_title ipsType_break'>
+								<span>{$info['label']|raw}</span>
+							</a>
+						</div>
+					</li>
+				{{endforeach}}
+			</ul>
+		</div>
+	{{endif}}
+{{endif}}
+]]></template>
+</theme>

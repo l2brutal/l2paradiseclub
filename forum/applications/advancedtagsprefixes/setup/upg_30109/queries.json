@@ -1,0 +1,23 @@
+{
+    "1": {
+        "method": "changeColumn",
+        "params": [
+            "forums_forums",
+            "newest_prefix",
+            {
+                "name": "newest_prefix",
+                "type": "VARCHAR",
+                "length": 2550,
+                "decimals": null,
+                "values": [],
+                "allow_null": true,
+                "default": "",
+                "comment": "AT&P: Latest prefix",
+                "unsigned": false,
+                "zerofill": false,
+                "auto_increment": false,
+                "binary": false
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language>
+ <app key="fmakeup" version="10001">
+  <word key="__app_fmakeup" js="0">iMakeup</word>
+  <word key="menu__fmakeup_main" js="0">iMakeup</word>
+  <word key="menu__fmakeup_main_fmlist" js="0">Forum customizations</word>
+  <word key="fmakeup_list" js="0"><![CDATA[iMake<b>up</b> <span class="ipsType_minorHeading">forum index customizations</span>]]></word>
+  <word key="fmu_filters_inactive" js="0">Inactive Makeups</word>
+  <word key="fmu_filters_active" js="0">Active Makeups</word>
+  <word key="fmu_name_seo" js="0">Forum name</word>
+  <word key="fmu_fmakeup_status" js="0">Status</word>
+  <word key="fmu_type" js="0"></word>
+  <word key="fmu_badge" js="0">Badge</word>
+  <word key="fmakeup_toggled_visible" js="0">Makeup now active</word>
+  <word key="fmakeup_toggled_notvisible" js="0">Makeup now not active</word>
+  <word key="fmakeup_add_badge" js="0">Add Badge</word>
+  <word key="add_fmakeup_badge" js="0">Add makeup Badge</word>
+  <word key="fmakeup_forum" js="0">Makeup on?</word>
+  <word key="fmakeup_badge" js="0">Makeup Badge</word>
+  <word key="fmakeup_text" js="0">Badge Text</word>
+  <word key="fmakeup_color" js="0">Badge Color</word>
+  <word key="edit_fmakeup_badge" js="0">Edit makeup Badge</word>
+  <word key="fmakeup_container" js="0">Customize Container</word>
+  <word key="fmu_container" js="0">Container</word>
+  <word key="menu__fmakeup_main_gmakeup" js="0">Global customizations</word>
+  <word key="fmakeup_gmakeup_page_title" js="0"><![CDATA[iMake<b>up</b> <span class="ipsType_minorHeading">global index customizations</span>]]></word>
+  <word key="fmakeup_global_message" js="0">Suggest any other global index customization in the support forum</word>
+  <word key="fmakeup_remove_forums" js="0">Removing &quot;Forums&quot; title from index</word>
+  <word key="fmakeup_remove_forums_desc" js="0">This Makeup will remove the word &quot;Forums&quot; from forums index page to make index more compact.</word>
+  <word key="fmakeup_comingsoon_desc" js="0">This is a work in progress area, suggest any other global index customization in the app support forum</word>
+  <word key="fmakeup_comingsoon" js="0">Other customizations coming soon...</word>
+  <word key="fmakeup_suggest" js="0">Suggest a makeup</word>
+  <word key="fmakeup_enable" js="0">Enable this customization</word>
+  <word key="fmakeup_disable" js="0">Disable this customization</word>
+  <word key="fmu_badge_settings" js="0">Badges Settings</word>
+  <word key="fmu_badge_size" js="0">Badges size</word>
+  <word key="fmakeup_bg" js="0">Background color</word>
+  <word key="fmakeup_border" js="0">Border color</word>
+  <word key="fmu_fmakeup_grid" js="0">Grid</word>
+  <word key="fmakeup_set_grid" js="0">Set a Grid category</word>
+  <word key="fmu_filters_category" js="0">Category Makeups</word>
+  <word key="fmu_category" js="0">Category</word>
+  <word key="edit_fmakeup_container" js="0">Edit container</word>
+  <word key="fmu_container_settings" js="0">Container settings</word>
+  <word key="fmu_border" js="0">Container border on?</word>
+  <word key="fmu_border_size" js="0">Border size</word>
+  <word key="add_fmakeup_container" js="0">Add a container makeup</word>
+  <word key="fmu_border_on" js="0">Border active</word>
+  <word key="fmakeup_show_rules" js="0">Show rules icons</word>
+  <word key="fmakeup_show_rules_desc" js="0">Show a rules icon after forum title, if the forum has special rules set in ACP. </word>
+  <word key="fmu_g_rules_tooltip" js="0">This forum has special rules</word>
+ </app>
+</language>

@@ -1,0 +1,25 @@
+{
+    "manage": {
+        "prefixes": {
+            "prefixes_manage": "prefixes_manage",
+            "prefixes_add": "prefixes_add",
+            "prefixes_edit": "prefixes_edit",
+            "prefixes_delete": "prefixes_delete"
+        },
+        "settings": {
+            "settings_manage": "settings_manage"
+        },
+        "tags": {
+            "tags_manage": "tags_manage",
+            "tags_edit": "tags_edit",
+            "tags_delete": "tags_delete"
+        },
+        "tools": {
+            "tools_manage": "tools_manage",
+            "tools_lower": "tools_lower",
+            "tools_repair": "tools_repair",
+            "tools_rebuild": "tools_rebuild",
+            "tools_massadd": "tools_massadd"
+        }
+    }
+}

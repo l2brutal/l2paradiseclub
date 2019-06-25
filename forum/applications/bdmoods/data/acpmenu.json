@@ -1,0 +1,16 @@
+{
+    "manage": {
+        "manage": {
+            "tab": "members",
+            "controller": "manage",
+            "do": "",
+            "restriction": "bdmoods_manage"
+        },
+        "settings": {
+            "tab": "members",
+            "controller": "settings",
+            "do": "",
+            "restriction": "bdmoods_settings"
+        }
+    }
+}

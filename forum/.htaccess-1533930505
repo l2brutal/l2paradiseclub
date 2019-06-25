@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+RewriteBase /forum/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule \.(js|css|jpeg|jpg|gif|png|ico|map)(\?|$) /forum/404error.php [L,NC]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /forum/index.php [L]
+</IfModule>
+# Use PHP71 as default
+AddHandler application/x-httpd-php71 .php
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /opt/php71/lib
+</IfModule>

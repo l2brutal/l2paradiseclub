@@ -1,0 +1,14 @@
+{
+    "fmu_badges": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_index"
+    },
+    "fmu_bg_border": {
+        "type": "S",
+        "class": "\\IPS\\Theme\\class_forums_front_index"
+    },
+    "css": {
+        "type": "C",
+        "class": "\\IPS\\Dispatcher\\Front"
+    }
+}

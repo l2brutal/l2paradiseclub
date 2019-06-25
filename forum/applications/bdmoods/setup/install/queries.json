@@ -1,0 +1,76 @@
+[
+  {
+    "method": "addColumn",
+    "params": [
+      "core_members",
+      {
+        "name": "bdm_mood",
+        "type": "INT",
+        "length": 10,
+        "null": false,
+        "default": 0,
+        "comment": "Current member mood",
+        "unsigned": true
+      }
+    ]
+  },
+  {
+    "method": "addColumn",
+    "params": [
+      "core_members",
+      {
+        "name": "bdm_moodtext",
+        "type": "VARCHAR",
+        "length": 255,
+        "null": true,
+        "default": "",
+        "comment": "Current member mood text"
+      }
+    ]
+  },
+  {
+    "method": "addColumn",
+    "params": [
+      "core_groups",
+      {
+        "name": "g_bdm_canSee",
+        "type": "TINYINT",
+        "length": 1,
+        "null": true,
+        "default": 1,
+        "comment": "Can See Moods",
+        "unsigned": true
+      }
+    ]
+  },
+  {
+    "method": "addColumn",
+    "params": [
+      "core_groups",
+      {
+        "name": "g_bdm_canChange",
+        "type": "TINYINT",
+        "length": 1,
+        "null": true,
+        "default": 1,
+        "comment": "Can Change Own Mood",
+        "unsigned": true
+      }
+    ]
+  },
+  {
+    "method": "addColumn",
+    "params": [
+      "core_groups",
+      {
+        "name": "g_bdm_canUseCustom",
+        "type": "TINYINT",
+        "length": 1,
+        "null": true,
+        "default": 1,
+        "comment": "Can Edit Mood Feeling Text",
+        "unsigned": true
+      }
+    ]
+  }
+]

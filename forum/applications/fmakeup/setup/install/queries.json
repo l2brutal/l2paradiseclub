@@ -1,0 +1,80 @@
+{
+    "1": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_text",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "Text of the badge"
+            }
+        ]
+    },
+    "2": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_color",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "color of the badge"
+            }
+        ]
+    },
+    "3": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_status",
+                "type": "BIT",
+                "length": 1,
+                "null": true,
+                "comment": "Makeup status"
+            }
+        ]
+    },
+    "4": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_grid",
+                "type": "BIT",
+                "length": 1,
+                "null": true,
+                "comment": "Category Grid"
+            }
+        ]
+    },
+    "5": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_bg",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "background color of the container"
+            }
+        ]
+    },
+    "6": {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "fmakeup_border",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "border of forum container"
+            }
+        ]
+    }
+}

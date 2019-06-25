@@ -1,0 +1,9 @@
+[
+    {
+        "method": "update",
+        "params": [
+            "core_groups",
+            "g_bitoptions=g_bitoptions & 4288675839"
+        ]
+    }
+]

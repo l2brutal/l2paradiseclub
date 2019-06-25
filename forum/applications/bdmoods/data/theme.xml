@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Default" author_name="Invision Power Services, Inc" author_url="https://www.invisioncommunity.com">
+ <template template_group="global" template_name="chooser" template_data="$moods, $html, $title=NULL" template_location="front" template_app="bdmoods"><![CDATA[
+<div class="ipsPad">
+    <div class="ipsMessage ipsMessage_error mood-error">{lang='bd_moods_mustSelect'}</div>
+    <div class="ipsGrid mood-chooser">
+        {{if count($moods)==0}}<p class="ipsType_center ipsType_light">{lang='bd_moods_noMoods'}</p>{{endif}}
+        {{foreach $moods as $mood}}
+        <div class="ipsGrid_span2 ipsType_center mood-select {{if member.bdm_mood==$mood['mood_id']}}active{{endif}}" data-mood="{$mood['mood_id']}" data-mood-title="{$mood['mood_title']}">
+            {{if member.bdm_mood==$mood['mood_id']}}<span class="mood_check"><i class="fa fa-check"></i></span>{{endif}}<br/>
+            <img src="{file="$mood['mood_image']" extension="bdmoods_FileStorage"}"/>
+            <span class="mood-title">{$mood['mood_title']}</span><br/>
+        </div>
+        {{endforeach}}
+    </div>
+    {$html|raw}
+</div>
+]]></template>
+ <template template_group="global" template_name="chooserForm" template_data="$id, $action, $elements, $hiddenValues, $actionButtons, $uploadField, $class=''" template_location="front" template_app="bdmoods"><![CDATA[<form accept-charset='utf-8' method="post" action="{$action}" id='elMoodChooserSubmit' class="{$class}">
+	<input type="hidden" name="{$id}_submitted" value="1">
+	{{foreach $hiddenValues as $k => $v}}
+		<input type="hidden" name="{$k}" value="{$v}">
+	{{endforeach}}
+    <div class="ipsPad ipsClearfix ipsAreaBackground">
+        <div class="ipsGrid ipsGrid_collapsePhone">
+            <div class="ipsGrid_span8">
+            <ul class="ipsList_reset ipsPad_half">
+            {{foreach $elements as $collection}}
+                {{foreach $collection as $input}}
+                        {$input->rowHtml()|raw}
+                {{endforeach}}
+            {{endforeach}}
+                </ul>
+            </div>
+            <div class="ipsGrid_span4 ipsType_center">
+                {{foreach $actionButtons as $button}}
+                    {$button|raw}
+                {{endforeach}}
+		      </div>
+                
+            </div>
+        </div>
+</form>	]]></template>
+ <template template_group="widgets" template_name="latestMoodUpdates" template_data="$updates, $orientation='vertical'" template_location="front" template_app="bdmoods"><![CDATA[
+<h3 class="ipsType_reset ipsWidget_title">{lang='bd_moods_latestMoodUpdates'}</h3>
+<div class='ipsWidget_inner {{if $orientation == 'vertical'}}ipsPad_half{{endif}}'>
+    {{if $orientation == 'vertical'}}
+        {{if count($updates)==0}}<p class="ipsType_center ipsType_small ipsType_light">{lang='bd_moods_widgetNoUpdates'}</p>{{endif}}
+        {{foreach $updates as $update}}
+            <ul class="ipsDataList ipsDataList_reducedSpacing">
+                <li class='ipsDataItem'>
+                    <div class='ipsDataItem_icon ipsPos_top'>
+                        {template="userPhoto" group="global" app="core" params="$update['update_member'], 'tiny'"}
+                    </div>
+                    <div class='ipsDataItem_main ipsType_reset'>
+                        {$update['update_member']->link()|raw} {lang="bd_moods_xUpdatedMood" sprintf="$update['mood_text']"}<br/>
+                        <span class='ipsType_light ipsType_small'>{datetime="$update['update_time']"}</span>
+                    </div>
+                </li>
+            </ul>
+        {{endforeach}}
+    {{else}}
+        <div class="ipsGrid ipsGrid_collapsePhone">
+            {{if count($updates)==0}}<p class="ipsType_center ipsType_small ipsType_light">{lang='bd_moods_widgetNoUpdates'}</p>{{endif}}
+            {{foreach $updates as $update}}
+                <div class='ipsGrid_span4'>
+                    <div class='ipsDataItem_icon ipsPos_top'>
+                        {template="userPhoto" group="global" app="core" params="$update['update_member'], 'tiny'"}
+                    </div>
+                    <div class='ipsDataItem_main ipsType_reset'>
+                        {$update['update_member']->link()|raw} {lang="bd_moods_xUpdatedMood" sprintf="$update['mood_text']"}<br/>
+                        <span class='ipsType_light ipsType_small'>{datetime="$update['update_time']"}</span>
+                    </div>
+                </div>
+            {{endforeach}}
+        </div>
+  {{endif}} 
+</div> 
+
+]]></template>
+ <css css_location="front" css_app="bdmoods" css_attributes="" css_path="." css_name="moods.css"><![CDATA[.mood {
+    position: absolute;
+    width:100%;
+    z-index: 1;
+}
+
+.mood-profile {
+    text-align: center;
+}
+
+.mood-profile > ul > li {
+    padding: 10px 0;
+}
+
+.mood-profile > ul > li.mood {
+padding-bottom: 1em;
+}
+
+.mood.mood-bottom {
+    bottom:-12px;
+    text-align: center;
+
+}
+
+.mood.mood-top-right {
+    text-align: right;
+    right:1em;
+    top:0;
+}
+
+.mood.mood-bottom-right {
+    text-align: right;
+    bottom:0;
+    right:1em;
+}
+
+.mood.mood-top-left {
+    text-align: left;
+    left:1em;
+    top:0;
+}
+
+.mood.mood-bottom-left {
+    text-align: left;
+    bottom:0;
+    left:1em;
+}
+
+
+li.cAuthorPane_photo {
+    margin-bottom: 1.5em
+}
+
+
+.mood-chooser {
+    max-height: 348px;
+    overflow-y: auto;
+}
+
+.mood-select {
+    height: 96px;
+    overflow: hidden;
+    position: relative;
+    border: 2px solid #EEE;
+    margin-bottom: 1em;
+    transition: ease 200ms border;
+}
+
+
+.mood-select .mood_check {
+    position: absolute;
+    float:right;
+    right:3px;
+    top:3px;
+}
+
+.mood-select .mood_check i {
+    padding:3px;
+    font-size: 1.2em;
+    color: #68A72F;
+}
+
+.mood-select:hover {
+    cursor: pointer;
+    border: 2px solid #CCC;
+}
+
+.mood-select img {
+    max-height: 40px;
+    max-width: 96px;
+    margin-bottom: 1em;
+    margin-top:.6em;
+}
+
+.mood-error {
+    display: none;
+}
+
+.mood-select.active {
+    border: 2px solid #68A72F;
+}
+
+.mood-select .mood-title {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left:0;
+}
+
+@media screen and (max-width: 767px) {
+
+    .mood-title {
+        display: none;   
+    }
+    
+    #elMoodChooserSubmit .ipsFieldRow {
+        text-align: center;
+    }
+    
+    .mood-select {
+        max-height: 72px;
+    }
+    
+    .mood-select img {
+        margin-top: .3em;
+        max-height: 32px;
+        max-width: 82px;
+    }
+}
+]]></css>
+</theme>

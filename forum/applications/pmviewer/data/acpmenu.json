@@ -1,0 +1,28 @@
+{
+    "viewer": {
+        "conversations": {
+            "tab": "community",
+            "controller": "conversations",
+            "do": "",
+            "restriction": "conversations_manage"
+        },
+        "settings": {
+            "tab": "community",
+            "controller": "settings",
+            "do": "",
+            "restriction": "settings_manage"
+        },
+        "tools": {
+            "tab": "community",
+            "controller": "tools",
+            "do": "",
+            "restriction": "tools_manage"
+        },
+        "logs": {
+            "tab": "community",
+            "controller": "logs",
+            "do": "",
+            "restriction": "logs_manage"
+        }
+    }
+}

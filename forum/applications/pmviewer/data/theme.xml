@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme name="Default" author_name="Invision Power Services, Inc" author_url="http://www.invisionpower.com">
+ <template template_group="global" template_name="commentWarned" template_data="$comment" template_location="admin" template_app="pmviewer"><![CDATA[
+<!-- Moderator warning -->
+<div class="ipsType_reset ipsPad ipsAreaBackground_light ipsClearfix ipsPhotoPanel ipsPhotoPanel_mini">
+	{template="userPhoto" group="global" app="core" params="\IPS\Member::load( $comment->warning->moderator ), 'mini'"}
+	<div>
+		<strong class='ipsType_warning ipsType_normal'>{lang="member_given_post_warning" sprintf="\IPS\Member::load( $comment->warning->moderator )->name, \IPS\Member::load( $comment->warning->member )->name"}</strong>
+		<br>
+		<span class='ipsType_light'>
+			<strong>{lang="warn_reason_message"}</strong> {lang="core_warn_reason_{$comment->warning->reason}"} &middot; <strong>{lang="warn_points_message"}</strong> {$comment->warning->points} &middot; <a href="{url="app=core&module=system&controller=warnings&id={$comment->warning->member}&w={$comment->warning->id}" seoTemplate="warn_view" base="front" seoTitle="$comment->author()->members_seo_name"}" title='{lang="view_warning_details_title"}' data-ipsDialog data-ipsDialog-size='narrow'>{lang="view_warning_details"}</a>
+		</span>
+	</div>
+</div>]]></template>
+ <template template_group="view" template_name="comment" template_data="$comment" template_location="admin" template_app="pmviewer"><![CDATA[{{$idField = $comment::$databaseColumnId;}}
+<div id='comment-{$comment->$idField}_wrap' data-controller='core.front.core.comment' data-commentApp='{$app}' data-commentType='{$type}' data-commentID="{$comment->$idField}" data-quoteData='{expression="json_encode( array('userid' => $comment->author()->member_id, 'username' => $comment->author()->name, 'timestamp' => $comment->mapped('date'), 'contentapp' => $app, 'contenttype' => $type, 'contentclass' => $class, 'contentid' => $item->id, 'contentcommentid' => $comment->$idField) )"}' class='ipsComment_content ipsType_medium'>
+	<div class='ipsComment_header cMessage_members ipsBox ipsBox_transparent ipsAreaBackground_light ipsPad ipsPhotoPanel ipsPhotoPanel_mini'>
+		{template="userPhoto" app="core" group="global" params="$comment->author(), 'mini', $comment->warningRef()"}
+		<div>
+			<p class='ipsPos_right ipsType_light ipsType_reset ipsType_blendLinks'>
+				<a target='_blank' data-ipsTooltip title='{lang="pmviewer_ip_address_usage"}' href="{url="app=core&module=members&controller=ip&ip={$comment->ip_address}"}">{$comment->ip_address}</a> &middot; <a href='{$comment->item()->url()->setQueryString( array( 'do' => 'findComment', 'comment' => $comment->id ) )}' data-ipsTooltip title='{lang="link_to_comment"} #{$comment->id}' data-ipsMenu data-ipsMenu-closeOnClick='false' id='elShareComment_{$comment->id}'>#{$comment->id} <i class='fa fa-share-alt'></i></a>
+			</p>
+			<h3 class='ipsComment_author ipsType_blendLinks'>
+				<strong class='ipsType_normal'>{template="userLink" app="core" group="global" params="$comment->author(), $comment->warningRef()"}</strong>
+			</h3>
+			<p class='ipsComment_meta ipsType_light ipsType_medium'>
+				{$comment->dateLine()|raw}
+				{{if $comment->editLine()}}
+					({lang="edited_lc"})
+				{{endif}}
+				{{if $comment instanceof \IPS\Content\ReportCenter and !\IPS\Member::loggedIn()->group['gbw_no_report'] and $comment->hidden() !== 1 }}
+					&middot; <a href='{$comment->url('report')}' data-ipsDialog data-ipsDialog-remoteSubmit data-ipsDialog-size='medium' data-ipsDialog-flashMessage='{lang="report_submit_success"}' data-ipsDialog-title="{lang="report"}" data-action='reportComment' title='{lang="report_content"}'>{lang="report"}</a>
+				{{endif}}
+			</p>
+
+			{{if member.modPermission('mod_see_warn') and $comment->warning}}
+				{template="commentWarned" group="global" app="pmviewer" params="$comment"}
+			{{endif}}
+		</div>
+	</div>
+	<div class='ipsPad'>
+		{{if in_array( 'IPS\Content\Reputation', class_implements( $comment ) ) and settings.reputation_highlight and $comment->reputation() >= settings.reputation_highlight}}
+			<strong class='ipsComment_popularFlag' data-ipsTooltip title='{lang="this_is_a_popular_comment"}'><i class='fa fa-star'></i></strong>
+		{{endif}}
+		
+		<div data-role='commentContent' class='ipsType_normal ipsType_richText ipsType_break ipsContained' data-controller='core.front.core.lightboxedImages'>
+			{{if $comment->hidden() === 1 && $comment->author()->member_id == \IPS\Member::loggedIn()->member_id}}
+				<strong class='ipsType_medium ipsType_warning'><i class='fa fa-info-circle'></i> {lang="comment_awaiting_approval"}</strong>
+			{{endif}}
+			{$comment->content()|raw}
+			
+			{{if $comment->editLine()}}
+				{$comment->editLine()|raw}
+			{{endif}}
+		</div>
+		{{if \IPS\Member::loggedIn()->group['g_pmviewer_editposts']}}
+			<br>
+			<ul class='ipsComment_controls ipsClearfix' data-role="commentControls">
+				<li><a data-ipsDialog data-ipsDialog-title="{lang="mt_edit_msg"}" data-ipsDialog-size='medium' href='{url="app=pmviewer&module=viewer&controller=conversations&do=edit&id={$comment->$idField}"}'>{lang="edit"}</a></li>
+				{{if $comment->edited_pmviewer}}
+					<li><a data-ipsDialog data-ipsDialog-title="{lang="pmviewer_revisions"}" href='{url="app=pmviewer&module=viewer&controller=conversations&do=revisions&id={$comment->$idField}"}'>{lang="pmviewer_revisions"}</a></li>
+				{{endif}}
+			</ul>
+		{{endif}}
+	</div>
+
+	<div class='ipsMenu ipsMenu_wide ipsHide cPostShareMenu' id='elShareComment_{$comment->id}_menu'>
+		<div class='ipsPad'>
+			<h4 class='ipsType_sectionHead'>{lang="link_to_comment"}</h4>
+			<input type='text' value='{$comment->item()->url()->setQueryString( array( 'do' => 'findComment', 'comment' => $comment->id ) )}' class='ipsField_fullWidth'>
+		</div>
+	</div>
+</div>]]></template>
+ <template template_group="view" template_name="participant" template_data="$map, $conversation" template_location="admin" template_app="pmviewer"><![CDATA[<li class='ipsPhotoPanel ipsPhotoPanel_tiny {{if !$map['map_user_active'] or $map['map_user_banned']}}cMessage_leftConvo{{endif}}' data-participant="{$map['map_user_id']}">
+	{template="userPhoto" app="core" group="global" params="\IPS\Member::load( $map['map_user_id'] ), 'tiny'"}	
+	<div>
+		{{if !\IPS\Member::load( $map['map_user_id'] )->member_id}}
+			{lang="messenger_deleted_member"}<br>
+		{{else}}
+			{{if \IPS\Member::loggedIn()->group['g_pmviewer_managemembers']}}
+				<a href='#' id='elMessage{$conversation->id}_user{$map['map_user_id']}' class="cMessage_name" data-role='userActions' data-username='{member="name" id="$map['map_user_id']"}' data-ipsMenu><strong>{member="name" id="$map['map_user_id']"} <i class='fa fa-caret-down'></i></strong></a><br>
+			{{else}}
+				<strong>{member="name" id="$map['map_user_id']"}</strong><br>
+			{{endif}}
+		{{endif}}
+		<span class='ipsType_light ipsType_small' data-role='userReadInfo'>
+			{{if $map['map_user_banned']}}
+				<span class="ipsType_warning"><i class="fa fa-ban"></i> {lang="messenger_map_removed"}</span>
+			{{elseif !$map['map_user_active']}}
+				{{if $map['map_left_time']}}{lang="messenger_map_left"}{datetime="$map['map_left_time']"}{{else}}{lang="messenger_map_left_notime"}{{endif}}
+			{{else}}
+				{{if $map['map_read_time']}}{lang="messenger_map_read"}{datetime="$map['map_read_time']"}{{else}}{lang="messenger_map_not_read"}{{endif}}
+			{{endif}}
+		</span>
+	</div>
+	{{if \IPS\Member::load( $map['map_user_id'] )->member_id}}
+		<ul id='elMessage{$conversation->id}_user{$map['map_user_id']}_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+			{{if $map['map_user_active'] or $map['map_user_banned']}}
+				{{if $map['map_user_banned']}}
+					<li class='ipsMenu_item' data-ipsMenuValue='unblock'><a data-confirm href='{url="app=pmviewer&module=viewer&controller=conversations&do=unblock&id={$conversation->id}&mid={$map['map_user_id']}"}'>{lang="messenger_map_unremove"}</a></li>							
+				{{else}}
+					<li class='ipsMenu_item' data-ipsMenuValue='block'><a data-confirm href='{url="app=pmviewer&module=viewer&controller=conversations&do=block&id={$conversation->id}&mid={$map['map_user_id']}"}'>{lang="messenger_map_remove"}</a></li>
+				{{endif}}
+			{{endif}}
+		</ul>
+	{{endif}}
+</li>]]></template>
+ <template template_group="view" template_name="viewConversation" template_data="$conversation" template_location="admin" template_app="pmviewer"><![CDATA[<div class='cMessage_members ipsBox ipsBox_transparent ipsAreaBackground_light ipsPad' id='elConvoMembers_{$conversation->id}'>
+	<span class='ipsType_light'><i class='fa fa-user'></i> &nbsp;{lang="members_in_convo" pluralize="$conversation->to_count"}</span>
+	<br>
+	<ol class='ipsList_inline ipsClearfix'>
+		{{foreach $conversation->maps() as $map}}
+			{template="participant" group="view" app="pmviewer" location="admin" params="$map, $conversation"}
+		{{endforeach}}
+		{{if \IPS\Member::loggedIn()->group['g_pmviewer_managemembers']}}
+			<li data-role='addUserItem'>
+				<a class="ipsButton ipsButton_light ipsButton_narrow ipsButton_large" data-ipsDialog data-ipsDialog-size="narrow" data-ipsDialog-title="{lang="mt_join_desc"}" role="button" title="{lang="mt_join_desc"}" href='{url="app=pmviewer&module=viewer&controller=conversations&do=join&id={$conversation->id}"}'><i class='fa fa-plus'></i> <i class='fa fa-user'></i></a>
+				<div class='ipsMenu ipsMenu_wide ipsPad ipsHide' id='elInviteMember{$conversation->id}_menu'>
+					<form accept-charset='utf-8' action="{$conversation->url('addParticipant')}" method="post" data-role='addUser' data-conversation="{$conversation->id}">
+						<input type='text' class='ipsField_fullWidth' placeholder='{lang="messenger_invite_placeholder"}' name="member_names" data-ipsAutocomplete data-ipsAutocomplete-unique data-ipsAutocomplete-dataSource="{url="app=core&module=system&controller=ajax&do=findMember"}" data-ipsAutocomplete-queryParam='input' data-ipsAutocomplete-resultItemTemplate="core.autocomplete.memberItem" data-ipsAutocomplete-minLength="3"><br>
+						<button class='ipsButton ipsButton_primary ipsButton_fullWidth'>{lang="invite"}</button>
+					</form>
+				</div>
+			</li>
+		{{endif}}
+	</ol>
+</div>
+{{if !\IPS\Member::loggedIn()->group['g_pmviewer_hideunhide']}}
+	<br>
+{{else}}
+	<div class="ipsClearfix">
+		<ul class="ipsToolList ipsToolList_horizontal ipsClearfix">
+			<!--<li class="">
+				<a class="ipsButton ipsButton_alternate ipsButton_small ipsButton_fullWidth ipsButton_negative" data-confirm role="button" title="{lang="mt_delete_desc"}" href='{url="app=pmviewer&module=viewer&controller=conversations&do=delete&id={$conversation->id}"}'>
+					<i class="fa fa-trash"></i> {lang="mt_delete"}
+				</a>
+			</li>-->
+			<li class="">
+				{{if $conversation->is_hidden}}
+					<a class="ipsButton ipsButton_alternate ipsButton_positive ipsButton_small ipsButton_fullWidth" data-confirm role="button" title="{lang="mt_unhide_desc"}" href='{url="app=pmviewer&module=viewer&controller=conversations&do=unhide&id={$conversation->id}"}'>
+						<i class="fa fa-eye"></i> {lang="mt_unhide"}
+					</a>
+				{{else}}
+					<a class="ipsButton ipsButton_alternate ipsButton_small ipsButton_fullWidth" data-confirm role="button" title="{lang="mt_hide_desc"}" href='{url="app=pmviewer&module=viewer&controller=conversations&do=hide&id={$conversation->id}"}'>
+						<i class="fa fa-eye-slash"></i> {lang="mt_hide"}
+					</a>
+				{{endif}}
+			</li>
+		</ul>
+	</div>
+{{endif}}
+<div class='ipsBox'>
+	<h2 class='ipsType_sectionTitle ipsType_reset'>{lang="personal_conversation"}</h2>
+	{{$url = \IPS\Http\Url::internal( 'app=pmviewer&module=viewer&controller=conversations&do=view&id='.$conversation->id );}}
+	<div data-baseURL='{$url}' {{if $conversation->isLastPage()}}data-lastPage{{endif}} data-feedID='messages-{$conversation->id}'>
+		<div class='ipsPad_half'>
+			{{if $conversation->commentPageCount() > 1}}
+				{template="pagination" group="global" app="core" location="global" params="$url, $conversation->commentPageCount(), \IPS\Request::i()->page ? intval( \IPS\Request::i()->page ) : 1, \IPS\core\Messenger\Conversation::getCommentsPerPage(), TRUE"}
+				<br><br>
+			{{endif}}
+			<div data-role='commentFeed'>
+				{{foreach $conversation->comments() as $comment}}
+					{template="comment" group="view" location="admin" app="pmviewer" params="$comment"}
+					<hr class='ipsHr ipsClear ipsClearfix'>
+				{{endforeach}}
+			</div>
+			{{if $conversation->commentPageCount() > 1}}
+				<hr class='ipsHr'>
+				{template="pagination" group="global" app="core" location="global" params="$url, $conversation->commentPageCount(), \IPS\Request::i()->page ? intval( \IPS\Request::i()->page ) : 1, \IPS\core\Messenger\Conversation::getCommentsPerPage(), TRUE""}
+			{{endif}}
+		</div>
+	</div>
+</div>]]></template>
+</theme>

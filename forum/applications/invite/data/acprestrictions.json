@@ -1,0 +1,16 @@
+{
+    "invite": {
+        "settings": {
+            "settings_manage": "settings_manage"
+        },
+        "invite": {
+            "invite_manage": "invite_manage"
+        },
+        "bonus": {
+            "bonus_manage": "bonus_manage"
+        },
+        "members": {
+            "members_manage": "members_manage"
+        }
+    }
+}

@@ -1,0 +1,108 @@
+[
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "last_prefix",
+                "type": "VARCHAR",
+                "length": "255",
+                "null": true,
+                "comment": "AT&P: Last topic prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "tag_mode",
+                "type": "VARCHAR",
+                "length": "255",
+                "null": true,
+                "default": "inherit",
+                "comment": "AT&P: Tag mode"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "require_prefix",
+                "type": "TINYINT",
+                "length": 4,
+                "default": "0",
+                "null": true,
+                "comment": "AT&P: Require a prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "default_prefix",
+                "type": "VARCHAR",
+                "length": 255,
+                "null": true,
+                "comment": "AT&P: Default prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "default_tags",
+                "type": "MEDIUMTEXT",
+                "null": true,
+                "comment": "AT&P: Default tags"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "show_prefix_in_desc",
+                "type": "TINYINT",
+                "length": 4,
+                "default": "0",
+                "null": true,
+                "comment": "AT&P: Show prefixes on index"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_topic_mmod",
+            {
+                "name": "topic_prefix",
+                "type": "INT",
+                "length": 10,
+                "default": "-1",
+                "null": true,
+                "comment": "AT&P: Topic prefix"
+            }
+        ]
+    },
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_topic_mmod",
+            {
+                "name": "topic_add_tags",
+                "type": "MEDIUMTEXT",
+                "null": true,
+                "comment": "AT&P: Add tags"
+            }
+        ]
+    }
+]

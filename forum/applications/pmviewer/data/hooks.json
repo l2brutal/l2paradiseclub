@@ -1,0 +1,6 @@
+{
+    "pmviewer_monitoring": {
+        "type": "C",
+        "class": "\\IPS\\core\\Messenger\\Conversation"
+    }
+}

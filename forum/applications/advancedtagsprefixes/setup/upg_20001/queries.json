@@ -1,0 +1,16 @@
+[
+    {
+        "method": "addColumn",
+        "params": [
+            "forums_forums",
+            {
+                "name": "tag_mode",
+                "type": "VARCHAR",
+                "length": "255",
+                "null": true,
+                "default": "inherit",
+                "comment": "AT&P: Tag mode"
+            }
+        ]
+    }
+]
